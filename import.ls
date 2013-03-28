@@ -1,12 +1,38 @@
-require!{\fs-tools, optimist}
+require!{async, fs, \fs-tools, file, mongodb, optimist}
 
-argv = optimist .default {
-    host: \localhost
-    port: \27017
-    collection: \laweasyread
-} .argv
-if argv._.length == 0 => argv._ = ["#__dirname/data"]
+const MAP =
+    * directory: "#__dirname/data/statute"
+      collection: \statute
+    ...
 
-for path in argv._
-    fsTools.walkSync path, /\.json$/, (path, stat, callback) ->
-        console.log "Processing #path"
+main = ->
+    argv = optimist .default {
+        uri: \mongodb://localhost:27017/laweasyread
+    } .argv
+
+    err, db <- mongodb.Db.connect argv.uri
+    if err => console.log err; return
+    console.log "Open DB"
+
+    (err, res) <- async.map MAP, (map, cb) ->
+        data =
+            collection: map.collection
+            path: []
+        fsTools.walkSync map.directory, /\.json$/, (path) ->
+            data.path.push path
+        cb null, data
+    if err => console.log err
+
+    (err, res) <- async.map res, (map, cb) ->
+        (err, collection) <- db.collection map.collection
+        if err => console.log err; cb err; return
+        console.log "Open collection `#{map.collection}`"
+        (err, res) <- async.map map.path, (path, cb) ->
+            fs.readFileSync path, \utf8 |> JSON.parse |> collection.insert
+            console.log "Import #path"
+            cb null
+        cb null
+    if err => console.log err
+
+    db.close!
+main!
