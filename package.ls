@@ -8,6 +8,9 @@ scripts:
     """
 engine:
     node: \0.10.x
+dependencies:
+    \fs-tools : \~0.2.10
+    optimist: \~0.3.5
 devDependencies:
     LiveScript: \~1.1.1
 licenses:
