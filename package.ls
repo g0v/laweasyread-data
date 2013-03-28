@@ -10,6 +10,9 @@ engine:
     node: \0.10.x
 devDependencies:
     LiveScript: \~1.1.1
+licenses:
+    * type: \MIT
+      url: \https://github.com/g0v/laweasyread-data/blob/master/LICENSE
 repository:
     type: \git
     url: \http://github.com/g0v/laweasyread-data
