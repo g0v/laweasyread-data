@@ -27,7 +27,7 @@ main = ->
     (err, res) <- async.map res, (map, cb) ->
         (err, collection) <- db.collection map.collection
         if err => console.log err; cb err; return
-        console.log "Open collection `#{map.collection}`"
+        console.log "Open collection `#{map.collection}'"
         (err, res) <- async.map map.path, (path, cb) ->
             fs.readFileSync path, \utf8 |> JSON.parse |> collection.insert
             console.log "Import #path"
