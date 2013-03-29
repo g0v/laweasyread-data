@@ -3,7 +3,8 @@ mongoUri = process.env.MONGOLAB_URI or 'mongodb://localhost:27017/laweasyread'
 const MAP =
     * directory: "#__dirname/data/statute"
       collection: \statute
-    ...
+    * directory: "#__dirname/data/article"
+      collection: \article
 
 main = ->
     argv = optimist .default {
