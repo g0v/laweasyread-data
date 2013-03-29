@@ -1,5 +1,5 @@
 require!{async, fs, \fs-tools, file, mongodb, optimist}
-
+mongoUri = process.env.MONGOLAB_URI or 'mongodb://localhost:27017/laweasyread'
 const MAP =
     * directory: "#__dirname/data/statute"
       collection: \statute
@@ -7,7 +7,7 @@ const MAP =
 
 main = ->
     argv = optimist .default {
-        uri: \mongodb://localhost:27017/laweasyread
+        uri: mongoUri
     } .argv
 
     err, db <- mongodb.Db.connect argv.uri
