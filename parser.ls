@@ -99,6 +99,7 @@ parseHTML = (path) ->
                     console.error "Found keyword without date in #path/#file"
 
             | /<font size=2>立法院通過暫停適用/ => fallthrough
+            | /<font size=2>考試院令公告廢止/ => fallthrough
             | /<font size=2>國民政府明令暫緩施行/
                 if unknown_date
                     if history
