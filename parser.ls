@@ -17,6 +17,14 @@ updateHistory = (all_history, history) ->
             return
     all_history.push history
 
+updateArticle = (all_article, article) ->
+    for item, index in all_article
+        if item.article == article.article && item.content == article.content
+            if moment item.passed_date .isAfter article.passed_date
+                item.passed_date = article.passed_date
+                return
+    all_article.push article
+
 parseHTML = (path) ->
     ret =
         statute:
@@ -31,8 +39,10 @@ parseHTML = (path) ->
 
         html = fs.readFileSync "#path/#file"
 
-        var date
+        var passed_date
         var history
+
+        var article
 
         for line in html / '\n'
             match line
@@ -41,11 +51,11 @@ parseHTML = (path) ->
                 # 版本是 民國年(3) + 月(2) + 日(2) + 兩數字 組成
                 # We use ISO-8601 format as statute version
                 ret.statute.lyID = that.1
-                date = util.toISODate that.2, that.3, that.4
+                passed_date = util.toISODate that.2, that.3, that.4
 
             | /<FONT COLOR=blue SIZE=5>([^(（]+)/
                 # console.log "Match name"
-                updateName ret.statute.name, that.1, date
+                updateName ret.statute.name, that.1, passed_date
 
             | /<a href.*<font size=2>(中華民國 \d+ 年 \d+ 月 \d+ 日)/
                 # console.log "Match pass date"
@@ -63,19 +73,30 @@ parseHTML = (path) ->
                 | "公布" => history.enactment_date = date
                 | "施行" => history.enforcement_date = date
 
-            #| /<font color=8000ff>第(.*)條(?:之(.*))?/
-            #    article_no = util.parseNumber that.1 .toString!
-            #    if that.3
-            #        article_no += "-" + util.parseNumber that.3 .toString!
-            #    console.log article_no
+            | /<font color=8000ff>第(.*)條(?:之(.*))?/
+                #console.log "Match article number"
+                if article
+                    updateArticle ret.article, article
 
+                article_no = util.parseZHNumber that.1 .toString!
+                if that.3
+                    article_no += "-" + util.parseZHNumber that.3 .toString!
 
-            #
+                article =
+                    article: article_no
+                    content: ""
+                    passed_date: passed_date
+
             # http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=A0030133&DF=&SNo=8,9
-            #| /^　　(.*)<br>/
+            | /^　　(.*)<br>/
+                #console.log "Match article content"
+                article.content += that.1 + "\n"
 
         if history
             updateHistory ret.statute.history, history
+
+        if article
+            updateArticle ret.article, article
 
     ret
 
@@ -98,5 +119,5 @@ main = ->
 
         #console.log "Process #indir"
         data = parseHTML indir
-        #console.log JSON.stringify data
+        #console.log JSON.stringify data, '', 2
 main!
