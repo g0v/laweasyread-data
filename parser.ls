@@ -11,7 +11,7 @@ updateName = (name_array, new_name, date) ->
 updateHistory = (all_history, history) ->
     for item, index in all_history
         if moment item.passed_date .isAfter history.passed_date
-            all_history.slice 1, 0, history
+            all_history.slice index, 0, history
             return
         else if item.passed_date == history.passed_date
             return
