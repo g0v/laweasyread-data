@@ -100,7 +100,7 @@ parseHTML = (path) ->
                 article_no = 1 + parseInt article_no, 10
 
             | /^[^　]/
-                if article
+                if article and article.content != ""
                     updateArticle ret.article, article
                 article = void
 
