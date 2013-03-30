@@ -22,7 +22,7 @@ updateArticle = (all_article, article) ->
         if item.article == article.article && item.content == article.content
             if moment item.passed_date .isAfter article.passed_date
                 item.passed_date = article.passed_date
-                return
+            return
     all_article.push article
 
 parseHTML = (path) ->
