@@ -39,6 +39,7 @@ parseZHNumber = ->
     total = 0
 
     for zh in it
+        #console.log "#zh, #digit, #subtotal, #total"
         if ZH_DIGIT[zh] != void
             if digit != void
                 digit *= 10
@@ -61,8 +62,10 @@ parseZHNumber = ->
 
         else
             return NaN
+        #console.log "#digit, #subtotal, #total"
 
-    total += digit
+    if digit != void
+        total += digit
     total += subtotal
     total
 

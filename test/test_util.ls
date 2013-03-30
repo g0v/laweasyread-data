@@ -3,6 +3,8 @@ require!{should, \../lib/util}
 const ZH_NUMBER_DATA =
     * zh: \一
       int: 1
+    * zh: \十
+      int: 10
     * zh: \一二三四
       int: 1234
     * zh: \五千六百七十八
