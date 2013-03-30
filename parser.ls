@@ -42,6 +42,7 @@ parseHTML = (path) ->
         var passed_date
         var history
 
+        article_no = "1"
         var article
 
         for line in html / '\n'
@@ -90,7 +91,18 @@ parseHTML = (path) ->
             # http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=A0030133&DF=&SNo=8,9
             | /^　　(.*)<br>/
                 #console.log "Match article content"
+                if article == void
+                    article =
+                        article: article_no
+                        content: ""
+                        passed_date: passed_date
                 article.content += that.1 + "\n"
+                article_no = 1 + parseInt article_no, 10
+
+            | /^[^　]/
+                if article
+                    updateArticle ret.article, article
+                article = void
 
         if history
             updateHistory ret.statute.history, history
@@ -117,7 +129,12 @@ main = ->
 
         if not fs.statSync(indir).isDirectory() => continue
 
-        #console.log "Process #indir"
+        console.log "Process #indir"
         data = parseHTML indir
-        #console.log JSON.stringify data, '', 2
+
+        mkdirp.sync outdir
+        console.log "Write #outdir/article.json"
+        fs.writeFileSync "#outdir/article.json", JSON.stringify data.article, '', 2
+        console.log "Write #outdir/statute.json"
+        fs.writeFileSync "#outdir/statute.json", JSON.stringify data.statute, '', 2
 main!
