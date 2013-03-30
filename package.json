@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "prepublish": "./node_modules/.bin/lsc -cj package.ls\n./node_modules/.bin/lsc -c lib/*.ls",
-    "test": "./node_modules/.bin/lsc parser.ls\n./node_modules/.bin/lsc import.ls"
+    "test": "./node_modules/.bin/lsc test.ls"
   },
   "engine": {
     "node": "0.10.x"
@@ -22,7 +22,8 @@
     "sprintf": "~0.1.1"
   },
   "devDependencies": {
-    "LiveScript": "~1.1.1"
+    "LiveScript": "~1.1.1",
+    "should": "~1.2.2"
   },
   "licenses": {
     "type": "MIT",

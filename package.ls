@@ -9,8 +9,7 @@ scripts:
         ./node_modules/.bin/lsc -c lib/*.ls
     """
     test: """
-        ./node_modules/.bin/lsc parser.ls
-        ./node_modules/.bin/lsc import.ls
+        ./node_modules/.bin/lsc test.ls
     """
 engine:
     node: \0.10.x
@@ -25,6 +24,7 @@ dependencies:
     sprintf: \~0.1.1
 devDependencies:
     LiveScript: \~1.1.1
+    should: \~1.2.2
 licenses:
     * type: \MIT
       url: \https://github.com/g0v/laweasyread-data/blob/master/LICENSE
