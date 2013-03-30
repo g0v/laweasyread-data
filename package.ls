@@ -17,6 +17,7 @@ dependencies:
     moment: \~2.0.0
     mongodb: \~1.2.14
     optimist: \~0.3.5
+    sprintf: \~0.1.1
 devDependencies:
     LiveScript: \~1.1.1
 licenses:
