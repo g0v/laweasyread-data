@@ -7,6 +7,10 @@ scripts:
     prepublish: """
         ./node_modules/.bin/lsc -cj package.ls
     """
+    test: """
+        ./node_modules/.bin/lsc parser.ls
+        ./node_modules/.bin/lsc import.ls
+    """
 engine:
     node: \0.10.x
 dependencies:

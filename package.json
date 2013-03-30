@@ -5,7 +5,8 @@
     "ChangZhuo Chen <czchen@gmail.com>"
   ],
   "scripts": {
-    "prepublish": "./node_modules/.bin/lsc -cj package.ls"
+    "prepublish": "./node_modules/.bin/lsc -cj package.ls",
+    "test": "./node_modules/.bin/lsc parser.ls\n./node_modules/.bin/lsc imoprt.ls"
   },
   "engine": {
     "node": "0.10.x"
