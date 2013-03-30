@@ -87,6 +87,7 @@ parseHTML = (path) ->
                 unknown_date = util.toISODate that.0
 
             | /<font size=2>立法院通過停止適用/ => fallthrough
+            | /<font size=2>期滿當然廢止/ => fallthrough
             | /<font size=2>廢止.*條/
                 if unknown_date
                     if history
@@ -97,7 +98,8 @@ parseHTML = (path) ->
                 else
                     console.error "Found keyword without date in #path/#file"
 
-            | /<font size=2>立法院通過暫停適用/
+            | /<font size=2>立法院通過暫停適用/ => fallthrough
+            | /<font size=2>國民政府明令暫緩施行/
                 if unknown_date
                     if history
                         updateHistory ret.statute.history, history
@@ -106,6 +108,7 @@ parseHTML = (path) ->
                     unknown_date = void
                 else
                     console.error "Found keyword without date in #path/#file"
+
 
             | /<font color=8000ff>第(.*)條(?:之(.*))?/
                 #console.log "Match article number"
