@@ -1,4 +1,4 @@
-require!{fs, mkdirp, moment, optimist, sprintf}
+require!{fs, mkdirp, moment, optimist, \./lib/util}
 
 updateName = (name_array, new_name, date) ->
     for name in name_array
@@ -16,12 +16,6 @@ updateHistory = (all_history, history) ->
         else if item.passed_date == history.passed_date
             return
     all_history.push history
-
-toISODate = (year, month, date) ->
-    year = parseInt(year, 10)
-    month = parseInt(month, 10)
-    date = parseInt(date, 10)
-    sprintf.sprintf '%04d-%02d-%02d', year + 1911, month, date
 
 parseHTML = (path) ->
     ret =
@@ -47,27 +41,38 @@ parseHTML = (path) ->
                 # 版本是 民國年(3) + 月(2) + 日(2) + 兩數字 組成
                 # We use ISO-8601 format as statute version
                 ret.statute.lyID = that.1
-                date = toISODate that.2, that.3, that.4
+                date = util.toISODate that.2, that.3, that.4
 
             | /<FONT COLOR=blue SIZE=5>([^(（]+)/
                 # console.log "Match name"
                 updateName ret.statute.name, that.1, date
 
-            | /<a href.*<font size=2>中華民國 (\d+) 年 (\d+) 月 (\d+) 日/
+            | /<a href.*<font size=2>(中華民國 \d+ 年 \d+ 月 \d+ 日)/
                 # console.log "Match pass date"
-                date = toISODate that.1, that.2, that.3
+                date = util.toISODate that.1
                 if history
                     updateHistory ret.statute.history, history
                 history =
                     passed_date: date
 
-            | /<font size=2>中華民國 (\d+) 年 (\d+) 月 (\d+) 日(公布|施行)/
+            | /<font size=2>(中華民國 \d+ 年 \d+ 月 \d+ 日)(公布|施行)/
                 #console.log "Match enactment / enforcement date"
-                date = toISODate that.1, that.2, that.3
+                date = util.toISODate that.1
 
-                match that.4
+                match that.2
                 | "公布" => history.enactment_date = date
                 | "施行" => history.enforcement_date = date
+
+            #| /<font color=8000ff>第(.*)條(?:之(.*))?/
+            #    article_no = util.parseNumber that.1 .toString!
+            #    if that.3
+            #        article_no += "-" + util.parseNumber that.3 .toString!
+            #    console.log article_no
+
+
+            #
+            # http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=A0030133&DF=&SNo=8,9
+            #| /^　　(.*)<br>/
 
         if history
             updateHistory ret.statute.history, history

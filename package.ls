@@ -6,6 +6,7 @@ contributors:
 scripts:
     prepublish: """
         ./node_modules/.bin/lsc -cj package.ls
+        ./node_modules/.bin/lsc -c lib/*.ls
     """
     test: """
         ./node_modules/.bin/lsc parser.ls
