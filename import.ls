@@ -1,10 +1,17 @@
 require!{async, fs, \fs-tools, file, mongodb, optimist}
 mongoUri = process.env.MONGOLAB_URI or 'mongodb://localhost:27017/laweasyread'
-const MAP =
-    * directory: "#__dirname/data/statute"
-      collection: \statute
-    * directory: "#__dirname/data/article"
-      collection: \article
+
+create_task = (db, collection, data) ->
+    (cb) ->
+        (err, collection) <- db.collection collection
+        #console.log "Open collection"
+        if err => cb err; return
+        (err, res) <- async.map data, (path, cb) ->
+            #console.log "Write #path"
+            fs.readFileSync path, \utf8 |> JSON.parse |> collection.insert
+            cb null
+        if err => cb err; return
+        cb null
 
 main = ->
     argv = optimist .default {
@@ -13,27 +20,25 @@ main = ->
 
     err, db <- mongodb.Db.connect argv.uri
     if err => console.log err; return
-    console.log "Open DB"
+    #console.log "Open DB"
 
-    (err, res) <- async.map MAP, (map, cb) ->
-        data =
-            collection: map.collection
-            path: []
-        fsTools.walkSync map.directory, /\.json$/, (path) ->
-            data.path.push path
-        cb null, data
-    if err => console.log err
+    data =
+        article: []
+        statute: []
 
-    (err, res) <- async.map res, (map, cb) ->
-        (err, collection) <- db.collection map.collection
-        if err => console.log err; cb err; return
-        console.log "Open collection `#{map.collection}'"
-        (err, res) <- async.map map.path, (path, cb) ->
-            fs.readFileSync path, \utf8 |> JSON.parse |> collection.insert
-            console.log "Import #path"
-            cb null
-        cb null
-    if err => console.log err
+    fsTools.walkSync "#__dirname/data", /article\.json$/, (path) ->
+        data.article.push path
+
+    fsTools.walkSync "#__dirname/data", /statute\.json$/, (path) ->
+        data.statute.push path
+
+    (err, res) <- async.map (Object.keys data), (key, cb) ->
+        cb null, (create_task db, key, data[key])
+
+    (err, res) <- async.parallel res
 
     db.close!
+
+    console.log "Done"
+
 main!
