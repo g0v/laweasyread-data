@@ -10,5 +10,14 @@ const ZH_NUMBER_DATA =
     * zh: \一萬零五拾七
       int: 10057
 
+const DATE_DATA =
+    * zh: "中華民國 102 年 3 月 31 日"
+      date: \2013-03-31
+    * zh: "民國 一百零二 年 三 月 三十一 號"
+      date: \2013-03-31
+
 for data in ZH_NUMBER_DATA
     util.parseZHNumber data.zh .should.equal data.int
+
+for data in DATE_DATA
+    util.toISODate data.zh .should.equal data.date

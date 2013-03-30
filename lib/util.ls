@@ -71,7 +71,7 @@ toISODate = ->
     var month
     var date
     if arguments.length == 1
-        m = /(中華)?民國\s*(\S+)\s*年\s*(\S+)\s*月\s*(\S+)\s*日/.exec arguments.0
+        m = /(中華)?民國\s*(\S+)\s*年\s*(\S+)\s*月\s*(\S+)\s*(日|號)/.exec arguments.0
         if not m
             return ""
         year = m.2
