@@ -12,7 +12,11 @@
     },
     {
       "passed_date": "1943-09-15",
-      "enactment_date": "2004-01-20"
+      "enactment_date": "1943-09-27"
+    },
+    {
+      "suspended": "1945-08-23",
+      "enactment_date": "1945-08-23"
     }
   ],
   "lyID": "02404"

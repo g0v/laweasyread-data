@@ -50,6 +50,10 @@
     },
     {
       "passed_date": "2009-01-13",
+      "enactment_date": "2009-01-23"
+    },
+    {
+      "discarded_date": "2010-04-16",
       "enactment_date": "2010-05-12"
     }
   ],

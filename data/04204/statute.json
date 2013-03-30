@@ -33,6 +33,10 @@
     },
     {
       "passed_date": "1988-03-09",
+      "enactment_date": "1988-03-11"
+    },
+    {
+      "discarded_date": "2003-05-27",
       "enactment_date": "2003-06-11"
     }
   ],

@@ -45,6 +45,10 @@
     },
     {
       "passed_date": "1980-11-07",
+      "enactment_date": "1980-11-24"
+    },
+    {
+      "discarded_date": "1986-01-10",
       "enactment_date": "1986-01-24"
     }
   ],

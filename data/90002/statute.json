@@ -8,8 +8,12 @@
   "history": [
     {
       "passed_date": "1937-11-17",
-      "enactment_date": "1972-07-26",
+      "enactment_date": "1938-01-13",
       "enforcement_date": "1938-11-01"
+    },
+    {
+      "discarded_date": "1972-07-14",
+      "enactment_date": "1972-07-26"
     }
   ],
   "lyID": "90002"

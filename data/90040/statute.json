@@ -8,8 +8,12 @@
   "history": [
     {
       "passed_date": "1936-06-12",
-      "enactment_date": "1986-11-24",
+      "enactment_date": "1936-06-25",
       "enforcement_date": "1950-09-01"
+    },
+    {
+      "discarded_date": "1986-11-11",
+      "enactment_date": "1986-11-24"
     }
   ],
   "lyID": "90040"

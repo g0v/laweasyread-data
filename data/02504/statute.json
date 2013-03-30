@@ -28,6 +28,10 @@
     },
     {
       "passed_date": "1995-12-19",
+      "enactment_date": "1996-01-10"
+    },
+    {
+      "discarded_date": "2011-05-20",
       "enactment_date": "2011-06-08"
     }
   ],

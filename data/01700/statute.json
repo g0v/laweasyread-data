@@ -8,6 +8,10 @@
   "history": [
     {
       "passed_date": "1985-10-11",
+      "enactment_date": "1985-10-23"
+    },
+    {
+      "discarded_date": "1999-12-07",
       "enactment_date": "1999-12-29"
     }
   ],

@@ -13,7 +13,11 @@
     },
     {
       "passed_date": "1948-12-31",
-      "enactment_date": "2003-05-28"
+      "enactment_date": "1949-01-20"
+    },
+    {
+      "discarded_date": "1972-03-07",
+      "enactment_date": "1972-03-18"
     }
   ],
   "lyID": "04828"

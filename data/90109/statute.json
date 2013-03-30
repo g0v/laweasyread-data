@@ -12,6 +12,10 @@
     },
     {
       "passed_date": "1962-01-16",
+      "enactment_date": "1962-01-25"
+    },
+    {
+      "discarded_date": "1970-11-13",
       "enactment_date": "1970-11-25"
     }
   ],

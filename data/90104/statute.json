@@ -8,7 +8,11 @@
   "history": [
     {
       "passed_date": "1946-05-11",
-      "enactment_date": "1973-04-12"
+      "enactment_date": "1946-06-28"
+    },
+    {
+      "discarded_date": "1972-03-07",
+      "enactment_date": "1972-03-20"
     }
   ],
   "lyID": "90104"

@@ -44,6 +44,10 @@
     },
     {
       "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-12"
+    },
+    {
+      "discarded_date": "1992-04-10",
       "enactment_date": "1992-04-27"
     }
   ],

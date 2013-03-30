@@ -28,8 +28,12 @@
     },
     {
       "passed_date": "2006-05-05",
-      "enactment_date": "2009-01-21",
+      "enactment_date": "2006-05-30",
       "enforcement_date": "2006-07-01"
+    },
+    {
+      "discarded_date": "2009-01-06",
+      "enactment_date": "2009-01-21"
     }
   ],
   "lyID": "04549"

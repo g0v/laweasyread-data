@@ -24,8 +24,12 @@
     },
     {
       "passed_date": "1966-04-26",
-      "enactment_date": "1977-07-14",
+      "enactment_date": "1966-05-06",
       "enforcement_date": "1967-01-01"
+    },
+    {
+      "discarded_date": "1977-07-01",
+      "enactment_date": "1977-07-14"
     }
   ],
   "lyID": "90083"

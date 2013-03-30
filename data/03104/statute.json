@@ -21,6 +21,10 @@
     },
     {
       "passed_date": "2000-04-28",
+      "enactment_date": "2000-05-17"
+    },
+    {
+      "discarded_date": "2000-10-13",
       "enactment_date": "2000-11-01"
     }
   ],
