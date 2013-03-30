@@ -4,3 +4,8 @@ node_js:
 
 services:
     - mongodb
+
+script:
+    - npm test
+    - ./node_modules/.bin/lsc parser.ls
+    - ./node_modules/.bin/lsc import.ls
