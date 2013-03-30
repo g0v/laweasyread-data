@@ -40,6 +40,7 @@ parseHTML = (path) ->
         html = fs.readFileSync "#path/#file"
 
         var passed_date
+        var unknown_date
         var history
 
         article_no = "1"
@@ -71,8 +72,40 @@ parseHTML = (path) ->
                 date = util.toISODate that.1
 
                 match that.2
-                | "公布" => history.enactment_date = date
-                | "施行" => history.enforcement_date = date
+                | "公布"
+                    if history.enactment_date == void
+                        history.enactment_date = date
+                    else
+                        console.error "Found another enactment date in #path/#file"
+                | "施行"
+                    if history.enforcement_date == void
+                        history.enforcement_date = date
+                    else
+                        console.error "Found another enforcement date in #path/#file"
+
+            | /(中華民國 \d+ 年 \d+ 月 \d+ 日)/
+                unknown_date = util.toISODate that.0
+
+            | /<font size=2>立法院通過停止適用/ => fallthrough
+            | /<font size=2>廢止.*條/
+                if unknown_date
+                    if history
+                        updateHistory ret.statute.history, history
+                    history =
+                        discarded_date: unknown_date
+                    unknown_date = void
+                else
+                    console.error "Found keyword without date in #path/#file"
+
+            | /<font size=2>立法院通過暫停適用/
+                if unknown_date
+                    if history
+                        updateHistory ret.statute.history, history
+                    history =
+                        suspended: unknown_date
+                    unknown_date = void
+                else
+                    console.error "Found keyword without date in #path/#file"
 
             | /<font color=8000ff>第(.*)條(?:之(.*))?/
                 #console.log "Match article number"
