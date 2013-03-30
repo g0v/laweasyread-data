@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "陸海空軍軍旗條例",
+      "start_date": "1985-12-17"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1985-12-17",
+      "enactment_date": "1986-01-03"
+    },
+    {
+      "passed_date": "2002-06-04",
+      "enactment_date": "2002-06-26"
+    },
+    {
+      "passed_date": "2003-04-29",
+      "enactment_date": "2003-05-21"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-04"
+    }
+  ],
+  "lyID": "01425"
+}

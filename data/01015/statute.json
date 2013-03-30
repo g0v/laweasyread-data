@@ -1,0 +1,51 @@
+{
+  "name": [
+    {
+      "name": "財政部組織法",
+      "start_date": "1928-12-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1928-12-08",
+      "enactment_date": "1928-12-08"
+    },
+    {
+      "passed_date": "1929-04-27",
+      "enactment_date": "1929-05-09"
+    },
+    {
+      "passed_date": "1931-02-14",
+      "enactment_date": "1931-02-21"
+    },
+    {
+      "passed_date": "1936-03-20",
+      "enactment_date": "1936-07-14"
+    },
+    {
+      "passed_date": "1940-01-27",
+      "enactment_date": "1940-03-26"
+    },
+    {
+      "passed_date": "1941-11-01",
+      "enactment_date": "1941-11-24"
+    },
+    {
+      "passed_date": "1943-03-13",
+      "enactment_date": "1943-03-31"
+    },
+    {
+      "passed_date": "1981-01-23",
+      "enactment_date": "1981-02-02"
+    },
+    {
+      "passed_date": "1991-05-17",
+      "enactment_date": "1991-05-31"
+    },
+    {
+      "passed_date": "2012-01-20",
+      "enactment_date": "2012-02-03"
+    }
+  ],
+  "lyID": "01015"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "科學技術基本法",
+      "start_date": "1998-12-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1998-12-29",
+      "enactment_date": "1999-01-20"
+    },
+    {
+      "passed_date": "2003-05-13",
+      "enactment_date": "2003-05-28"
+    },
+    {
+      "passed_date": "2004-12-24",
+      "enactment_date": "2005-01-19"
+    },
+    {
+      "passed_date": "2011-11-25",
+      "enactment_date": "2011-12-14"
+    }
+  ],
+  "lyID": "02807"
+}

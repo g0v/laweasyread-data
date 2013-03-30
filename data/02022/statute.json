@@ -1,0 +1,61 @@
+{
+  "name": [
+    {
+      "name": "簡易人壽保險法",
+      "start_date": "1935-04-26"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-04-26",
+      "enactment_date": "1935-05-10",
+      "enforcement_date": "1935-12-01"
+    },
+    {
+      "passed_date": "1935-10-09",
+      "enactment_date": "1935-10-19"
+    },
+    {
+      "passed_date": "1942-05-16",
+      "enactment_date": "1942-05-27"
+    },
+    {
+      "passed_date": "1943-02-27",
+      "enactment_date": "1943-03-10"
+    },
+    {
+      "passed_date": "1944-09-20",
+      "enactment_date": "1944-10-06"
+    },
+    {
+      "passed_date": "1947-05-15",
+      "enactment_date": "1947-05-28"
+    },
+    {
+      "passed_date": "1947-10-21",
+      "enactment_date": "1947-11-04"
+    },
+    {
+      "passed_date": "1990-11-30",
+      "enactment_date": "1990-12-17"
+    },
+    {
+      "passed_date": "1998-10-01",
+      "enactment_date": "1998-10-21"
+    },
+    {
+      "passed_date": "2002-06-11",
+      "enactment_date": "2002-07-10",
+      "enforcement_date": "2003-01-01"
+    },
+    {
+      "passed_date": "2006-04-28",
+      "enactment_date": "2006-05-17"
+    },
+    {
+      "passed_date": "2010-12-14",
+      "enactment_date": "2010-12-29"
+    }
+  ],
+  "lyID": "02022"
+}

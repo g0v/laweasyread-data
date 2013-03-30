@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "勳章條例",
+      "start_date": "1941-01-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1941-01-24",
+      "enactment_date": "1941-02-12"
+    },
+    {
+      "passed_date": "1942-03-14",
+      "enactment_date": "1942-03-25"
+    },
+    {
+      "passed_date": "1945-08-30",
+      "enactment_date": "1945-09-11"
+    },
+    {
+      "passed_date": "1946-08-29",
+      "enactment_date": "1946-09-07"
+    },
+    {
+      "passed_date": "1947-11-29",
+      "enactment_date": "1947-12-10"
+    },
+    {
+      "passed_date": "1979-12-28",
+      "enactment_date": "1980-01-11"
+    },
+    {
+      "passed_date": "1981-11-20",
+      "enactment_date": "1981-12-07"
+    }
+  ],
+  "lyID": "04315"
+}

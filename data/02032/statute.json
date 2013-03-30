@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "氣象法",
+      "start_date": "1984-04-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1984-04-24",
+      "enactment_date": "1984-04-30"
+    },
+    {
+      "passed_date": "2003-01-13",
+      "enactment_date": "2003-02-06"
+    }
+  ],
+  "lyID": "02032"
+}

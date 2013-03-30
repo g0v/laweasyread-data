@@ -1,0 +1,59 @@
+{
+  "name": [
+    {
+      "name": "自來水法",
+      "start_date": "1966-11-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1966-11-04",
+      "enactment_date": "1966-11-17"
+    },
+    {
+      "passed_date": "1995-06-13",
+      "enactment_date": "1995-06-29"
+    },
+    {
+      "passed_date": "1997-04-29",
+      "enactment_date": "1997-05-21"
+    },
+    {
+      "passed_date": "2002-11-26",
+      "enactment_date": "2002-12-18"
+    },
+    {
+      "passed_date": "2004-06-11",
+      "enactment_date": "2004-06-30"
+    },
+    {
+      "passed_date": "2005-04-29",
+      "enactment_date": "2005-05-18"
+    },
+    {
+      "passed_date": "2007-01-05",
+      "enactment_date": "2007-01-24"
+    },
+    {
+      "passed_date": "2009-01-09",
+      "enactment_date": "2009-01-21"
+    },
+    {
+      "passed_date": "2010-01-07",
+      "enactment_date": "2010-01-27"
+    },
+    {
+      "passed_date": "2010-05-25",
+      "enactment_date": "2010-06-15"
+    },
+    {
+      "passed_date": "2012-12-04",
+      "enactment_date": "2012-12-19"
+    },
+    {
+      "passed_date": "2012-12-28",
+      "enactment_date": "2013-01-16"
+    }
+  ],
+  "lyID": "01164"
+}

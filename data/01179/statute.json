@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "少年福利法",
+      "start_date": "1989-01-10"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1989-01-10",
+      "enactment_date": "1989-01-23"
+    },
+    {
+      "passed_date": "2000-05-26",
+      "enactment_date": "2000-06-14"
+    },
+    {
+      "passed_date": "2002-05-31",
+      "enactment_date": "2004-06-02"
+    }
+  ],
+  "lyID": "01179"
+}

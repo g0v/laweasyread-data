@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "警械使用條例",
+      "start_date": "1933-09-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1933-09-15",
+      "enactment_date": "1933-09-25"
+    },
+    {
+      "passed_date": "1968-11-08",
+      "enactment_date": "1968-11-22"
+    },
+    {
+      "passed_date": "1985-01-08",
+      "enactment_date": "1985-01-18"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-05-29"
+    },
+    {
+      "passed_date": "2002-06-04",
+      "enactment_date": "2002-06-26"
+    }
+  ],
+  "lyID": "01171"
+}

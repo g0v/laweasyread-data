@@ -1,0 +1,66 @@
+{
+  "name": [
+    {
+      "name": "法務部組織法",
+      "start_date": "1980-06-10"
+    },
+    {
+      "name": "司法行政部組織法",
+      "start_date": "1928-11-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1928-11-19",
+      "enactment_date": "1928-11-19"
+    },
+    {
+      "passed_date": "1929-04-06",
+      "enactment_date": "1929-04-17"
+    },
+    {
+      "passed_date": "1936-10-02",
+      "enactment_date": "1936-11-03"
+    },
+    {
+      "passed_date": "1942-07-10",
+      "enactment_date": "1942-07-28"
+    },
+    {
+      "passed_date": "1943-01-30",
+      "enactment_date": "1943-02-13"
+    },
+    {
+      "passed_date": "1956-04-06",
+      "enactment_date": "1956-04-19"
+    },
+    {
+      "passed_date": "1980-06-10",
+      "enactment_date": "1980-06-29"
+    },
+    {
+      "passed_date": "1997-04-08",
+      "enactment_date": "1997-04-23"
+    },
+    {
+      "passed_date": "1997-05-06",
+      "enactment_date": "1997-05-28"
+    },
+    {
+      "passed_date": "2010-08-19",
+      "enactment_date": "2010-09-01",
+      "enforcement_date": "2011-01-01"
+    },
+    {
+      "passed_date": "2011-04-01",
+      "enactment_date": "2011-04-20",
+      "enforcement_date": "2011-07-20"
+    },
+    {
+      "passed_date": "2011-06-14",
+      "enactment_date": "2011-06-29",
+      "enforcement_date": "2012-01-01"
+    }
+  ],
+  "lyID": "01018"
+}

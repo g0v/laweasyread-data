@@ -1,0 +1,44 @@
+{
+  "name": [
+    {
+      "name": "罰金罰鍰提高標準條例",
+      "start_date": "1991-04-19"
+    },
+    {
+      "name": "戡亂時期罰金罰鍰提高標準條例",
+      "start_date": "1983-06-10"
+    },
+    {
+      "name": "戡亂時期罰金罰鍰裁判費執行費公證費提高標準條例",
+      "start_date": "1962-05-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1962-05-15",
+      "enactment_date": "1962-05-25"
+    },
+    {
+      "passed_date": "1969-12-26",
+      "enactment_date": "1970-01-09"
+    },
+    {
+      "passed_date": "1983-06-10",
+      "enactment_date": "1983-06-24"
+    },
+    {
+      "passed_date": "1991-04-19",
+      "enactment_date": "1991-05-06"
+    },
+    {
+      "passed_date": "1993-01-08",
+      "enactment_date": "1993-02-05"
+    },
+    {
+      "passed_date": "2006-04-28",
+      "enactment_date": "2009-04-29",
+      "enforcement_date": "2006-07-01"
+    }
+  ],
+  "lyID": "01813"
+}

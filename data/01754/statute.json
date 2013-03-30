@@ -1,0 +1,25 @@
+{
+  "name": [
+    {
+      "name": "教育經費編列與管理法",
+      "start_date": "2000-11-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2000-11-28",
+      "enactment_date": "2000-12-13"
+    },
+    {
+      "passed_date": "2011-03-29",
+      "enactment_date": "2011-04-13",
+      "enforcement_date": "2012-01-01"
+    },
+    {
+      "passed_date": "2011-12-09",
+      "enactment_date": "2011-12-28",
+      "enforcement_date": "2012-01-01"
+    }
+  ],
+  "lyID": "01754"
+}

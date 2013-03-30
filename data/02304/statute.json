@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "統計法",
+      "start_date": "1932-10-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1932-10-01",
+      "enactment_date": "1932-10-09",
+      "enforcement_date": "1934-05-01"
+    },
+    {
+      "passed_date": "1938-08-12",
+      "enactment_date": "1938-08-20"
+    },
+    {
+      "passed_date": "1947-09-15",
+      "enactment_date": "1947-09-29"
+    },
+    {
+      "passed_date": "1972-05-16",
+      "enactment_date": "1972-05-26"
+    }
+  ],
+  "lyID": "02304"
+}

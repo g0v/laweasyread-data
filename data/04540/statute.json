@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "妨害國家總動員懲罰暫行條例",
+      "start_date": "1942-06-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1942-06-20",
+      "enactment_date": "1942-06-29",
+      "enforcement_date": "1942-08-01"
+    },
+    {
+      "passed_date": "1949-09-05",
+      "enactment_date": "1949-09-05"
+    },
+    {
+      "passed_date": "1950-05-23",
+      "enactment_date": "1950-06-03"
+    },
+    {
+      "passed_date": "1953-12-11",
+      "enactment_date": "2004-01-07"
+    }
+  ],
+  "lyID": "04540"
+}

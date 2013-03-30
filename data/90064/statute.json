@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "度量衡器及計量器營業條例",
+      "start_date": "1954-03-08"
+    },
+    {
+      "name": "度量衡器具營業條例",
+      "start_date": "1930-08-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-08-24",
+      "enactment_date": "1930-09-01"
+    },
+    {
+      "passed_date": "1943-11-16",
+      "enactment_date": "1944-12-07"
+    },
+    {
+      "passed_date": "1946-10-29",
+      "enactment_date": "1946-11-09"
+    },
+    {
+      "passed_date": "1954-03-08",
+      "enactment_date": "1984-04-18"
+    }
+  ],
+  "lyID": "90064"
+}

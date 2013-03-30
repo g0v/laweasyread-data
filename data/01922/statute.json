@@ -1,0 +1,51 @@
+{
+  "name": [
+    {
+      "name": "電業法",
+      "start_date": "1947-11-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-11-29",
+      "enactment_date": "1947-12-10"
+    },
+    {
+      "passed_date": "1948-04-19",
+      "enactment_date": "1948-05-08"
+    },
+    {
+      "passed_date": "1965-05-11",
+      "enactment_date": "1965-05-21"
+    },
+    {
+      "passed_date": "2002-04-02",
+      "enactment_date": "2002-04-24"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2004-12-24",
+      "enactment_date": "2005-01-19"
+    },
+    {
+      "passed_date": "2007-03-05",
+      "enactment_date": "2007-03-21"
+    },
+    {
+      "passed_date": "2011-01-07",
+      "enactment_date": "2011-01-26"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26"
+    },
+    {
+      "passed_date": "2012-07-26",
+      "enactment_date": "2012-08-08"
+    }
+  ],
+  "lyID": "01922"
+}

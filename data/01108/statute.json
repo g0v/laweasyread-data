@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "中央警官學校組織條例",
+      "start_date": "1938-11-11"
+    },
+    {
+      "name": "中央警察大學組織條例",
+      "start_date": "1995-12-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1938-11-11",
+      "enactment_date": "1938-11-16"
+    },
+    {
+      "passed_date": "1946-02-28",
+      "enactment_date": "1946-03-14"
+    },
+    {
+      "passed_date": "1972-03-21",
+      "enactment_date": "1972-04-01"
+    },
+    {
+      "passed_date": "1976-03-12",
+      "enactment_date": "1976-03-25"
+    },
+    {
+      "passed_date": "1983-11-29",
+      "enactment_date": "1983-12-12"
+    },
+    {
+      "passed_date": "1995-12-12",
+      "enactment_date": "1995-12-20"
+    }
+  ],
+  "lyID": "01108"
+}

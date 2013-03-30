@@ -1,0 +1,41 @@
+{
+  "name": [
+    {
+      "name": "軍人撫卹條例",
+      "start_date": "1948-12-07"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-12-07",
+      "enactment_date": "1949-01-07"
+    },
+    {
+      "passed_date": "1967-04-28",
+      "enactment_date": "1967-05-11"
+    },
+    {
+      "passed_date": "1991-03-13",
+      "enactment_date": "1991-03-27"
+    },
+    {
+      "passed_date": "1996-09-13",
+      "enactment_date": "1996-10-02",
+      "enforcement_date": "1997-01-01"
+    },
+    {
+      "passed_date": "2002-12-10",
+      "enactment_date": "2002-12-27"
+    },
+    {
+      "passed_date": "2009-05-15",
+      "enactment_date": "2009-06-03",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2011-03-29",
+      "enactment_date": "2011-04-13"
+    }
+  ],
+  "lyID": "01416"
+}

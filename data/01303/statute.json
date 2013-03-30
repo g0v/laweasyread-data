@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "護照條例",
+      "start_date": "1967-06-30"
+    },
+    {
+      "name": "出國護照條例",
+      "start_date": "1944-06-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1944-06-28",
+      "enactment_date": "1944-07-22"
+    },
+    {
+      "passed_date": "1952-02-19",
+      "enactment_date": "1952-03-03"
+    },
+    {
+      "passed_date": "1967-06-30",
+      "enactment_date": "1967-07-10"
+    },
+    {
+      "passed_date": "1989-06-09",
+      "enactment_date": "1989-06-23"
+    },
+    {
+      "passed_date": "1994-12-27",
+      "enactment_date": "1995-01-11"
+    },
+    {
+      "passed_date": "2000-04-28",
+      "enactment_date": "2000-05-17",
+      "enforcement_date": "2000-05-21"
+    }
+  ],
+  "lyID": "01303"
+}

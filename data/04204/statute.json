@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "國民大會代表選舉罷免法",
+      "start_date": "1947-03-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-03-25",
+      "enactment_date": "1947-03-31",
+      "enforcement_date": "1947-05-01"
+    },
+    {
+      "passed_date": "1947-07-04",
+      "enactment_date": "1947-07-05"
+    },
+    {
+      "passed_date": "1947-09-25",
+      "enactment_date": "1947-10-03"
+    },
+    {
+      "passed_date": "1947-10-21",
+      "enactment_date": "1947-10-30"
+    },
+    {
+      "passed_date": "1947-10-30",
+      "enactment_date": "1947-11-08"
+    },
+    {
+      "passed_date": "1947-11-07",
+      "enactment_date": "1947-11-13"
+    },
+    {
+      "passed_date": "1988-03-09",
+      "enactment_date": "2003-06-11"
+    }
+  ],
+  "lyID": "04204"
+}

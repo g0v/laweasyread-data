@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "土地徵收條例",
+      "start_date": "2000-01-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2000-01-13",
+      "enactment_date": "2000-02-02"
+    },
+    {
+      "passed_date": "2002-11-22",
+      "enactment_date": "2002-12-11"
+    },
+    {
+      "passed_date": "2011-12-13",
+      "enactment_date": "2012-01-04"
+    }
+  ],
+  "lyID": "01229"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "典試法",
+      "start_date": "1935-07-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-07-12",
+      "enactment_date": "1935-07-31"
+    },
+    {
+      "passed_date": "1948-11-23",
+      "enactment_date": "1948-12-14"
+    },
+    {
+      "passed_date": "1961-01-10",
+      "enactment_date": "1961-01-20"
+    },
+    {
+      "passed_date": "1968-12-03",
+      "enactment_date": "1988-11-11"
+    }
+  ],
+  "lyID": "90095"
+}

@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "考試院組織法",
+      "start_date": "1947-03-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-03-27",
+      "enactment_date": "1947-03-31"
+    },
+    {
+      "passed_date": "1947-12-23",
+      "enactment_date": "1947-12-25",
+      "enforcement_date": "1948-06-24"
+    },
+    {
+      "passed_date": "1960-11-11",
+      "enactment_date": "1960-11-21"
+    },
+    {
+      "passed_date": "1967-06-06",
+      "enactment_date": "1967-06-19"
+    },
+    {
+      "passed_date": "1994-06-14",
+      "enactment_date": "1994-07-01"
+    }
+  ],
+  "lyID": "04601"
+}

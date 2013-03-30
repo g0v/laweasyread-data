@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "鐵路法",
+      "start_date": "1957-12-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1957-12-20",
+      "enactment_date": "1958-01-03"
+    },
+    {
+      "passed_date": "1959-01-09",
+      "enactment_date": "1959-01-21"
+    },
+    {
+      "passed_date": "1978-07-14",
+      "enactment_date": "1978-07-26"
+    },
+    {
+      "passed_date": "2001-05-08",
+      "enactment_date": "2001-05-23"
+    },
+    {
+      "passed_date": "2003-06-06",
+      "enactment_date": "2003-06-25"
+    },
+    {
+      "passed_date": "2006-01-13",
+      "enactment_date": "2006-02-03"
+    }
+  ],
+  "lyID": "02014"
+}

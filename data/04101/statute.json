@@ -1,0 +1,16 @@
+{
+  "name": [
+    {
+      "name": "中華民國憲法",
+      "start_date": "1946-12-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-12-25",
+      "enactment_date": "1947-01-01",
+      "enforcement_date": "1947-12-25"
+    }
+  ],
+  "lyID": "04101"
+}

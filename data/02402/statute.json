@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "出版法",
+      "start_date": "1930-11-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-11-29",
+      "enactment_date": "1930-12-16"
+    },
+    {
+      "passed_date": "1935-07-12",
+      "enactment_date": "1935-07-12"
+    },
+    {
+      "passed_date": "1936-11-27",
+      "enactment_date": "1937-07-08"
+    },
+    {
+      "passed_date": "1952-03-25",
+      "enactment_date": "1952-04-09"
+    },
+    {
+      "passed_date": "1958-06-20",
+      "enactment_date": "1958-06-28"
+    },
+    {
+      "passed_date": "1973-07-31",
+      "enactment_date": "1973-08-10"
+    },
+    {
+      "passed_date": "1997-04-15",
+      "enactment_date": "1999-01-25"
+    }
+  ],
+  "lyID": "02402"
+}

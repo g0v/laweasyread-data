@@ -1,0 +1,21 @@
+{
+  "name": [
+    {
+      "name": "溫泉法",
+      "start_date": "2003-06-03"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2003-06-03",
+      "enactment_date": "2003-07-02",
+      "enforcement_date": "2005-07-01"
+    },
+    {
+      "passed_date": "2010-04-20",
+      "enactment_date": "2010-05-12",
+      "enforcement_date": "2010-07-01"
+    }
+  ],
+  "lyID": "02076"
+}

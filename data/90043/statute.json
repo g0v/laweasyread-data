@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "屠宰稅法",
+      "start_date": "1943-08-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1943-08-28",
+      "enactment_date": "1943-09-16"
+    },
+    {
+      "passed_date": "1946-11-22",
+      "enactment_date": "1946-12-04"
+    },
+    {
+      "passed_date": "1947-10-21",
+      "enactment_date": "1947-11-14"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-17"
+    },
+    {
+      "passed_date": "1955-12-27",
+      "enactment_date": "1955-12-31"
+    },
+    {
+      "passed_date": "1962-08-24",
+      "enactment_date": "1987-04-24"
+    }
+  ],
+  "lyID": "90043"
+}

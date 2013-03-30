@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "鹽政條例",
+      "start_date": "1947-02-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-02-20",
+      "enactment_date": "1947-03-12"
+    },
+    {
+      "passed_date": "1947-12-06",
+      "enactment_date": "1947-12-24"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-14"
+    },
+    {
+      "passed_date": "1954-12-24",
+      "enactment_date": "1955-01-05"
+    },
+    {
+      "passed_date": "1977-06-28",
+      "enactment_date": "1977-06-29"
+    },
+    {
+      "passed_date": "1981-11-06",
+      "enactment_date": "2004-01-20"
+    }
+  ],
+  "lyID": "01944"
+}

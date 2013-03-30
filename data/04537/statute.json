@@ -1,0 +1,49 @@
+{
+  "name": [
+    {
+      "name": "中華民國刑法施行法",
+      "start_date": "1935-03-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-03-15",
+      "enactment_date": "1935-04-01",
+      "enforcement_date": "1935-07-01"
+    },
+    {
+      "passed_date": "1997-11-11",
+      "enactment_date": "1997-11-26"
+    },
+    {
+      "passed_date": "1999-03-30",
+      "enactment_date": "1999-04-21"
+    },
+    {
+      "passed_date": "2001-01-04",
+      "enactment_date": "2001-01-10"
+    },
+    {
+      "passed_date": "2005-01-07",
+      "enactment_date": "2005-02-02",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2006-05-19",
+      "enactment_date": "2006-06-14"
+    },
+    {
+      "passed_date": "2009-01-09",
+      "enactment_date": "2009-01-21"
+    },
+    {
+      "passed_date": "2009-05-19",
+      "enactment_date": "2009-06-10"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2009-12-30"
+    }
+  ],
+  "lyID": "04537"
+}

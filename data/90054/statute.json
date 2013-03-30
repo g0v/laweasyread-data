@@ -1,0 +1,47 @@
+{
+  "name": [
+    {
+      "name": "電影檢查法",
+      "start_date": "1930-10-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-10-11",
+      "enactment_date": "1930-11-03"
+    },
+    {
+      "passed_date": "1934-05-04",
+      "enactment_date": "1934-05-15"
+    },
+    {
+      "passed_date": "1935-03-27",
+      "enactment_date": "1935-04-04"
+    },
+    {
+      "passed_date": "1943-07-10",
+      "enactment_date": "1943-07-28"
+    },
+    {
+      "passed_date": "1948-11-11",
+      "enactment_date": "1948-11-26"
+    },
+    {
+      "passed_date": "1955-01-11",
+      "enactment_date": "1955-01-22"
+    },
+    {
+      "passed_date": "1955-12-30",
+      "enactment_date": "1956-01-10"
+    },
+    {
+      "passed_date": "1956-10-23",
+      "enactment_date": "1956-11-03"
+    },
+    {
+      "passed_date": "1958-07-11",
+      "enactment_date": "1983-11-18"
+    }
+  ],
+  "lyID": "90054"
+}

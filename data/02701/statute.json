@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "原子能法",
+      "start_date": "1968-04-26"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1968-04-26",
+      "enactment_date": "1968-05-09"
+    },
+    {
+      "passed_date": "1971-12-14",
+      "enactment_date": "1971-12-24"
+    }
+  ],
+  "lyID": "02701"
+}

@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "內政部職業訓練局組織條例",
+      "start_date": "1981-01-09"
+    },
+    {
+      "name": "行政院勞工委員會職業訓練局組織條例",
+      "start_date": "1987-06-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1981-01-09",
+      "enactment_date": "1981-01-21"
+    },
+    {
+      "passed_date": "1987-06-30",
+      "enactment_date": "1987-07-13",
+      "enforcement_date": "1987-07-17"
+    },
+    {
+      "passed_date": "1999-01-14",
+      "enactment_date": "1999-01-27"
+    }
+  ],
+  "lyID": "01104"
+}

@@ -1,0 +1,47 @@
+{
+  "name": [
+    {
+      "name": "電信法",
+      "start_date": "1958-10-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1958-10-14",
+      "enactment_date": "1958-10-23"
+    },
+    {
+      "passed_date": "1977-01-14",
+      "enactment_date": "1977-01-25"
+    },
+    {
+      "passed_date": "1996-01-16",
+      "enactment_date": "1996-02-05"
+    },
+    {
+      "passed_date": "1998-05-28",
+      "enactment_date": "1998-06-17"
+    },
+    {
+      "passed_date": "1999-10-22",
+      "enactment_date": "1999-11-03"
+    },
+    {
+      "passed_date": "2002-06-07",
+      "enactment_date": "2002-07-10"
+    },
+    {
+      "passed_date": "2003-04-29",
+      "enactment_date": "2003-05-21"
+    },
+    {
+      "passed_date": "2005-01-07",
+      "enactment_date": "2005-02-02"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-11"
+    }
+  ],
+  "lyID": "02023"
+}

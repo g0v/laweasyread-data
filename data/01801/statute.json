@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "法務部調查局組織法",
+      "start_date": "2007-11-30"
+    },
+    {
+      "name": "司法行政部調查局組織條例",
+      "start_date": "1956-04-10"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1956-04-10",
+      "enactment_date": "1956-04-20"
+    },
+    {
+      "passed_date": "1967-12-26",
+      "enactment_date": "1968-01-11"
+    },
+    {
+      "passed_date": "1980-07-18",
+      "enactment_date": "1980-08-01"
+    },
+    {
+      "passed_date": "2007-11-30",
+      "enactment_date": "2007-12-19",
+      "enforcement_date": "2008-03-01"
+    }
+  ],
+  "lyID": "01801"
+}

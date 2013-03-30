@@ -1,0 +1,36 @@
+{
+  "name": [
+    {
+      "name": "臺灣地區砂糖平準基金條例",
+      "start_date": "1973-08-21"
+    },
+    {
+      "name": "臺灣省砂糖平準基金條例",
+      "start_date": "1966-01-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1966-01-28",
+      "enactment_date": "1966-02-10",
+      "enforcement_date": "1966-11-01"
+    },
+    {
+      "passed_date": "1973-08-21",
+      "enactment_date": "1973-08-30"
+    },
+    {
+      "passed_date": "1974-06-28",
+      "enactment_date": "1974-07-09"
+    },
+    {
+      "passed_date": "1975-06-27",
+      "enactment_date": "1975-07-08"
+    },
+    {
+      "passed_date": "1977-10-28",
+      "enactment_date": "1977-11-08"
+    }
+  ],
+  "lyID": "01916"
+}

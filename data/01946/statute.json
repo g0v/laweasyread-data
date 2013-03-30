@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "工廠管理輔導法",
+      "start_date": "2001-03-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2001-03-01",
+      "enactment_date": "2001-03-14"
+    },
+    {
+      "passed_date": "2010-05-04",
+      "enactment_date": "2010-06-02"
+    }
+  ],
+  "lyID": "01946"
+}

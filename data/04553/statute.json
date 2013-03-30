@@ -1,0 +1,57 @@
+{
+  "name": [
+    {
+      "name": "刑事訴訟法施行法",
+      "start_date": "1967-01-13"
+    },
+    {
+      "name": "中華民國刑事訴訟法施行法",
+      "start_date": "1935-03-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-03-15",
+      "enactment_date": "1935-04-01",
+      "enforcement_date": "1935-07-01"
+    },
+    {
+      "passed_date": "1967-01-13",
+      "enactment_date": "1967-01-28"
+    },
+    {
+      "passed_date": "1990-07-17",
+      "enactment_date": "1990-08-03"
+    },
+    {
+      "passed_date": "1995-10-05",
+      "enactment_date": "1995-10-20"
+    },
+    {
+      "passed_date": "1997-12-12",
+      "enactment_date": "1997-12-19"
+    },
+    {
+      "passed_date": "2001-01-03",
+      "enactment_date": "2001-01-12"
+    },
+    {
+      "passed_date": "2003-01-14",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2006-05-23",
+      "enactment_date": "2006-06-14",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2007-06-15",
+      "enactment_date": "2007-07-04"
+    },
+    {
+      "passed_date": "2009-06-12",
+      "enactment_date": "2009-07-08"
+    }
+  ],
+  "lyID": "04553"
+}

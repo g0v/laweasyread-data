@@ -1,0 +1,65 @@
+{
+  "name": [
+    {
+      "name": "監獄行刑法",
+      "start_date": "1945-12-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1945-12-29",
+      "enactment_date": "1946-01-19",
+      "enforcement_date": "1947-12-14"
+    },
+    {
+      "passed_date": "1954-12-14",
+      "enactment_date": "1954-12-25"
+    },
+    {
+      "passed_date": "1956-12-28",
+      "enactment_date": "1957-01-07"
+    },
+    {
+      "passed_date": "1974-12-03",
+      "enactment_date": "1974-12-12"
+    },
+    {
+      "passed_date": "1980-11-14",
+      "enactment_date": "1980-12-01"
+    },
+    {
+      "passed_date": "1992-03-19",
+      "enactment_date": "1992-04-06"
+    },
+    {
+      "passed_date": "1993-07-08",
+      "enactment_date": "1993-07-28"
+    },
+    {
+      "passed_date": "1994-05-24",
+      "enactment_date": "1994-06-06"
+    },
+    {
+      "passed_date": "1997-04-18",
+      "enactment_date": "1997-05-14"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2002-12-27",
+      "enactment_date": "2003-01-22"
+    },
+    {
+      "passed_date": "2005-05-17",
+      "enactment_date": "2005-06-01",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2010-05-04",
+      "enactment_date": "2010-05-26"
+    }
+  ],
+  "lyID": "01809"
+}

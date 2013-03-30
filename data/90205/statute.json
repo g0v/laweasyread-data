@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "節約建國儲金條例",
+      "start_date": "1938-12-23"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1938-12-23",
+      "enactment_date": "1938-12-29"
+    },
+    {
+      "passed_date": "1942-04-15",
+      "enactment_date": "1942-04-25"
+    },
+    {
+      "passed_date": "1944-03-31",
+      "enactment_date": "1973-06-05"
+    }
+  ],
+  "lyID": "90205"
+}

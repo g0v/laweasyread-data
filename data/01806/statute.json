@@ -1,0 +1,76 @@
+{
+  "name": [
+    {
+      "name": "律師法",
+      "start_date": "1940-12-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1940-12-24",
+      "enactment_date": "1941-01-11"
+    },
+    {
+      "passed_date": "1945-03-15",
+      "enactment_date": "1945-04-05"
+    },
+    {
+      "passed_date": "1948-03-12",
+      "enactment_date": "1948-03-24"
+    },
+    {
+      "passed_date": "1948-12-07",
+      "enactment_date": "1949-01-04"
+    },
+    {
+      "passed_date": "1962-05-25",
+      "enactment_date": "1962-06-05"
+    },
+    {
+      "passed_date": "1971-10-19",
+      "enactment_date": "1971-11-04"
+    },
+    {
+      "passed_date": "1972-12-29",
+      "enactment_date": "1973-01-13"
+    },
+    {
+      "passed_date": "1973-05-25",
+      "enactment_date": "1973-06-07"
+    },
+    {
+      "passed_date": "1981-12-24",
+      "enactment_date": "1982-01-06"
+    },
+    {
+      "passed_date": "1984-11-30",
+      "enactment_date": "1984-12-10"
+    },
+    {
+      "passed_date": "1992-10-22",
+      "enactment_date": "1992-11-16"
+    },
+    {
+      "passed_date": "1997-04-08",
+      "enactment_date": "1997-04-23"
+    },
+    {
+      "passed_date": "1998-05-28",
+      "enactment_date": "1998-06-24"
+    },
+    {
+      "passed_date": "2001-10-31",
+      "enactment_date": "2001-11-14"
+    },
+    {
+      "passed_date": "2002-01-08",
+      "enactment_date": "2002-01-30"
+    },
+    {
+      "passed_date": "2010-01-05",
+      "enactment_date": "2010-01-27",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "01806"
+}

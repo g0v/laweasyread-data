@@ -1,0 +1,56 @@
+{
+  "name": [
+    {
+      "name": "水利法",
+      "start_date": "1942-06-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1942-06-20",
+      "enactment_date": "1942-07-07",
+      "enforcement_date": "1943-04-01"
+    },
+    {
+      "passed_date": "1955-01-07",
+      "enactment_date": "1955-01-29"
+    },
+    {
+      "passed_date": "1963-11-29",
+      "enactment_date": "1963-12-10"
+    },
+    {
+      "passed_date": "1974-01-18",
+      "enactment_date": "1974-02-02"
+    },
+    {
+      "passed_date": "1983-12-13",
+      "enactment_date": "1983-12-28"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-07-15"
+    },
+    {
+      "passed_date": "2000-10-27",
+      "enactment_date": "2000-11-15"
+    },
+    {
+      "passed_date": "2003-01-07",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-11"
+    },
+    {
+      "passed_date": "2008-04-22",
+      "enactment_date": "2008-05-07"
+    },
+    {
+      "passed_date": "2011-05-13",
+      "enactment_date": "2011-06-01"
+    }
+  ],
+  "lyID": "01941"
+}

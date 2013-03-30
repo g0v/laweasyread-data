@@ -1,0 +1,47 @@
+{
+  "name": [
+    {
+      "name": "非訟事件法",
+      "start_date": "1964-05-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1964-05-15",
+      "enactment_date": "1964-05-28"
+    },
+    {
+      "passed_date": "1969-08-22",
+      "enactment_date": "1969-09-08"
+    },
+    {
+      "passed_date": "1972-08-29",
+      "enactment_date": "1972-09-09"
+    },
+    {
+      "passed_date": "1980-06-20",
+      "enactment_date": "1980-07-04"
+    },
+    {
+      "passed_date": "1983-10-28",
+      "enactment_date": "1983-11-09"
+    },
+    {
+      "passed_date": "1986-04-22",
+      "enactment_date": "1986-04-30"
+    },
+    {
+      "passed_date": "1999-01-15",
+      "enactment_date": "1999-02-03"
+    },
+    {
+      "passed_date": "2005-01-18",
+      "enactment_date": "2005-02-05"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2010-01-13"
+    }
+  ],
+  "lyID": "04532"
+}

@@ -1,0 +1,43 @@
+{
+  "name": [
+    {
+      "name": "軍人婚姻條例",
+      "start_date": "1992-06-30"
+    },
+    {
+      "name": "戡亂時期陸海空軍軍人婚姻條例",
+      "start_date": "1951-12-26"
+    },
+    {
+      "name": "戡亂時期軍人婚姻條例",
+      "start_date": "1959-08-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1951-12-26",
+      "enactment_date": "1952-01-05"
+    },
+    {
+      "passed_date": "1957-01-04",
+      "enactment_date": "1957-01-10"
+    },
+    {
+      "passed_date": "1959-08-04",
+      "enactment_date": "1959-08-13"
+    },
+    {
+      "passed_date": "1974-12-13",
+      "enactment_date": "1974-12-21"
+    },
+    {
+      "passed_date": "1992-06-30",
+      "enactment_date": "1992-07-17"
+    },
+    {
+      "passed_date": "1999-03-30",
+      "enactment_date": "2005-12-07"
+    }
+  ],
+  "lyID": "01413"
+}

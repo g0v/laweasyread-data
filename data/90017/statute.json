@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "陸軍禮節條例",
+      "start_date": "1928-07-26"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1928-07-26",
+      "enactment_date": "1928-07-26"
+    },
+    {
+      "passed_date": "1930-07-19",
+      "enactment_date": "1930-08-08"
+    },
+    {
+      "passed_date": "1935-09-13",
+      "enactment_date": "1935-10-23"
+    },
+    {
+      "passed_date": "1942-04-30",
+      "enactment_date": "1942-05-23"
+    },
+    {
+      "passed_date": "1942-12-19",
+      "enactment_date": "1943-01-04"
+    },
+    {
+      "passed_date": "1943-12-30",
+      "enactment_date": "1944-01-20"
+    },
+    {
+      "passed_date": "1944-11-18",
+      "enactment_date": "1972-11-11"
+    }
+  ],
+  "lyID": "90017"
+}

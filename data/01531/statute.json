@@ -1,0 +1,105 @@
+{
+  "name": [
+    {
+      "name": "銀行法",
+      "start_date": "1931-02-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-02-28",
+      "enactment_date": "1931-03-28"
+    },
+    {
+      "passed_date": "1947-04-20",
+      "enactment_date": "1947-09-01"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-16"
+    },
+    {
+      "passed_date": "1968-10-29",
+      "enactment_date": "1968-11-11"
+    },
+    {
+      "passed_date": "1975-06-24",
+      "enactment_date": "1975-07-04"
+    },
+    {
+      "passed_date": "1977-12-20",
+      "enactment_date": "1977-12-29"
+    },
+    {
+      "passed_date": "1978-07-07",
+      "enactment_date": "1978-07-19"
+    },
+    {
+      "passed_date": "1979-11-23",
+      "enactment_date": "1979-12-05"
+    },
+    {
+      "passed_date": "1980-11-21",
+      "enactment_date": "1980-12-05"
+    },
+    {
+      "passed_date": "1981-07-07",
+      "enactment_date": "1981-07-17"
+    },
+    {
+      "passed_date": "1985-05-10",
+      "enactment_date": "1985-05-20"
+    },
+    {
+      "passed_date": "1989-07-11",
+      "enactment_date": "1989-07-17"
+    },
+    {
+      "passed_date": "1992-10-08",
+      "enactment_date": "1992-10-30"
+    },
+    {
+      "passed_date": "1995-06-13",
+      "enactment_date": "1995-06-29"
+    },
+    {
+      "passed_date": "1997-04-15",
+      "enactment_date": "1997-05-07",
+      "enforcement_date": "1999-07-07"
+    },
+    {
+      "passed_date": "2000-10-13",
+      "enactment_date": "2000-11-01"
+    },
+    {
+      "passed_date": "2004-01-13",
+      "enactment_date": "2004-02-04"
+    },
+    {
+      "passed_date": "2005-04-29",
+      "enactment_date": "2005-05-18"
+    },
+    {
+      "passed_date": "2006-04-28",
+      "enactment_date": "2006-05-17"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2007-03-05",
+      "enactment_date": "2007-03-21"
+    },
+    {
+      "passed_date": "2008-12-09",
+      "enactment_date": "2008-12-30"
+    },
+    {
+      "passed_date": "2011-10-25",
+      "enactment_date": "2011-11-09"
+    }
+  ],
+  "lyID": "01531"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "環境影響評估法",
+      "start_date": "1994-12-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1994-12-15",
+      "enactment_date": "1994-12-30"
+    },
+    {
+      "passed_date": "1999-11-30",
+      "enactment_date": "1999-12-22"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2002-12-17",
+      "enactment_date": "2003-01-08"
+    }
+  ],
+  "lyID": "03716"
+}

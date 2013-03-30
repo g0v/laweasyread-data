@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "警察官任用條例",
+      "start_date": "1935-10-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-10-31",
+      "enactment_date": "1935-11-09"
+    },
+    {
+      "passed_date": "1937-06-04",
+      "enactment_date": "1937-06-15"
+    },
+    {
+      "passed_date": "1945-04-14",
+      "enactment_date": "1976-01-17"
+    }
+  ],
+  "lyID": "90052"
+}

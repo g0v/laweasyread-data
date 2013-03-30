@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "中華民國駐聯合國代表辦事處組織條例",
+      "start_date": "1946-07-13"
+    },
+    {
+      "name": "中華民國常駐聯合國代表團組織條例",
+      "start_date": "1959-06-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-07-13",
+      "enactment_date": "1946-08-05"
+    },
+    {
+      "passed_date": "1947-07-04",
+      "enactment_date": "1947-07-15"
+    },
+    {
+      "passed_date": "1959-06-12",
+      "enactment_date": "1959-06-24"
+    },
+    {
+      "passed_date": "1963-07-30",
+      "enactment_date": "1973-11-30"
+    }
+  ],
+  "lyID": "90099"
+}

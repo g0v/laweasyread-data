@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "消費者保護法",
+      "start_date": "1994-01-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1994-01-11",
+      "enactment_date": "1994-01-11"
+    },
+    {
+      "passed_date": "2002-12-27",
+      "enactment_date": "2003-01-22"
+    },
+    {
+      "passed_date": "2005-01-21",
+      "enactment_date": "2005-02-05"
+    }
+  ],
+  "lyID": "01180"
+}

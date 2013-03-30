@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "name": "信託法",
+      "start_date": "1995-12-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1995-12-29",
+      "enactment_date": "1996-01-26"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2009-12-30",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "01585"
+}

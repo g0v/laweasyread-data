@@ -1,0 +1,42 @@
+{
+  "name": [
+    {
+      "name": "軍事審判法",
+      "start_date": "1956-06-22"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1956-06-22",
+      "enactment_date": "1956-07-07",
+      "enforcement_date": "1956-10-01"
+    },
+    {
+      "passed_date": "1956-12-11",
+      "enactment_date": "1956-12-24"
+    },
+    {
+      "passed_date": "1967-12-01",
+      "enactment_date": "1967-12-14"
+    },
+    {
+      "passed_date": "1999-10-01",
+      "enactment_date": "1999-10-02",
+      "enforcement_date": "1999-10-03"
+    },
+    {
+      "passed_date": "2002-01-08",
+      "enactment_date": "2002-01-30"
+    },
+    {
+      "passed_date": "2003-05-27",
+      "enactment_date": "2003-06-11"
+    },
+    {
+      "passed_date": "2006-05-19",
+      "enactment_date": "2006-06-14",
+      "enforcement_date": "2006-07-01"
+    }
+  ],
+  "lyID": "01438"
+}

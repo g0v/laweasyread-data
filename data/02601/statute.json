@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "國軍退除役官兵輔導條例",
+      "start_date": "1964-05-05"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1964-05-05",
+      "enactment_date": "1964-05-15"
+    },
+    {
+      "passed_date": "1980-11-21",
+      "enactment_date": "1980-12-05"
+    },
+    {
+      "passed_date": "1997-04-18",
+      "enactment_date": "1997-05-14"
+    },
+    {
+      "passed_date": "1998-10-22",
+      "enactment_date": "1998-11-11"
+    },
+    {
+      "passed_date": "2000-01-06",
+      "enactment_date": "2000-01-26"
+    },
+    {
+      "passed_date": "2002-11-26",
+      "enactment_date": "2002-12-18"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26"
+    }
+  ],
+  "lyID": "02601"
+}

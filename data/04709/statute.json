@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "審計法",
+      "start_date": "1938-04-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1938-04-28",
+      "enactment_date": "1938-05-03"
+    },
+    {
+      "passed_date": "1939-02-19",
+      "enactment_date": "1939-03-04"
+    },
+    {
+      "passed_date": "1950-10-17",
+      "enactment_date": "1950-10-30"
+    },
+    {
+      "passed_date": "1972-04-18",
+      "enactment_date": "1972-05-01"
+    },
+    {
+      "passed_date": "1998-10-29",
+      "enactment_date": "1998-11-11",
+      "enforcement_date": "1999-05-27"
+    }
+  ],
+  "lyID": "04709"
+}

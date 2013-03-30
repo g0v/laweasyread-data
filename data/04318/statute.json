@@ -1,0 +1,41 @@
+{
+  "name": [
+    {
+      "name": "總統副總統選舉罷免法",
+      "start_date": "1995-07-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1995-07-20",
+      "enactment_date": "1995-08-09"
+    },
+    {
+      "passed_date": "2003-10-09",
+      "enactment_date": "2003-10-29"
+    },
+    {
+      "passed_date": "2004-03-23",
+      "enactment_date": "2004-04-07"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2007-07-19",
+      "enactment_date": "2007-08-08"
+    },
+    {
+      "passed_date": "2007-12-20",
+      "enactment_date": "2008-01-16"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "04318"
+}

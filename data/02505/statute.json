@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "行政院衛生署麻醉藥品經理處組織條例",
+      "start_date": "1982-11-30"
+    },
+    {
+      "name": "行政院衛生署管制藥品管理局組織條例",
+      "start_date": "1999-05-11"
+    },
+    {
+      "name": "麻醉藥品經理處組織條例",
+      "start_date": "1946-01-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-01-31",
+      "enactment_date": "1946-02-19"
+    },
+    {
+      "passed_date": "1948-03-13",
+      "enactment_date": "1948-03-26"
+    },
+    {
+      "passed_date": "1982-11-30",
+      "enactment_date": "1982-12-10"
+    },
+    {
+      "passed_date": "1999-05-11",
+      "enactment_date": "2011-06-08"
+    }
+  ],
+  "lyID": "02505"
+}

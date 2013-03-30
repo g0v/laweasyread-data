@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "教育會法",
+      "start_date": "1931-01-17"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-01-17",
+      "enactment_date": "1931-01-27"
+    },
+    {
+      "passed_date": "1944-10-12",
+      "enactment_date": "1944-10-31"
+    },
+    {
+      "passed_date": "1985-05-21",
+      "enactment_date": "1985-06-05"
+    },
+    {
+      "passed_date": "2002-04-02",
+      "enactment_date": "2002-04-24"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "01135"
+}

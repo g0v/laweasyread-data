@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "政府採購法",
+      "start_date": "1998-05-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1998-05-01",
+      "enactment_date": "1998-05-27"
+    },
+    {
+      "passed_date": "2001-01-04",
+      "enactment_date": "2001-01-10"
+    },
+    {
+      "passed_date": "2002-01-16",
+      "enactment_date": "2002-02-06"
+    },
+    {
+      "passed_date": "2007-06-08",
+      "enactment_date": "2007-07-04"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26"
+    }
+  ],
+  "lyID": "02308"
+}

@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "證券投資信託及顧問法",
+      "start_date": "2004-06-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2004-06-11",
+      "enactment_date": "2004-06-30",
+      "enforcement_date": "2004-11-01"
+    },
+    {
+      "passed_date": "2009-12-22",
+      "enactment_date": "2010-01-13"
+    },
+    {
+      "passed_date": "2010-05-18",
+      "enactment_date": "2010-06-09"
+    }
+  ],
+  "lyID": "01652"
+}

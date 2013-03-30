@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "中央銀行法",
+      "start_date": "1935-05-09"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-05-09",
+      "enactment_date": "1935-05-23"
+    },
+    {
+      "passed_date": "1979-10-26",
+      "enactment_date": "1979-11-08"
+    },
+    {
+      "passed_date": "1997-04-29",
+      "enactment_date": "1997-05-21",
+      "enforcement_date": "1999-07-07"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-06-05"
+    },
+    {
+      "passed_date": "2011-04-08",
+      "enactment_date": "2011-04-27"
+    }
+  ],
+  "lyID": "01532"
+}

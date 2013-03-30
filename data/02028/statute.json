@@ -1,0 +1,48 @@
+{
+  "name": [
+    {
+      "name": "商港法",
+      "start_date": "1980-04-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1980-04-15",
+      "enactment_date": "1980-05-02"
+    },
+    {
+      "passed_date": "1986-11-18",
+      "enactment_date": "1986-11-28"
+    },
+    {
+      "passed_date": "1987-07-15",
+      "enactment_date": "1987-08-07"
+    },
+    {
+      "passed_date": "1995-12-21",
+      "enactment_date": "1996-01-10"
+    },
+    {
+      "passed_date": "1997-04-15",
+      "enactment_date": "1997-05-07"
+    },
+    {
+      "passed_date": "2001-10-30",
+      "enactment_date": "2001-11-21"
+    },
+    {
+      "passed_date": "2002-12-13",
+      "enactment_date": "2003-01-02"
+    },
+    {
+      "passed_date": "2005-01-14",
+      "enactment_date": "2005-02-05"
+    },
+    {
+      "passed_date": "2011-12-06",
+      "enactment_date": "2011-12-28",
+      "enforcement_date": "2012-03-01"
+    }
+  ],
+  "lyID": "02028"
+}

@@ -1,0 +1,45 @@
+{
+  "name": [
+    {
+      "name": "經濟部組織法",
+      "start_date": "1949-04-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1949-04-19",
+      "enactment_date": "1949-05-10"
+    },
+    {
+      "passed_date": "1964-05-26",
+      "enactment_date": "1964-06-09"
+    },
+    {
+      "passed_date": "1968-01-27",
+      "enactment_date": "1968-02-12"
+    },
+    {
+      "passed_date": "1981-01-06",
+      "enactment_date": "1981-01-21"
+    },
+    {
+      "passed_date": "1984-07-13",
+      "enactment_date": "1984-07-20"
+    },
+    {
+      "passed_date": "1996-09-19",
+      "enactment_date": "1996-10-16"
+    },
+    {
+      "passed_date": "2002-01-04",
+      "enactment_date": "2002-01-25",
+      "enforcement_date": "2002-03-28"
+    },
+    {
+      "passed_date": "2004-01-09",
+      "enactment_date": "2004-01-20",
+      "enforcement_date": "2004-07-01"
+    }
+  ],
+  "lyID": "01019"
+}

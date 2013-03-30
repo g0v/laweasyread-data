@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "兒童及少年福利法",
+      "start_date": "2003-05-02"
+    },
+    {
+      "name": "兒童及少年福利與權益保障法",
+      "start_date": "2011-11-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2003-05-02",
+      "enactment_date": "2003-05-28"
+    },
+    {
+      "passed_date": "2008-04-22",
+      "enactment_date": "2008-05-07"
+    },
+    {
+      "passed_date": "2008-07-18",
+      "enactment_date": "2008-08-06"
+    },
+    {
+      "passed_date": "2010-04-27",
+      "enactment_date": "2010-05-12"
+    },
+    {
+      "passed_date": "2011-11-11",
+      "enactment_date": "2011-11-30"
+    },
+    {
+      "passed_date": "2012-07-26",
+      "enactment_date": "2012-08-08"
+    }
+  ],
+  "lyID": "05125"
+}

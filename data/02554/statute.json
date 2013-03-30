@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "行政院衛生署中央健康保險局組織法",
+      "start_date": "2009-01-13"
+    },
+    {
+      "name": "中央健康保險局組織條例",
+      "start_date": "1994-12-23"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1994-12-23",
+      "enactment_date": "1994-12-30"
+    },
+    {
+      "passed_date": "2009-01-13",
+      "enactment_date": "2009-01-23",
+      "enforcement_date": "2010-01-01"
+    }
+  ],
+  "lyID": "02554"
+}

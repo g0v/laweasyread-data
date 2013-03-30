@@ -1,0 +1,36 @@
+{
+  "name": [
+    {
+      "name": "勞動檢查法",
+      "start_date": "1993-01-07"
+    },
+    {
+      "name": "工廠檢查法",
+      "start_date": "1931-01-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-01-31",
+      "enactment_date": "1931-02-10",
+      "enforcement_date": "1931-10-01"
+    },
+    {
+      "passed_date": "1935-04-05",
+      "enactment_date": "1935-04-16"
+    },
+    {
+      "passed_date": "1993-01-07",
+      "enactment_date": "1993-02-03"
+    },
+    {
+      "passed_date": "2000-06-30",
+      "enactment_date": "2000-07-19"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-05-29"
+    }
+  ],
+  "lyID": "01141"
+}

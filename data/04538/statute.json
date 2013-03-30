@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "妨害國幣懲治暫行條例",
+      "start_date": "1935-07-05"
+    },
+    {
+      "name": "妨害國幣懲治條例",
+      "start_date": "1943-09-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-07-05",
+      "enactment_date": "1935-07-15"
+    },
+    {
+      "passed_date": "1937-07-02",
+      "enactment_date": "1937-07-15"
+    },
+    {
+      "passed_date": "1943-09-30",
+      "enactment_date": "1943-10-18"
+    },
+    {
+      "passed_date": "1973-08-24",
+      "enactment_date": "1973-09-04"
+    },
+    {
+      "passed_date": "2006-12-22",
+      "enactment_date": "2007-01-10"
+    },
+    {
+      "passed_date": "2011-06-10",
+      "enactment_date": "2011-06-29"
+    }
+  ],
+  "lyID": "04538"
+}

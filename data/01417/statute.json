@@ -1,0 +1,72 @@
+{
+  "name": [
+    {
+      "name": "兵役法",
+      "start_date": "1933-06-09"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1933-06-09",
+      "enactment_date": "1933-06-17"
+    },
+    {
+      "passed_date": "1935-02-23",
+      "enactment_date": "1935-03-02",
+      "enforcement_date": "1936-03-01"
+    },
+    {
+      "passed_date": "1943-02-27",
+      "enactment_date": "1943-03-15"
+    },
+    {
+      "passed_date": "1946-09-28",
+      "enactment_date": "1946-10-10"
+    },
+    {
+      "passed_date": "1951-12-14",
+      "enactment_date": "1951-12-29"
+    },
+    {
+      "passed_date": "1954-08-03",
+      "enactment_date": "1954-08-16"
+    },
+    {
+      "passed_date": "1959-07-21",
+      "enactment_date": "1959-07-31"
+    },
+    {
+      "passed_date": "1974-07-02",
+      "enactment_date": "1974-07-12"
+    },
+    {
+      "passed_date": "2000-01-15",
+      "enactment_date": "2000-02-02"
+    },
+    {
+      "passed_date": "2005-11-22",
+      "enactment_date": "2005-12-14"
+    },
+    {
+      "passed_date": "2007-03-05",
+      "enactment_date": "2007-03-21"
+    },
+    {
+      "passed_date": "2008-12-12",
+      "enactment_date": "2008-12-30"
+    },
+    {
+      "passed_date": "2009-04-14",
+      "enactment_date": "2009-04-29"
+    },
+    {
+      "passed_date": "2011-12-13",
+      "enactment_date": "2011-12-28"
+    },
+    {
+      "passed_date": "2012-12-18",
+      "enactment_date": "2013-01-02"
+    }
+  ],
+  "lyID": "01417"
+}

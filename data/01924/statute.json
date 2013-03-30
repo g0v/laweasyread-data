@@ -1,0 +1,59 @@
+{
+  "name": [
+    {
+      "name": "專利法",
+      "start_date": "1944-05-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1944-05-04",
+      "enactment_date": "1944-05-29",
+      "enforcement_date": "1949-01-01"
+    },
+    {
+      "passed_date": "1959-01-09",
+      "enactment_date": "1959-01-22"
+    },
+    {
+      "passed_date": "1960-05-03",
+      "enactment_date": "1960-05-12"
+    },
+    {
+      "passed_date": "1979-04-03",
+      "enactment_date": "1979-04-16"
+    },
+    {
+      "passed_date": "1986-12-12",
+      "enactment_date": "1986-12-24"
+    },
+    {
+      "passed_date": "1993-12-28",
+      "enactment_date": "1994-01-21"
+    },
+    {
+      "passed_date": "1997-04-15",
+      "enactment_date": "1997-05-07",
+      "enforcement_date": "2002-01-01"
+    },
+    {
+      "passed_date": "2001-10-04",
+      "enactment_date": "2001-10-24"
+    },
+    {
+      "passed_date": "2003-01-03",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2010-08-17",
+      "enactment_date": "2010-08-25",
+      "enforcement_date": "2010-09-12"
+    },
+    {
+      "passed_date": "2011-11-29",
+      "enactment_date": "2011-12-21",
+      "enforcement_date": "2013-01-01"
+    }
+  ],
+  "lyID": "01924"
+}

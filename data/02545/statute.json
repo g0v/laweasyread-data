@@ -1,0 +1,43 @@
+{
+  "name": [
+    {
+      "name": "後天免疫缺乏症候群防治條例",
+      "start_date": "1990-11-30"
+    },
+    {
+      "name": "人類免疫缺乏病毒傳染防治及感染者權益保障條例",
+      "start_date": "2007-06-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1990-11-30",
+      "enactment_date": "1990-12-17"
+    },
+    {
+      "passed_date": "1997-12-16",
+      "enactment_date": "1997-12-30"
+    },
+    {
+      "passed_date": "1999-03-30",
+      "enactment_date": "1999-04-21"
+    },
+    {
+      "passed_date": "1999-12-30",
+      "enactment_date": "2000-01-19"
+    },
+    {
+      "passed_date": "2000-06-30",
+      "enactment_date": "2000-07-19"
+    },
+    {
+      "passed_date": "2005-01-14",
+      "enactment_date": "2005-02-05"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-11"
+    }
+  ],
+  "lyID": "02545"
+}

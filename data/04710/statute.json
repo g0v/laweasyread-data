@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "各機關營繕工程及購置定製變賣財物稽察程序條例",
+      "start_date": "1950-10-20"
+    },
+    {
+      "name": "機關營繕工程及購置定製變賣財物稽察條例",
+      "start_date": "1972-05-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1950-10-20",
+      "enactment_date": "1950-10-31"
+    },
+    {
+      "passed_date": "1955-12-20",
+      "enactment_date": "1955-12-29"
+    },
+    {
+      "passed_date": "1967-01-26",
+      "enactment_date": "1967-02-04"
+    },
+    {
+      "passed_date": "1972-05-12",
+      "enactment_date": "1999-06-02"
+    }
+  ],
+  "lyID": "04710"
+}

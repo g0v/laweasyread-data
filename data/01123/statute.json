@@ -1,0 +1,44 @@
+{
+  "name": [
+    {
+      "name": "姓名條例",
+      "start_date": "1953-02-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1953-02-20",
+      "enactment_date": "1953-03-07"
+    },
+    {
+      "passed_date": "1965-11-19",
+      "enactment_date": "1965-12-01"
+    },
+    {
+      "passed_date": "1983-11-08",
+      "enactment_date": "1983-11-18"
+    },
+    {
+      "passed_date": "1995-01-05",
+      "enactment_date": "1995-01-20"
+    },
+    {
+      "passed_date": "2001-06-01",
+      "enactment_date": "2001-06-20",
+      "enforcement_date": "2001-10-15"
+    },
+    {
+      "passed_date": "2003-06-06",
+      "enactment_date": "2003-06-25"
+    },
+    {
+      "passed_date": "2007-12-07",
+      "enactment_date": "2007-12-26"
+    },
+    {
+      "passed_date": "2009-06-12",
+      "enactment_date": "2009-07-08"
+    }
+  ],
+  "lyID": "01123"
+}

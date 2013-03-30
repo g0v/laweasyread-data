@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "主計人員任用條例",
+      "start_date": "1936-10-02"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1936-10-02",
+      "enactment_date": "1936-10-30"
+    },
+    {
+      "passed_date": "1937-02-26",
+      "enactment_date": "1937-03-09"
+    },
+    {
+      "passed_date": "1939-04-21",
+      "enactment_date": "1939-05-03"
+    },
+    {
+      "passed_date": "1940-08-30",
+      "enactment_date": "1940-09-19"
+    },
+    {
+      "passed_date": "1943-11-30",
+      "enactment_date": "1981-12-28"
+    }
+  ],
+  "lyID": "90089"
+}

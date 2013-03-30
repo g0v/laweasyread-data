@@ -1,0 +1,56 @@
+{
+  "name": [
+    {
+      "name": "戡亂時期貪污治罪條例",
+      "start_date": "1963-07-05"
+    },
+    {
+      "name": "貪污治罪條例",
+      "start_date": "1992-06-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1963-07-05",
+      "enactment_date": "1963-07-15"
+    },
+    {
+      "passed_date": "1973-08-07",
+      "enactment_date": "1973-08-17"
+    },
+    {
+      "passed_date": "1992-06-30",
+      "enactment_date": "1992-07-17"
+    },
+    {
+      "passed_date": "1996-10-03",
+      "enactment_date": "1996-10-23"
+    },
+    {
+      "passed_date": "2001-10-25",
+      "enactment_date": "2001-11-07"
+    },
+    {
+      "passed_date": "2003-01-13",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2009-04-03",
+      "enactment_date": "2009-04-22"
+    },
+    {
+      "passed_date": "2011-06-07",
+      "enactment_date": "2011-06-29"
+    },
+    {
+      "passed_date": "2011-11-08",
+      "enactment_date": "2011-11-23"
+    }
+  ],
+  "lyID": "04551"
+}

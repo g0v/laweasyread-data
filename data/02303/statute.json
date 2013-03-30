@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "會計法",
+      "start_date": "1935-07-05"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-07-05",
+      "enactment_date": "1935-08-14",
+      "enforcement_date": "1936-07-01"
+    },
+    {
+      "passed_date": "1938-08-12",
+      "enactment_date": "1938-08-20"
+    },
+    {
+      "passed_date": "1948-05-01",
+      "enactment_date": "1948-05-27"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-10"
+    },
+    {
+      "passed_date": "1972-03-31",
+      "enactment_date": "1972-04-15"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2011-05-03",
+      "enactment_date": "2011-05-18"
+    }
+  ],
+  "lyID": "02303"
+}

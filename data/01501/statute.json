@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "財政部國庫署組織條例",
+      "start_date": "1981-07-14"
+    },
+    {
+      "name": "財政部國庫署組織法",
+      "start_date": "1940-03-09"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1940-03-09",
+      "enactment_date": "1940-03-26"
+    },
+    {
+      "passed_date": "1942-01-24",
+      "enactment_date": "1942-02-10"
+    },
+    {
+      "passed_date": "1981-07-14",
+      "enactment_date": "1981-07-22"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "2000-04-19"
+    }
+  ],
+  "lyID": "01501"
+}

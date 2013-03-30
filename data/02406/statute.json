@@ -1,0 +1,43 @@
+{
+  "name": [
+    {
+      "name": "廣播電視法",
+      "start_date": "1975-12-26"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1975-12-26",
+      "enactment_date": "1976-01-08"
+    },
+    {
+      "passed_date": "1982-05-25",
+      "enactment_date": "1982-06-07"
+    },
+    {
+      "passed_date": "1993-07-14",
+      "enactment_date": "1993-08-02"
+    },
+    {
+      "passed_date": "1999-03-30",
+      "enactment_date": "1999-04-21"
+    },
+    {
+      "passed_date": "2002-12-31",
+      "enactment_date": "2003-01-22"
+    },
+    {
+      "passed_date": "2003-12-09",
+      "enactment_date": "2003-12-24"
+    },
+    {
+      "passed_date": "2006-05-26",
+      "enactment_date": "2006-06-14"
+    },
+    {
+      "passed_date": "2011-06-14",
+      "enactment_date": "2011-06-29"
+    }
+  ],
+  "lyID": "02406"
+}

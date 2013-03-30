@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "職能治療師法",
+      "start_date": "1997-05-02"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1997-05-02",
+      "enactment_date": "1997-05-21"
+    },
+    {
+      "passed_date": "1999-11-30",
+      "enactment_date": "1999-12-22"
+    },
+    {
+      "passed_date": "2003-01-03",
+      "enactment_date": "2003-01-29"
+    },
+    {
+      "passed_date": "2007-01-05",
+      "enactment_date": "2007-01-29"
+    }
+  ],
+  "lyID": "02553"
+}

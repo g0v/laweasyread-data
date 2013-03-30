@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "國防法",
+      "start_date": "2000-01-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2000-01-15",
+      "enactment_date": "2000-01-29",
+      "enforcement_date": "2002-03-01"
+    },
+    {
+      "passed_date": "2002-12-13",
+      "enactment_date": "2003-01-08"
+    },
+    {
+      "passed_date": "2008-07-17",
+      "enactment_date": "2008-08-06"
+    },
+    {
+      "passed_date": "2010-11-05",
+      "enactment_date": "2010-11-24"
+    },
+    {
+      "passed_date": "2012-05-22",
+      "enactment_date": "2012-06-06"
+    }
+  ],
+  "lyID": "01042"
+}

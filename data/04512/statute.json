@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "民法物權編施行法",
+      "start_date": "1930-02-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-02-01",
+      "enactment_date": "1930-02-10",
+      "enforcement_date": "1930-05-05"
+    },
+    {
+      "passed_date": "2007-03-05",
+      "enactment_date": "2007-03-28"
+    },
+    {
+      "passed_date": "2009-01-12",
+      "enactment_date": "2009-01-23"
+    },
+    {
+      "passed_date": "2010-01-05",
+      "enactment_date": "2010-02-03"
+    }
+  ],
+  "lyID": "04512"
+}

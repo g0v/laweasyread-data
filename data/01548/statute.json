@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "國庫券發行條例",
+      "start_date": "1973-03-30"
+    },
+    {
+      "name": "國庫券及短期借款條例",
+      "start_date": "1999-06-22"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1973-03-30",
+      "enactment_date": "1973-04-11"
+    },
+    {
+      "passed_date": "1973-08-07",
+      "enactment_date": "1973-08-16"
+    },
+    {
+      "passed_date": "1985-05-07",
+      "enactment_date": "1985-05-20"
+    },
+    {
+      "passed_date": "1987-11-10",
+      "enactment_date": "1987-11-25"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-07-07"
+    },
+    {
+      "passed_date": "2002-01-16",
+      "enactment_date": "2002-02-06"
+    }
+  ],
+  "lyID": "01548"
+}

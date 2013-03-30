@@ -1,0 +1,26 @@
+{
+  "name": [
+    {
+      "name": "公務人員協會法",
+      "start_date": "2002-06-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2002-06-11",
+      "enactment_date": "2002-07-10",
+      "enforcement_date": "2003-01-01"
+    },
+    {
+      "passed_date": "2005-05-20",
+      "enactment_date": "2005-06-15",
+      "enforcement_date": "2005-07-01"
+    },
+    {
+      "passed_date": "2006-04-25",
+      "enactment_date": "2006-05-17",
+      "enforcement_date": "2006-05-19"
+    }
+  ],
+  "lyID": "04681"
+}

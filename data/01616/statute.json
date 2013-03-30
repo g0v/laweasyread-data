@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "公共債務法",
+      "start_date": "1995-12-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1995-12-29",
+      "enactment_date": "1996-01-17"
+    },
+    {
+      "passed_date": "1998-05-19",
+      "enactment_date": "1998-06-10"
+    },
+    {
+      "passed_date": "2002-01-16",
+      "enactment_date": "2002-02-06"
+    }
+  ],
+  "lyID": "01616"
+}

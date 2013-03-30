@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "防空法",
+      "start_date": "1937-08-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1937-08-14",
+      "enactment_date": "1937-08-19"
+    },
+    {
+      "passed_date": "1948-05-01",
+      "enactment_date": "2005-01-26"
+    }
+  ],
+  "lyID": "01430"
+}

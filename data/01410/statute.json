@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "陸海空軍勳賞條例",
+      "start_date": "1935-05-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-05-31",
+      "enactment_date": "1935-06-15"
+    },
+    {
+      "passed_date": "1937-04-30",
+      "enactment_date": "1937-05-10"
+    },
+    {
+      "passed_date": "1937-11-03",
+      "enactment_date": "1937-11-08"
+    },
+    {
+      "passed_date": "1944-06-28",
+      "enactment_date": "1944-07-17"
+    },
+    {
+      "passed_date": "1952-05-09",
+      "enactment_date": "1952-05-24"
+    }
+  ],
+  "lyID": "01410"
+}

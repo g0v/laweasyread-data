@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "司法人員人事條例",
+      "start_date": "1989-12-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1989-12-12",
+      "enactment_date": "1989-12-22"
+    },
+    {
+      "passed_date": "2007-03-05",
+      "enactment_date": "2007-03-21"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-11"
+    }
+  ],
+  "lyID": "04564"
+}

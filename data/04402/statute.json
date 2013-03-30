@@ -1,0 +1,68 @@
+{
+  "name": [
+    {
+      "name": "立法院各委員會組織法",
+      "start_date": "1947-12-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-12-25",
+      "enactment_date": "1947-12-25"
+    },
+    {
+      "passed_date": "1950-03-14",
+      "enactment_date": "1950-03-18"
+    },
+    {
+      "passed_date": "1952-12-12",
+      "enactment_date": "1952-12-27"
+    },
+    {
+      "passed_date": "1953-02-27",
+      "enactment_date": "1953-03-06"
+    },
+    {
+      "passed_date": "1956-11-09",
+      "enactment_date": "1956-11-19"
+    },
+    {
+      "passed_date": "1963-04-12",
+      "enactment_date": "1963-04-23"
+    },
+    {
+      "passed_date": "1973-11-20",
+      "enactment_date": "1973-11-27"
+    },
+    {
+      "passed_date": "1992-02-21",
+      "enactment_date": "1992-02-22"
+    },
+    {
+      "passed_date": "1999-01-12",
+      "enactment_date": "1999-01-25"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-06-30"
+    },
+    {
+      "passed_date": "2002-01-15",
+      "enactment_date": "2002-01-25"
+    },
+    {
+      "passed_date": "2007-11-30",
+      "enactment_date": "2007-12-19"
+    },
+    {
+      "passed_date": "2007-12-07",
+      "enactment_date": "2007-12-26"
+    },
+    {
+      "passed_date": "2009-01-13",
+      "enactment_date": "2009-01-23",
+      "enforcement_date": "2009-02-01"
+    }
+  ],
+  "lyID": "04402"
+}

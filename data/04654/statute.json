@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "公務員服務法",
+      "start_date": "1939-07-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1939-07-08",
+      "enactment_date": "1939-10-23"
+    },
+    {
+      "passed_date": "1942-12-19",
+      "enactment_date": "1943-01-04"
+    },
+    {
+      "passed_date": "1947-06-21",
+      "enactment_date": "1947-07-11"
+    },
+    {
+      "passed_date": "1995-12-21",
+      "enactment_date": "1996-01-15"
+    },
+    {
+      "passed_date": "2000-06-30",
+      "enactment_date": "2000-07-19"
+    }
+  ],
+  "lyID": "04654"
+}

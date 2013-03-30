@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "電影法",
+      "start_date": "1983-11-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1983-11-08",
+      "enactment_date": "1983-11-18"
+    },
+    {
+      "passed_date": "2001-10-31",
+      "enactment_date": "2001-11-14"
+    },
+    {
+      "passed_date": "2002-04-02",
+      "enactment_date": "2002-04-24"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2003-12-16",
+      "enactment_date": "2004-01-07"
+    },
+    {
+      "passed_date": "2008-12-19",
+      "enactment_date": "2009-01-07"
+    }
+  ],
+  "lyID": "02405"
+}

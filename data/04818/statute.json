@@ -1,0 +1,53 @@
+{
+  "name": [
+    {
+      "name": "地方制度法",
+      "start_date": "1999-01-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1999-01-13",
+      "enactment_date": "1999-01-25"
+    },
+    {
+      "passed_date": "2005-05-27",
+      "enactment_date": "2005-06-22"
+    },
+    {
+      "passed_date": "2005-11-08",
+      "enactment_date": "2005-11-30"
+    },
+    {
+      "passed_date": "2005-11-22",
+      "enactment_date": "2005-12-14"
+    },
+    {
+      "passed_date": "2007-05-04",
+      "enactment_date": "2007-05-23"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-11",
+      "enforcement_date": "2007-01-01"
+    },
+    {
+      "passed_date": "2007-06-15",
+      "enactment_date": "2007-07-11"
+    },
+    {
+      "passed_date": "2009-04-03",
+      "enactment_date": "2009-04-15"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2010-01-18",
+      "enactment_date": "2010-02-03"
+    }
+  ],
+  "lyID": "04818"
+}

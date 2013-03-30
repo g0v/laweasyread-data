@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "政務官退職酬勞金給與條例",
+      "start_date": "1972-01-28"
+    },
+    {
+      "name": "政務人員退職酬勞金給與條例",
+      "start_date": "1999-06-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1972-01-28",
+      "enactment_date": "1972-02-05"
+    },
+    {
+      "passed_date": "1979-12-11",
+      "enactment_date": "1979-12-24"
+    },
+    {
+      "passed_date": "1985-11-29",
+      "enactment_date": "1985-12-11"
+    },
+    {
+      "passed_date": "1999-06-15",
+      "enactment_date": "1999-06-30"
+    },
+    {
+      "passed_date": "2000-12-05",
+      "enactment_date": "2000-12-15"
+    }
+  ],
+  "lyID": "04646"
+}

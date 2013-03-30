@@ -1,0 +1,36 @@
+{
+  "name": [
+    {
+      "name": "船舶無線電台條例",
+      "start_date": "1935-03-15"
+    },
+    {
+      "name": "船舶無&#32171;電台條例",
+      "start_date": "1947-01-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-03-15",
+      "enactment_date": "1935-03-25",
+      "enforcement_date": "1936-11-01"
+    },
+    {
+      "passed_date": "1947-01-30",
+      "enactment_date": "1947-02-12"
+    },
+    {
+      "passed_date": "1948-11-09",
+      "enactment_date": "1948-11-26"
+    },
+    {
+      "passed_date": "1950-04-18",
+      "enactment_date": "1949-08-13"
+    },
+    {
+      "passed_date": "1952-02-12",
+      "enactment_date": "1970-05-30"
+    }
+  ],
+  "lyID": "90033"
+}

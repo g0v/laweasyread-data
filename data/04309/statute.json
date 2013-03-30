@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "國史館組織條例",
+      "start_date": "1946-11-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-11-11",
+      "enactment_date": "1946-11-23"
+    },
+    {
+      "passed_date": "1956-04-27",
+      "enactment_date": "1956-05-10"
+    },
+    {
+      "passed_date": "2001-10-04",
+      "enactment_date": "2001-10-24",
+      "enforcement_date": "2002-01-01"
+    }
+  ],
+  "lyID": "04309"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "政治獻金法",
+      "start_date": "2004-03-18"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2004-03-18",
+      "enactment_date": "2004-03-31"
+    },
+    {
+      "passed_date": "2008-07-18",
+      "enactment_date": "2008-08-13"
+    },
+    {
+      "passed_date": "2008-12-26",
+      "enactment_date": "2009-01-14"
+    },
+    {
+      "passed_date": "2010-01-07",
+      "enactment_date": "2010-01-27"
+    }
+  ],
+  "lyID": "01218"
+}

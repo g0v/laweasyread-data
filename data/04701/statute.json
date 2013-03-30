@@ -1,0 +1,56 @@
+{
+  "name": [
+    {
+      "name": "監察院組織法",
+      "start_date": "1947-03-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-03-27",
+      "enactment_date": "1947-03-31"
+    },
+    {
+      "passed_date": "1947-12-23",
+      "enactment_date": "1947-12-25",
+      "enforcement_date": "1948-06-05"
+    },
+    {
+      "passed_date": "1948-03-30",
+      "enactment_date": "1948-04-03"
+    },
+    {
+      "passed_date": "1968-06-21",
+      "enactment_date": "1968-07-02"
+    },
+    {
+      "passed_date": "1971-04-02",
+      "enactment_date": "1971-04-14"
+    },
+    {
+      "passed_date": "1971-10-19",
+      "enactment_date": "1971-11-04"
+    },
+    {
+      "passed_date": "1972-11-28",
+      "enactment_date": "1972-12-06"
+    },
+    {
+      "passed_date": "1975-04-11",
+      "enactment_date": "1975-04-22"
+    },
+    {
+      "passed_date": "1992-10-29",
+      "enactment_date": "1992-11-04"
+    },
+    {
+      "passed_date": "1997-12-19",
+      "enactment_date": "1998-01-07"
+    },
+    {
+      "passed_date": "2010-04-30",
+      "enactment_date": "2010-05-19"
+    }
+  ],
+  "lyID": "04701"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "經濟部中央標準局組織條例",
+      "start_date": "1953-12-15"
+    },
+    {
+      "name": "工商部中央標準局組織條例",
+      "start_date": "1948-12-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-12-28",
+      "enactment_date": "1949-01-17"
+    },
+    {
+      "passed_date": "1953-12-15",
+      "enactment_date": "1953-12-28"
+    },
+    {
+      "passed_date": "1979-07-24",
+      "enactment_date": "2002-07-03"
+    }
+  ],
+  "lyID": "01904"
+}

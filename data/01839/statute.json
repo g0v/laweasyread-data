@@ -1,0 +1,29 @@
+{
+  "name": [
+    {
+      "name": "香港澳門關係條例",
+      "start_date": "1997-03-18"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1997-03-18",
+      "enactment_date": "1997-04-02"
+    },
+    {
+      "passed_date": "1998-05-28",
+      "enactment_date": "1998-06-17"
+    },
+    {
+      "passed_date": "2003-10-09",
+      "enactment_date": "2003-10-29",
+      "enforcement_date": "2004-03-01"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    }
+  ],
+  "lyID": "01839"
+}

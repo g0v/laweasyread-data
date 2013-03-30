@@ -1,0 +1,30 @@
+{
+  "name": [
+    {
+      "name": "菸酒管理法",
+      "start_date": "1999-06-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1999-06-04",
+      "enactment_date": "2000-04-19",
+      "enforcement_date": "2002-01-01"
+    },
+    {
+      "passed_date": "2003-12-16",
+      "enactment_date": "2004-01-07"
+    },
+    {
+      "passed_date": "2009-05-26",
+      "enactment_date": "2009-06-10",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2012-07-26",
+      "enactment_date": "2012-08-08",
+      "enforcement_date": "2013-01-01"
+    }
+  ],
+  "lyID": "01623"
+}

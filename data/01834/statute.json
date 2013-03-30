@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "犯罪被害人保護法",
+      "start_date": "1998-05-05"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1998-05-05",
+      "enactment_date": "1998-05-27",
+      "enforcement_date": "1998-10-01"
+    },
+    {
+      "passed_date": "2002-06-21",
+      "enactment_date": "2002-07-10",
+      "enforcement_date": "2002-10-01"
+    },
+    {
+      "passed_date": "2009-05-08",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-08-01"
+    },
+    {
+      "passed_date": "2011-11-15",
+      "enactment_date": "2011-11-30",
+      "enforcement_date": "2011-12-10"
+    }
+  ],
+  "lyID": "01834"
+}

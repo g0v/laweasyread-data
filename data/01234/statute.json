@@ -1,0 +1,44 @@
+{
+  "name": [
+    {
+      "name": "兒童及少年性交易防制條例",
+      "start_date": "1995-07-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1995-07-13",
+      "enactment_date": "1995-08-11"
+    },
+    {
+      "passed_date": "1999-03-30",
+      "enactment_date": "1999-04-21"
+    },
+    {
+      "passed_date": "1999-05-11",
+      "enactment_date": "1999-06-02"
+    },
+    {
+      "passed_date": "2000-10-24",
+      "enactment_date": "2000-11-08"
+    },
+    {
+      "passed_date": "2005-01-21",
+      "enactment_date": "2005-02-05"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-04"
+    },
+    {
+      "passed_date": "2007-06-15",
+      "enactment_date": "2007-07-04"
+    }
+  ],
+  "lyID": "01234"
+}

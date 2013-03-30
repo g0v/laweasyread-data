@@ -1,0 +1,63 @@
+{
+  "name": [
+    {
+      "name": "師資培育法",
+      "start_date": "1994-01-18"
+    },
+    {
+      "name": "師範教育法",
+      "start_date": "1979-11-06"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1979-11-06",
+      "enactment_date": "1979-11-21"
+    },
+    {
+      "passed_date": "1994-01-18",
+      "enactment_date": "1994-02-07"
+    },
+    {
+      "passed_date": "1996-07-02",
+      "enactment_date": "1996-07-30"
+    },
+    {
+      "passed_date": "1997-04-08",
+      "enactment_date": "1997-04-23"
+    },
+    {
+      "passed_date": "2001-05-04",
+      "enactment_date": "2001-05-16"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2002-06-20",
+      "enactment_date": "2002-07-03"
+    },
+    {
+      "passed_date": "2003-05-13",
+      "enactment_date": "2003-05-28",
+      "enforcement_date": "2003-01-01"
+    },
+    {
+      "passed_date": "2004-04-23",
+      "enactment_date": "2004-05-05",
+      "enforcement_date": "2004-05-05"
+    },
+    {
+      "passed_date": "2005-05-27",
+      "enactment_date": "2005-06-22",
+      "enforcement_date": "2005-06-22"
+    },
+    {
+      "passed_date": "2005-12-09",
+      "enactment_date": "2005-12-28",
+      "enforcement_date": "2005-12-28"
+    }
+  ],
+  "lyID": "01717"
+}

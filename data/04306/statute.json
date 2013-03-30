@@ -1,0 +1,55 @@
+{
+  "name": [
+    {
+      "name": "中央研究院組織法",
+      "start_date": "1928-11-09"
+    },
+    {
+      "name": "國立中央研究院組織法",
+      "start_date": "1943-10-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1928-11-09",
+      "enactment_date": "1928-11-09"
+    },
+    {
+      "passed_date": "1935-05-17",
+      "enactment_date": "1935-05-27"
+    },
+    {
+      "passed_date": "1936-10-02",
+      "enactment_date": "1936-11-06"
+    },
+    {
+      "passed_date": "1943-10-29",
+      "enactment_date": "1943-11-17"
+    },
+    {
+      "passed_date": "1947-03-13",
+      "enactment_date": "1947-03-13"
+    },
+    {
+      "passed_date": "1954-12-17",
+      "enactment_date": "1954-12-28"
+    },
+    {
+      "passed_date": "1990-01-17",
+      "enactment_date": "1990-01-24"
+    },
+    {
+      "passed_date": "2001-10-04",
+      "enactment_date": "2001-10-17"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2006-01-03",
+      "enactment_date": "2006-01-18"
+    }
+  ],
+  "lyID": "04306"
+}

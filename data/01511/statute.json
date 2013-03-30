@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "公庫法",
+      "start_date": "1938-06-03"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1938-06-03",
+      "enactment_date": "1938-06-09",
+      "enforcement_date": "1939-10-01"
+    },
+    {
+      "passed_date": "1946-05-11",
+      "enactment_date": "1946-05-25"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2009-04-14",
+      "enactment_date": "2009-05-06"
+    }
+  ],
+  "lyID": "01511"
+}

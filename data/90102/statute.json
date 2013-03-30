@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "公務人員任用法",
+      "start_date": "1948-11-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-11-19",
+      "enactment_date": "1949-01-01"
+    },
+    {
+      "passed_date": "1953-09-15",
+      "enactment_date": "1954-01-09"
+    },
+    {
+      "passed_date": "1962-08-21",
+      "enactment_date": "1962-09-01"
+    },
+    {
+      "passed_date": "1968-12-06",
+      "enactment_date": "1968-12-18"
+    },
+    {
+      "passed_date": "1980-11-14",
+      "enactment_date": "1987-01-14"
+    }
+  ],
+  "lyID": "90102"
+}

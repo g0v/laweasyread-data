@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "遺產稅法",
+      "start_date": "1946-03-23"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-03-23",
+      "enactment_date": "1946-06-16"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-21"
+    },
+    {
+      "passed_date": "1952-09-12",
+      "enactment_date": "1973-02-06"
+    }
+  ],
+  "lyID": "90021"
+}

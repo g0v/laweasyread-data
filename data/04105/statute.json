@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "中華民國憲法增修條文",
+      "start_date": "1991-04-22"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1991-04-22",
+      "enactment_date": "1991-05-01"
+    },
+    {
+      "passed_date": "1992-05-27",
+      "enactment_date": "1992-05-28"
+    },
+    {
+      "passed_date": "1994-07-28",
+      "enactment_date": "1994-08-01"
+    },
+    {
+      "passed_date": "1997-07-18",
+      "enactment_date": "1997-07-21"
+    },
+    {
+      "passed_date": "1999-09-03",
+      "enactment_date": "1999-09-15"
+    },
+    {
+      "passed_date": "2000-04-24",
+      "enactment_date": "2000-04-25"
+    },
+    {
+      "passed_date": "2004-08-23",
+      "enactment_date": "2005-06-10"
+    }
+  ],
+  "lyID": "04105"
+}

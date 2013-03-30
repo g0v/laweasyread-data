@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "軍事教育條例",
+      "start_date": "1999-06-22"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-07-14"
+    },
+    {
+      "passed_date": "2003-01-13",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2003-06-05",
+      "enactment_date": "2003-06-25"
+    },
+    {
+      "passed_date": "2010-04-20",
+      "enactment_date": "2010-05-05"
+    }
+  ],
+  "lyID": "01452"
+}

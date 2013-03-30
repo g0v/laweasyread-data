@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "公害糾紛處理法",
+      "start_date": "1992-01-16"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1992-01-16",
+      "enactment_date": "1992-02-01"
+    },
+    {
+      "passed_date": "1998-05-15",
+      "enactment_date": "1998-06-03"
+    },
+    {
+      "passed_date": "1999-12-30",
+      "enactment_date": "2000-01-19"
+    },
+    {
+      "passed_date": "2002-06-07",
+      "enactment_date": "2002-06-26"
+    },
+    {
+      "passed_date": "2009-06-02",
+      "enactment_date": "2009-06-17",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "03710"
+}

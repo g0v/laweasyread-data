@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "光碟管理條例",
+      "start_date": "2001-10-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2001-10-31",
+      "enactment_date": "2001-11-14"
+    },
+    {
+      "passed_date": "2005-05-20",
+      "enactment_date": "2005-06-15"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27"
+    }
+  ],
+  "lyID": "08102"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "勞工安全衛生法",
+      "start_date": "1974-04-02"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1974-04-02",
+      "enactment_date": "1974-04-16"
+    },
+    {
+      "passed_date": "1991-04-30",
+      "enactment_date": "1991-05-17"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-06-12"
+    }
+  ],
+  "lyID": "01142"
+}

@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "不動產估價師法",
+      "start_date": "2000-09-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2000-09-19",
+      "enactment_date": "2000-10-04"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2002-11-22",
+      "enactment_date": "2002-12-11"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2011-05-27",
+      "enactment_date": "2011-06-15"
+    }
+  ],
+  "lyID": "01603"
+}

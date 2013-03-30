@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "公平交易法",
+      "start_date": "1991-01-18"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1991-01-18",
+      "enactment_date": "1991-02-04"
+    },
+    {
+      "passed_date": "1999-01-15",
+      "enactment_date": "1999-02-03"
+    },
+    {
+      "passed_date": "2000-04-07",
+      "enactment_date": "2000-04-26"
+    },
+    {
+      "passed_date": "2002-01-15",
+      "enactment_date": "2002-02-06"
+    },
+    {
+      "passed_date": "2010-05-18",
+      "enactment_date": "2010-06-09"
+    },
+    {
+      "passed_date": "2011-11-08",
+      "enactment_date": "2011-11-23"
+    }
+  ],
+  "lyID": "01945"
+}

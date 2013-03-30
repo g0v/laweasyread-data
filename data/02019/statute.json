@@ -1,0 +1,102 @@
+{
+  "name": [
+    {
+      "name": "郵政法",
+      "start_date": "1935-06-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-06-14",
+      "enactment_date": "1935-07-05",
+      "enforcement_date": "1936-11-01"
+    },
+    {
+      "passed_date": "1941-03-22",
+      "enactment_date": "1941-04-09"
+    },
+    {
+      "passed_date": "1941-10-18",
+      "enactment_date": "1941-10-24"
+    },
+    {
+      "passed_date": "1941-12-27",
+      "enactment_date": "1942-01-10"
+    },
+    {
+      "passed_date": "1942-11-28",
+      "enactment_date": "1942-11-30"
+    },
+    {
+      "passed_date": "1943-05-15",
+      "enactment_date": "1943-05-22"
+    },
+    {
+      "passed_date": "1944-02-15",
+      "enactment_date": "1944-02-22"
+    },
+    {
+      "passed_date": "1945-09-29",
+      "enactment_date": "1945-10-01"
+    },
+    {
+      "passed_date": "1946-10-30",
+      "enactment_date": "1946-11-01"
+    },
+    {
+      "passed_date": "1947-06-27",
+      "enactment_date": "1947-06-30"
+    },
+    {
+      "passed_date": "1948-02-05",
+      "enactment_date": "1948-03-15"
+    },
+    {
+      "passed_date": "1948-07-24",
+      "enactment_date": "1948-07-31"
+    },
+    {
+      "passed_date": "1948-11-16",
+      "enactment_date": "1948-11-17"
+    },
+    {
+      "passed_date": "1948-12-31",
+      "enactment_date": "1948-12-31"
+    },
+    {
+      "passed_date": "1949-05-13",
+      "enactment_date": "1949-06-22"
+    },
+    {
+      "passed_date": "1952-11-18",
+      "enactment_date": "1952-12-06"
+    },
+    {
+      "passed_date": "1977-01-21",
+      "enactment_date": "1977-02-01"
+    },
+    {
+      "passed_date": "1983-06-03",
+      "enactment_date": "1983-06-13"
+    },
+    {
+      "passed_date": "1988-06-28",
+      "enactment_date": "1988-07-15"
+    },
+    {
+      "passed_date": "2001-05-04",
+      "enactment_date": "2001-05-16",
+      "enforcement_date": "2001-07-15"
+    },
+    {
+      "passed_date": "2002-06-11",
+      "enactment_date": "2002-07-10",
+      "enforcement_date": "2003-01-01"
+    },
+    {
+      "passed_date": "2011-04-08",
+      "enactment_date": "2011-04-27"
+    }
+  ],
+  "lyID": "02019"
+}

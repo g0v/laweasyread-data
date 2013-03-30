@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "國民住宅條例",
+      "start_date": "1975-07-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1975-07-01",
+      "enactment_date": "1975-07-12"
+    },
+    {
+      "passed_date": "1982-07-20",
+      "enactment_date": "1982-07-30"
+    },
+    {
+      "passed_date": "2002-11-22",
+      "enactment_date": "2002-12-11"
+    },
+    {
+      "passed_date": "2005-01-04",
+      "enactment_date": "2005-01-26"
+    }
+  ],
+  "lyID": "01160"
+}

@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "家庭教育法",
+      "start_date": "2003-01-07"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2003-01-07",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2010-05-04",
+      "enactment_date": "2010-05-19"
+    },
+    {
+      "passed_date": "2011-12-09",
+      "enactment_date": "2011-12-28"
+    }
+  ],
+  "lyID": "01751"
+}

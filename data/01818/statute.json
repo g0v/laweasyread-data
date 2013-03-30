@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "更生保護法",
+      "start_date": "1976-03-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1976-03-30",
+      "enactment_date": "1976-04-08"
+    },
+    {
+      "passed_date": "1980-06-20",
+      "enactment_date": "1980-07-04"
+    },
+    {
+      "passed_date": "2002-06-21",
+      "enactment_date": "2002-07-10"
+    },
+    {
+      "passed_date": "2010-05-04",
+      "enactment_date": "2010-05-26"
+    }
+  ],
+  "lyID": "01818"
+}

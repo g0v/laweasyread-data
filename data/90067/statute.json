@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "name": "商港條例",
+      "start_date": "1933-06-16"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1933-06-16",
+      "enactment_date": "1933-06-27",
+      "enforcement_date": "1946-07-01"
+    },
+    {
+      "passed_date": "1971-10-22",
+      "enactment_date": "1980-05-02"
+    }
+  ],
+  "lyID": "90067"
+}

@@ -1,0 +1,36 @@
+{
+  "name": [
+    {
+      "name": "土地法施行法",
+      "start_date": "1935-03-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-03-08",
+      "enactment_date": "1935-04-05",
+      "enforcement_date": "1936-03-01"
+    },
+    {
+      "passed_date": "1946-03-23",
+      "enactment_date": "1946-04-29"
+    },
+    {
+      "passed_date": "1989-12-15",
+      "enactment_date": "1990-01-05"
+    },
+    {
+      "passed_date": "2000-12-01",
+      "enactment_date": "2000-12-20"
+    },
+    {
+      "passed_date": "2002-11-22",
+      "enactment_date": "2002-12-11"
+    },
+    {
+      "passed_date": "2011-05-27",
+      "enactment_date": "2011-06-15"
+    }
+  ],
+  "lyID": "01151"
+}

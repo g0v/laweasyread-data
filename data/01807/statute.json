@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "仲裁法",
+      "start_date": "1998-05-29"
+    },
+    {
+      "name": "商務仲裁條例",
+      "start_date": "1961-01-10"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1961-01-10",
+      "enactment_date": "1961-01-20"
+    },
+    {
+      "passed_date": "1982-06-01",
+      "enactment_date": "1982-06-11"
+    },
+    {
+      "passed_date": "1986-12-16",
+      "enactment_date": "1986-12-26"
+    },
+    {
+      "passed_date": "1998-05-29",
+      "enactment_date": "1998-06-24"
+    },
+    {
+      "passed_date": "2002-06-21",
+      "enactment_date": "2002-07-10"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2009-12-30",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "01807"
+}

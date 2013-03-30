@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "強制汽車責任保險法",
+      "start_date": "1996-12-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1996-12-13",
+      "enactment_date": "1996-12-27",
+      "enforcement_date": "1998-01-01"
+    },
+    {
+      "passed_date": "2005-01-14",
+      "enactment_date": "2005-02-05"
+    },
+    {
+      "passed_date": "2010-04-30",
+      "enactment_date": "2010-05-19"
+    }
+  ],
+  "lyID": "01591"
+}

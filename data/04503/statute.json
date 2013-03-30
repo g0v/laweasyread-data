@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "最高法院設置分庭暫行條例",
+      "start_date": "1938-01-22"
+    },
+    {
+      "name": "最高法院設置分庭條例",
+      "start_date": "1943-07-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1938-01-22",
+      "enactment_date": "1938-01-22"
+    },
+    {
+      "passed_date": "1938-07-19",
+      "enactment_date": "1938-07-30",
+      "enforcement_date": "1943-07-20"
+    },
+    {
+      "passed_date": "1943-07-20",
+      "enactment_date": "1943-07-20"
+    }
+  ],
+  "lyID": "04503"
+}

@@ -1,0 +1,25 @@
+{
+  "name": [
+    {
+      "name": "民法第一編總則",
+      "start_date": "1929-04-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1929-04-20",
+      "enactment_date": "1929-05-23",
+      "enforcement_date": "1929-10-10"
+    },
+    {
+      "passed_date": "1981-12-22",
+      "enactment_date": "1982-01-04",
+      "enforcement_date": "1983-01-01"
+    },
+    {
+      "passed_date": "2008-05-02",
+      "enactment_date": "2008-05-23"
+    }
+  ],
+  "lyID": "04507"
+}

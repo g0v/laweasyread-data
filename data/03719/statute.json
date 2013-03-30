@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "環境用藥管理法",
+      "start_date": "1997-10-23"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1997-10-23",
+      "enactment_date": "1997-11-10"
+    },
+    {
+      "passed_date": "1999-11-30",
+      "enactment_date": "1999-12-22"
+    },
+    {
+      "passed_date": "2002-12-17",
+      "enactment_date": "2003-01-08"
+    },
+    {
+      "passed_date": "2006-01-06",
+      "enactment_date": "2006-01-27"
+    }
+  ],
+  "lyID": "03719"
+}

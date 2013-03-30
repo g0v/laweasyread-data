@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "土石採取法",
+      "start_date": "2003-01-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2003-01-13",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2007-12-14",
+      "enactment_date": "2008-01-09"
+    }
+  ],
+  "lyID": "01965"
+}

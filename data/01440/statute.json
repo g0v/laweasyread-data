@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "海上捕獲法庭審判條例",
+      "start_date": "1955-05-20"
+    },
+    {
+      "name": "捕獲法院條例",
+      "start_date": "1932-11-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1932-11-25",
+      "enactment_date": "1932-12-15"
+    },
+    {
+      "passed_date": "1955-05-20",
+      "enactment_date": "1955-06-03"
+    },
+    {
+      "passed_date": "1980-06-20",
+      "enactment_date": "1980-07-04"
+    }
+  ],
+  "lyID": "01440"
+}

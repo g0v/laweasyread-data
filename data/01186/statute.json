@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "營造業法",
+      "start_date": "2003-01-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2003-01-13",
+      "enactment_date": "2003-02-07"
+    },
+    {
+      "passed_date": "2004-05-04",
+      "enactment_date": "2004-05-19"
+    },
+    {
+      "passed_date": "2006-05-26",
+      "enactment_date": "2006-06-14"
+    },
+    {
+      "passed_date": "2008-07-15",
+      "enactment_date": "2008-08-06"
+    },
+    {
+      "passed_date": "2009-03-31",
+      "enactment_date": "2009-04-22"
+    },
+    {
+      "passed_date": "2010-05-04",
+      "enactment_date": "2010-05-26"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26"
+    }
+  ],
+  "lyID": "01186"
+}

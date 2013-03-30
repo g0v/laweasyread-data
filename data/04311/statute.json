@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "總統副總統選舉罷免法",
+      "start_date": "1947-03-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-03-25",
+      "enactment_date": "1947-03-31"
+    },
+    {
+      "passed_date": "1954-03-12",
+      "enactment_date": "1999-12-15"
+    }
+  ],
+  "lyID": "04311"
+}

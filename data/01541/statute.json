@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "國際金融業務條例",
+      "start_date": "1983-11-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1983-11-29",
+      "enactment_date": "1983-12-12"
+    },
+    {
+      "passed_date": "1997-09-25",
+      "enactment_date": "1997-10-08"
+    },
+    {
+      "passed_date": "2006-01-06",
+      "enactment_date": "2006-01-27"
+    },
+    {
+      "passed_date": "2009-04-14",
+      "enactment_date": "2009-04-29"
+    },
+    {
+      "passed_date": "2010-05-18",
+      "enactment_date": "2010-06-09",
+      "enforcement_date": "2010-01-01"
+    }
+  ],
+  "lyID": "01541"
+}

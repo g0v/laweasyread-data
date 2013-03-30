@@ -1,0 +1,58 @@
+{
+  "name": [
+    {
+      "name": "行政執行法",
+      "start_date": "1932-12-21"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1932-12-21",
+      "enactment_date": "1932-12-28"
+    },
+    {
+      "passed_date": "1943-11-16",
+      "enactment_date": "1943-12-01"
+    },
+    {
+      "passed_date": "1947-10-21",
+      "enactment_date": "1947-11-11"
+    },
+    {
+      "passed_date": "1998-10-22",
+      "enactment_date": "1998-11-11",
+      "enforcement_date": "2001-01-01"
+    },
+    {
+      "passed_date": "2000-06-09",
+      "enactment_date": "2000-06-21",
+      "enforcement_date": "2001-01-01"
+    },
+    {
+      "passed_date": "2005-05-27",
+      "enactment_date": "2005-06-22",
+      "enforcement_date": "2005-07-28"
+    },
+    {
+      "passed_date": "2007-03-05",
+      "enactment_date": "2007-03-21",
+      "enforcement_date": "2007-05-01"
+    },
+    {
+      "passed_date": "2009-04-14",
+      "enactment_date": "2009-04-29",
+      "enforcement_date": "2009-06-01"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2009-12-30",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2010-01-12",
+      "enactment_date": "2010-02-03",
+      "enforcement_date": "2010-06-03"
+    }
+  ],
+  "lyID": "01821"
+}

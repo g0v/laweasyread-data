@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "能源管理法",
+      "start_date": "1980-07-22"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1980-07-22",
+      "enactment_date": "1980-08-08"
+    },
+    {
+      "passed_date": "1992-01-16",
+      "enactment_date": "1992-01-31"
+    },
+    {
+      "passed_date": "2000-04-07",
+      "enactment_date": "2000-04-26"
+    },
+    {
+      "passed_date": "2002-01-08",
+      "enactment_date": "2002-01-30"
+    },
+    {
+      "passed_date": "2009-06-09",
+      "enactment_date": "2009-07-08"
+    }
+  ],
+  "lyID": "01943"
+}

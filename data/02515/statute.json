@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "化粧品衛生管理條例",
+      "start_date": "1972-12-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1972-12-19",
+      "enactment_date": "1972-12-28"
+    },
+    {
+      "passed_date": "1979-03-23",
+      "enactment_date": "1979-04-04"
+    },
+    {
+      "passed_date": "1985-05-17",
+      "enactment_date": "1985-05-27"
+    },
+    {
+      "passed_date": "1991-05-10",
+      "enactment_date": "1991-05-27"
+    },
+    {
+      "passed_date": "1999-11-30",
+      "enactment_date": "1999-12-22"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    }
+  ],
+  "lyID": "02515"
+}

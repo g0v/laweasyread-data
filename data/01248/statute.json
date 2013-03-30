@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "災害防救法",
+      "start_date": "2000-06-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2000-06-30",
+      "enactment_date": "2000-07-19"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-05-29"
+    },
+    {
+      "passed_date": "2008-04-22",
+      "enactment_date": "2008-05-14"
+    },
+    {
+      "passed_date": "2010-01-05",
+      "enactment_date": "2010-01-27"
+    },
+    {
+      "passed_date": "2010-07-13",
+      "enactment_date": "2010-08-04"
+    },
+    {
+      "passed_date": "2012-11-13",
+      "enactment_date": "2012-11-28"
+    }
+  ],
+  "lyID": "01248"
+}

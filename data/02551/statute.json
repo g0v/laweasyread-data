@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "物理治療師法",
+      "start_date": "1995-01-17"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1995-01-17",
+      "enactment_date": "1995-02-03"
+    },
+    {
+      "passed_date": "1999-11-30",
+      "enactment_date": "1999-12-22"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2007-01-09",
+      "enactment_date": "2007-01-29"
+    }
+  ],
+  "lyID": "02551"
+}

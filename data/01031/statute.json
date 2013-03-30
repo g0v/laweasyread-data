@@ -1,0 +1,29 @@
+{
+  "name": [
+    {
+      "name": "行政院農業委員會組織條例",
+      "start_date": "1984-07-10"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1984-07-10",
+      "enactment_date": "1984-07-20"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-18"
+    },
+    {
+      "passed_date": "1998-05-29",
+      "enactment_date": "1998-06-24",
+      "enforcement_date": "1998-08-01"
+    },
+    {
+      "passed_date": "2003-12-30",
+      "enactment_date": "2004-01-14",
+      "enforcement_date": "2004-01-30"
+    }
+  ],
+  "lyID": "01031"
+}

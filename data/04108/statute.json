@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "九二一震災重建暫行條例",
+      "start_date": "2000-01-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2000-01-15",
+      "enactment_date": "2000-02-03"
+    },
+    {
+      "passed_date": "2000-11-10",
+      "enactment_date": "2000-11-29"
+    },
+    {
+      "passed_date": "2001-10-04",
+      "enactment_date": "2001-10-17"
+    },
+    {
+      "passed_date": "2003-01-14",
+      "enactment_date": "2006-02-04"
+    }
+  ],
+  "lyID": "04108"
+}

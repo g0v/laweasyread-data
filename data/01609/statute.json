@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "儲蓄互助社法",
+      "start_date": "1997-05-06"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1997-05-06",
+      "enactment_date": "1997-05-21"
+    },
+    {
+      "passed_date": "2000-01-13",
+      "enactment_date": "2000-01-26"
+    },
+    {
+      "passed_date": "2002-01-16",
+      "enactment_date": "2002-02-06"
+    }
+  ],
+  "lyID": "01609"
+}

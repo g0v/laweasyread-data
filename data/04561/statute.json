@@ -1,0 +1,46 @@
+{
+  "name": [
+    {
+      "name": "訴願法",
+      "start_date": "1930-03-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-03-15",
+      "enactment_date": "1930-03-24"
+    },
+    {
+      "passed_date": "1936-12-18",
+      "enactment_date": "1937-01-08"
+    },
+    {
+      "passed_date": "1970-12-11",
+      "enactment_date": "1970-12-23"
+    },
+    {
+      "passed_date": "1979-11-27",
+      "enactment_date": "1979-12-07"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-16"
+    },
+    {
+      "passed_date": "1998-10-02",
+      "enactment_date": "1998-10-28",
+      "enforcement_date": "2000-07-01"
+    },
+    {
+      "passed_date": "2000-05-30",
+      "enactment_date": "2000-06-14",
+      "enforcement_date": "2000-07-01"
+    },
+    {
+      "passed_date": "2012-06-05",
+      "enactment_date": "2012-06-27",
+      "enforcement_date": "2012-09-06"
+    }
+  ],
+  "lyID": "04561"
+}

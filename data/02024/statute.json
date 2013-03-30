@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "戰時交通設備及器材防護條例",
+      "start_date": "1956-05-08"
+    },
+    {
+      "name": "戰時交通電業設備及器材防護條例",
+      "start_date": "1960-04-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1956-05-08",
+      "enactment_date": "1956-05-18"
+    },
+    {
+      "passed_date": "1957-04-05",
+      "enactment_date": "1957-04-19"
+    },
+    {
+      "passed_date": "1960-04-15",
+      "enactment_date": "1997-05-07"
+    }
+  ],
+  "lyID": "02024"
+}

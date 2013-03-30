@@ -1,0 +1,63 @@
+{
+  "name": [
+    {
+      "name": "公務人員任用法",
+      "start_date": "1986-04-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1986-04-08",
+      "enactment_date": "1986-04-21",
+      "enforcement_date": "1987-01-16"
+    },
+    {
+      "passed_date": "1990-12-18",
+      "enactment_date": "1990-12-28",
+      "enforcement_date": "1990-12-30"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-18"
+    },
+    {
+      "passed_date": "1995-01-17",
+      "enactment_date": "1995-01-28"
+    },
+    {
+      "passed_date": "1996-10-29",
+      "enactment_date": "1996-11-14"
+    },
+    {
+      "passed_date": "2002-01-08",
+      "enactment_date": "2002-01-29"
+    },
+    {
+      "passed_date": "2005-11-08",
+      "enactment_date": "2005-11-30"
+    },
+    {
+      "passed_date": "2007-03-02",
+      "enactment_date": "2007-03-21"
+    },
+    {
+      "passed_date": "2007-12-21",
+      "enactment_date": "2008-01-16"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2010-01-06",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2010-07-13",
+      "enactment_date": "2010-07-28",
+      "enforcement_date": "2011-01-01"
+    },
+    {
+      "passed_date": "2013-01-04",
+      "enactment_date": "2013-01-23"
+    }
+  ],
+  "lyID": "04617"
+}

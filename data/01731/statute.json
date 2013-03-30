@@ -1,0 +1,21 @@
+{
+  "name": [
+    {
+      "name": "檔案法",
+      "start_date": "1999-11-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1999-11-30",
+      "enactment_date": "1999-12-15",
+      "enforcement_date": "2002-01-01"
+    },
+    {
+      "passed_date": "2008-06-12",
+      "enactment_date": "2008-07-02",
+      "enforcement_date": "2008-09-01"
+    }
+  ],
+  "lyID": "01731"
+}

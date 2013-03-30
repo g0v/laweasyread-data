@@ -1,0 +1,43 @@
+{
+  "name": [
+    {
+      "name": "民事訴訟費用法",
+      "start_date": "1941-03-22"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1941-03-22",
+      "enactment_date": "1941-04-08"
+    },
+    {
+      "passed_date": "1945-04-28",
+      "enactment_date": "1945-05-16"
+    },
+    {
+      "passed_date": "1947-06-27",
+      "enactment_date": "1947-07-15"
+    },
+    {
+      "passed_date": "1948-03-30",
+      "enactment_date": "1948-04-13"
+    },
+    {
+      "passed_date": "1948-12-03",
+      "enactment_date": "1948-12-21"
+    },
+    {
+      "passed_date": "1968-01-09",
+      "enactment_date": "1968-02-01"
+    },
+    {
+      "passed_date": "1971-11-02",
+      "enactment_date": "1971-11-17"
+    },
+    {
+      "passed_date": "1980-06-20",
+      "enactment_date": "2003-09-10"
+    }
+  ],
+  "lyID": "04529"
+}

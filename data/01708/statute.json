@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "國立中央圖書館組織條例",
+      "start_date": "1940-09-26"
+    },
+    {
+      "name": "國家圖書館組織條例",
+      "start_date": "1996-01-09"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1940-09-26",
+      "enactment_date": "1940-10-16"
+    },
+    {
+      "passed_date": "1945-10-16",
+      "enactment_date": "1945-10-27"
+    },
+    {
+      "passed_date": "1996-01-09",
+      "enactment_date": "1996-01-31"
+    }
+  ],
+  "lyID": "01708"
+}

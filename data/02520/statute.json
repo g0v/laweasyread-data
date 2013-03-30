@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "水污染防治法",
+      "start_date": "1974-07-02"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1974-07-02",
+      "enactment_date": "1974-07-11"
+    },
+    {
+      "passed_date": "1983-05-17",
+      "enactment_date": "1983-05-27"
+    },
+    {
+      "passed_date": "1991-04-19",
+      "enactment_date": "1991-05-06"
+    },
+    {
+      "passed_date": "2000-04-11",
+      "enactment_date": "2000-04-26"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-22"
+    },
+    {
+      "passed_date": "2007-11-27",
+      "enactment_date": "2007-12-12"
+    }
+  ],
+  "lyID": "02520"
+}

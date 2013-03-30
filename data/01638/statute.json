@@ -1,0 +1,37 @@
+{
+  "name": [
+    {
+      "name": "金融控股公司法",
+      "start_date": "2001-06-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2001-06-27",
+      "enactment_date": "2001-07-09",
+      "enforcement_date": "2001-11-01"
+    },
+    {
+      "passed_date": "2004-01-13",
+      "enactment_date": "2004-02-04"
+    },
+    {
+      "passed_date": "2004-06-11",
+      "enactment_date": "2004-06-30"
+    },
+    {
+      "passed_date": "2005-04-29",
+      "enactment_date": "2005-05-18"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2008-12-30",
+      "enactment_date": "2009-01-21"
+    }
+  ],
+  "lyID": "01638"
+}

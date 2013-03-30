@@ -1,0 +1,50 @@
+{
+  "name": [
+    {
+      "name": "民事訴訟法施行法",
+      "start_date": "1932-01-29"
+    },
+    {
+      "name": "中華民國民事訴訟法施行法",
+      "start_date": "1935-04-26"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1932-01-29",
+      "enactment_date": "1932-05-14"
+    },
+    {
+      "passed_date": "1935-04-26",
+      "enactment_date": "1935-05-10",
+      "enforcement_date": "1935-07-01"
+    },
+    {
+      "passed_date": "1968-01-09",
+      "enactment_date": "1968-02-01"
+    },
+    {
+      "passed_date": "1990-07-17",
+      "enactment_date": "1990-08-20"
+    },
+    {
+      "passed_date": "1999-01-15",
+      "enactment_date": "1999-02-03"
+    },
+    {
+      "passed_date": "2003-01-14",
+      "enactment_date": "2003-02-07",
+      "enforcement_date": "2003-09-01"
+    },
+    {
+      "passed_date": "2003-06-06",
+      "enactment_date": "2003-06-25",
+      "enforcement_date": "2003-09-01"
+    },
+    {
+      "passed_date": "2009-06-12",
+      "enactment_date": "2009-07-08"
+    }
+  ],
+  "lyID": "04528"
+}

@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "陸海空軍懲罰法",
+      "start_date": "1930-09-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-09-27",
+      "enactment_date": "1930-10-07"
+    },
+    {
+      "passed_date": "1935-02-15",
+      "enactment_date": "1935-03-07"
+    },
+    {
+      "passed_date": "1952-11-25",
+      "enactment_date": "1952-12-08"
+    },
+    {
+      "passed_date": "1967-06-23",
+      "enactment_date": "1967-07-05"
+    },
+    {
+      "passed_date": "2008-12-30",
+      "enactment_date": "2009-01-21"
+    }
+  ],
+  "lyID": "01433"
+}

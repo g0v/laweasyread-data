@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "name": "陸軍服制條例",
+      "start_date": "1935-12-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-12-13",
+      "enactment_date": "1936-01-20"
+    },
+    {
+      "passed_date": "1959-03-13",
+      "enactment_date": "2007-11-07",
+      "enforcement_date": "1959-06-01"
+    }
+  ],
+  "lyID": "01422"
+}

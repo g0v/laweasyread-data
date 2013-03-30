@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "分類職位公務人員考試法",
+      "start_date": "1967-05-23"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1967-05-23",
+      "enactment_date": "1967-06-08",
+      "enforcement_date": "1968-01-15"
+    },
+    {
+      "passed_date": "1968-04-26",
+      "enactment_date": "1968-05-09"
+    },
+    {
+      "passed_date": "1969-08-05",
+      "enactment_date": "1969-08-25"
+    },
+    {
+      "passed_date": "1972-01-25",
+      "enactment_date": "1972-02-05"
+    },
+    {
+      "passed_date": "1978-10-17",
+      "enactment_date": "1986-01-24"
+    }
+  ],
+  "lyID": "90027"
+}

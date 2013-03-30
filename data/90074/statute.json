@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "工廠法施行條例",
+      "start_date": "1930-12-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-12-04",
+      "enactment_date": "1930-12-16",
+      "enforcement_date": "1931-08-01"
+    },
+    {
+      "passed_date": "1932-11-19",
+      "enactment_date": "1932-12-30"
+    },
+    {
+      "passed_date": "1935-03-27",
+      "enactment_date": "1935-04-10"
+    },
+    {
+      "passed_date": "1936-11-27",
+      "enactment_date": "1975-12-19"
+    }
+  ],
+  "lyID": "90074"
+}

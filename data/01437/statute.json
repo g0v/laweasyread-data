@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "國防部測量標設置保護條例",
+      "start_date": "1948-02-28"
+    },
+    {
+      "name": "測量標設置保護條例",
+      "start_date": "1952-11-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-02-28",
+      "enactment_date": "1948-03-15"
+    },
+    {
+      "passed_date": "1952-11-04",
+      "enactment_date": "2008-01-02"
+    }
+  ],
+  "lyID": "01437"
+}

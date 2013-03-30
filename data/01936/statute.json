@@ -1,0 +1,70 @@
+{
+  "name": [
+    {
+      "name": "商標法",
+      "start_date": "1930-04-26"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-04-26",
+      "enactment_date": "1930-05-06",
+      "enforcement_date": "1931-01-01"
+    },
+    {
+      "passed_date": "1935-10-31",
+      "enactment_date": "1935-11-23"
+    },
+    {
+      "passed_date": "1940-08-30",
+      "enactment_date": "1940-10-19"
+    },
+    {
+      "passed_date": "1958-10-14",
+      "enactment_date": "1958-10-24"
+    },
+    {
+      "passed_date": "1972-06-23",
+      "enactment_date": "1972-07-04"
+    },
+    {
+      "passed_date": "1983-01-14",
+      "enactment_date": "1983-01-26"
+    },
+    {
+      "passed_date": "1985-11-19",
+      "enactment_date": "1985-11-29"
+    },
+    {
+      "passed_date": "1989-05-09",
+      "enactment_date": "1989-05-26"
+    },
+    {
+      "passed_date": "1993-11-19",
+      "enactment_date": "1993-12-22"
+    },
+    {
+      "passed_date": "1997-04-15",
+      "enactment_date": "1997-05-07"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-05-29"
+    },
+    {
+      "passed_date": "2003-04-29",
+      "enactment_date": "2003-05-28"
+    },
+    {
+      "passed_date": "2010-08-17",
+      "enactment_date": "2010-08-25",
+      "enforcement_date": "2010-09-12"
+    },
+    {
+      "passed_date": "2011-05-31",
+      "enactment_date": "2011-06-29",
+      "enforcement_date": "2012-07-01"
+    }
+  ],
+  "lyID": "01936"
+}

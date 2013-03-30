@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "違反糧食管理治罪條例",
+      "start_date": "1948-10-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-10-29",
+      "enactment_date": "1948-11-10"
+    },
+    {
+      "passed_date": "1952-11-14",
+      "enactment_date": "1952-11-29"
+    },
+    {
+      "passed_date": "1958-12-02",
+      "enactment_date": "1958-12-10"
+    },
+    {
+      "passed_date": "1971-10-19",
+      "enactment_date": "1997-05-30"
+    }
+  ],
+  "lyID": "04543"
+}

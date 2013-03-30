@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "省銀行條例",
+      "start_date": "1945-06-16"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1945-06-16",
+      "enactment_date": "1945-07-03"
+    },
+    {
+      "passed_date": "1947-04-15",
+      "enactment_date": "1947-04-29"
+    },
+    {
+      "passed_date": "1947-12-22",
+      "enactment_date": "1993-07-30"
+    }
+  ],
+  "lyID": "01539"
+}

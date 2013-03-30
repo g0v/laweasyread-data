@@ -1,0 +1,185 @@
+{
+  "name": [
+    {
+      "name": "營業稅法",
+      "start_date": "1931-06-06"
+    },
+    {
+      "name": "加值型及非加值型營業稅法",
+      "start_date": "2001-06-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-06-06",
+      "enactment_date": "1931-06-13"
+    },
+    {
+      "passed_date": "1941-09-26",
+      "enactment_date": "1941-09-26"
+    },
+    {
+      "passed_date": "1942-06-20",
+      "enactment_date": "1942-07-02"
+    },
+    {
+      "passed_date": "1946-03-23",
+      "enactment_date": "1946-04-16"
+    },
+    {
+      "passed_date": "1947-04-24",
+      "enactment_date": "1947-05-02"
+    },
+    {
+      "passed_date": "1947-10-21",
+      "enactment_date": "1947-11-14"
+    },
+    {
+      "passed_date": "1950-05-23",
+      "enactment_date": "1950-06-07"
+    },
+    {
+      "passed_date": "1951-11-06",
+      "enactment_date": "1951-11-24"
+    },
+    {
+      "passed_date": "1952-09-09",
+      "enactment_date": "1952-09-19"
+    },
+    {
+      "passed_date": "1955-12-16",
+      "enactment_date": "1955-12-30"
+    },
+    {
+      "passed_date": "1959-04-03",
+      "enactment_date": "1959-04-13"
+    },
+    {
+      "passed_date": "1965-12-24",
+      "enactment_date": "1965-12-30"
+    },
+    {
+      "passed_date": "1967-12-22",
+      "enactment_date": "1968-01-11"
+    },
+    {
+      "passed_date": "1970-11-13",
+      "enactment_date": "1970-11-28"
+    },
+    {
+      "passed_date": "1980-05-27",
+      "enactment_date": "1980-06-29"
+    },
+    {
+      "passed_date": "1985-11-05",
+      "enactment_date": "1985-11-15",
+      "enforcement_date": "1986-04-01"
+    },
+    {
+      "passed_date": "1988-05-10",
+      "enactment_date": "1988-05-27",
+      "enforcement_date": "1988-07-01"
+    },
+    {
+      "passed_date": "1993-07-09",
+      "enactment_date": "1993-07-30",
+      "enforcement_date": "1993-08-01"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-18",
+      "enforcement_date": "1995-03-01"
+    },
+    {
+      "passed_date": "1995-07-12",
+      "enactment_date": "1995-08-02",
+      "enforcement_date": "1995-09-01"
+    },
+    {
+      "passed_date": "1997-04-15",
+      "enactment_date": "1997-05-07",
+      "enforcement_date": "2002-01-01"
+    },
+    {
+      "passed_date": "1997-05-16",
+      "enactment_date": "1997-05-30",
+      "enforcement_date": "1997-07-01"
+    },
+    {
+      "passed_date": "1997-10-09",
+      "enactment_date": "1997-10-29",
+      "enforcement_date": "1997-12-01"
+    },
+    {
+      "passed_date": "1998-05-28",
+      "enactment_date": "1998-06-17",
+      "enforcement_date": "1998-07-10"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-06-28",
+      "enforcement_date": "2002-01-01"
+    },
+    {
+      "passed_date": "2001-05-29",
+      "enactment_date": "2001-06-13",
+      "enforcement_date": "2001-07-01"
+    },
+    {
+      "passed_date": "2001-06-27",
+      "enactment_date": "2001-07-09",
+      "enforcement_date": "2002-01-01"
+    },
+    {
+      "passed_date": "2003-06-05",
+      "enactment_date": "2003-06-25",
+      "enforcement_date": "2003-07-01"
+    },
+    {
+      "passed_date": "2005-05-31",
+      "enactment_date": "2005-06-22",
+      "enforcement_date": "2005-08-01"
+    },
+    {
+      "passed_date": "2006-01-13",
+      "enactment_date": "2006-02-03",
+      "enforcement_date": "2006-05-01"
+    },
+    {
+      "passed_date": "2007-11-21",
+      "enactment_date": "2007-12-12",
+      "enforcement_date": "2008-03-01"
+    },
+    {
+      "passed_date": "2007-12-21",
+      "enactment_date": "2008-01-16",
+      "enforcement_date": "2008-03-01"
+    },
+    {
+      "passed_date": "2008-03-07",
+      "enactment_date": "2008-03-10",
+      "enforcement_date": "2008-03-10"
+    },
+    {
+      "passed_date": "2010-04-20",
+      "enactment_date": "2010-05-05",
+      "enforcement_date": "2010-07-01"
+    },
+    {
+      "passed_date": "2010-11-12",
+      "enactment_date": "2010-12-08",
+      "enforcement_date": "2011-02-01"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26",
+      "enforcement_date": "2011-04-01"
+    },
+    {
+      "passed_date": "2011-11-08",
+      "enactment_date": "2011-11-23",
+      "enforcement_date": "2011-11-23"
+    }
+  ],
+  "lyID": "01521"
+}

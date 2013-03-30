@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "市組織法",
+      "start_date": "1930-05-03"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-05-03",
+      "enactment_date": "1930-05-20"
+    },
+    {
+      "passed_date": "1943-04-30",
+      "enactment_date": "1943-05-19"
+    },
+    {
+      "passed_date": "1947-06-27",
+      "enactment_date": "2000-04-05"
+    }
+  ],
+  "lyID": "04802"
+}

@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "公務人員俸給法",
+      "start_date": "1986-07-03"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1986-07-03",
+      "enactment_date": "1986-07-16",
+      "enforcement_date": "1987-01-16"
+    },
+    {
+      "passed_date": "1990-12-18",
+      "enactment_date": "1990-12-28",
+      "enforcement_date": "1990-12-30"
+    },
+    {
+      "passed_date": "1997-04-29",
+      "enactment_date": "1997-05-21"
+    },
+    {
+      "passed_date": "2002-05-31",
+      "enactment_date": "2002-06-26",
+      "enforcement_date": "2002-08-30"
+    },
+    {
+      "passed_date": "2005-04-29",
+      "enactment_date": "2005-05-18",
+      "enforcement_date": "2005-05-20"
+    },
+    {
+      "passed_date": "2007-12-21",
+      "enactment_date": "2008-01-16"
+    }
+  ],
+  "lyID": "04634"
+}

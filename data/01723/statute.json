@@ -1,0 +1,55 @@
+{
+  "name": [
+    {
+      "name": "補習教育法",
+      "start_date": "1944-09-20"
+    },
+    {
+      "name": "補習及進修教育法",
+      "start_date": "1999-06-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1944-09-20",
+      "enactment_date": "1944-10-07"
+    },
+    {
+      "passed_date": "1976-06-29",
+      "enactment_date": "1976-07-12"
+    },
+    {
+      "passed_date": "1982-05-25",
+      "enactment_date": "1982-06-09"
+    },
+    {
+      "passed_date": "1996-12-31",
+      "enactment_date": "1997-01-15"
+    },
+    {
+      "passed_date": "1997-04-29",
+      "enactment_date": "1997-05-21"
+    },
+    {
+      "passed_date": "1999-06-01",
+      "enactment_date": "1999-06-16"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2002-06-20",
+      "enactment_date": "2002-07-10"
+    },
+    {
+      "passed_date": "2004-06-04",
+      "enactment_date": "2004-06-23"
+    },
+    {
+      "passed_date": "2013-01-11",
+      "enactment_date": "2013-01-30"
+    }
+  ],
+  "lyID": "01723"
+}

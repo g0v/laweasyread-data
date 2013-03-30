@@ -1,0 +1,142 @@
+{
+  "name": [
+    {
+      "name": "貨物稅條例",
+      "start_date": "1946-07-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-07-30",
+      "enactment_date": "1946-08-16"
+    },
+    {
+      "passed_date": "1946-11-11",
+      "enactment_date": "1946-11-27"
+    },
+    {
+      "passed_date": "1947-03-11",
+      "enactment_date": "1947-03-21"
+    },
+    {
+      "passed_date": "1948-03-16",
+      "enactment_date": "1948-04-02"
+    },
+    {
+      "passed_date": "1948-05-01",
+      "enactment_date": "1948-05-15"
+    },
+    {
+      "passed_date": "1948-07-20",
+      "enactment_date": "1948-07-30"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-16"
+    },
+    {
+      "passed_date": "1952-05-02",
+      "enactment_date": "1952-05-16"
+    },
+    {
+      "passed_date": "1954-07-09",
+      "enactment_date": "1954-07-10"
+    },
+    {
+      "passed_date": "1958-07-11",
+      "enactment_date": "1958-07-12"
+    },
+    {
+      "passed_date": "1962-08-14",
+      "enactment_date": "1962-08-14",
+      "enforcement_date": "1962-08-15"
+    },
+    {
+      "passed_date": "1965-05-18",
+      "enactment_date": "1965-05-21"
+    },
+    {
+      "passed_date": "1968-06-14",
+      "enactment_date": "1968-06-14"
+    },
+    {
+      "passed_date": "1971-01-08",
+      "enactment_date": "1971-01-09"
+    },
+    {
+      "passed_date": "1972-07-25",
+      "enactment_date": "1972-07-26"
+    },
+    {
+      "passed_date": "1976-12-24",
+      "enactment_date": "1977-01-04"
+    },
+    {
+      "passed_date": "1979-05-25",
+      "enactment_date": "1979-05-29"
+    },
+    {
+      "passed_date": "1981-07-17",
+      "enactment_date": "1981-07-30"
+    },
+    {
+      "passed_date": "1986-01-14",
+      "enactment_date": "1986-01-27"
+    },
+    {
+      "passed_date": "1990-01-18",
+      "enactment_date": "1990-01-24"
+    },
+    {
+      "passed_date": "1993-07-09",
+      "enactment_date": "1993-07-30"
+    },
+    {
+      "passed_date": "1995-06-13",
+      "enactment_date": "1995-06-29"
+    },
+    {
+      "passed_date": "1997-04-15",
+      "enactment_date": "1997-05-07",
+      "enforcement_date": "2002-01-01"
+    },
+    {
+      "passed_date": "2001-09-27",
+      "enactment_date": "2001-10-11"
+    },
+    {
+      "passed_date": "2001-10-11",
+      "enactment_date": "2001-10-31",
+      "enforcement_date": "2002-01-01"
+    },
+    {
+      "passed_date": "2002-06-20",
+      "enactment_date": "2002-07-17"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-11"
+    },
+    {
+      "passed_date": "2009-01-12",
+      "enactment_date": "2009-01-17"
+    },
+    {
+      "passed_date": "2009-05-15",
+      "enactment_date": "2009-06-03"
+    },
+    {
+      "passed_date": "2009-12-11",
+      "enactment_date": "2009-12-30"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26"
+    },
+    {
+      "passed_date": "2011-12-14",
+      "enactment_date": "2011-12-28"
+    }
+  ],
+  "lyID": "01517"
+}

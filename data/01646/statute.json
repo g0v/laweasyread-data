@@ -1,0 +1,25 @@
+{
+  "name": [
+    {
+      "name": "農業金融法",
+      "start_date": "2003-07-10"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2003-07-10",
+      "enactment_date": "2003-07-23",
+      "enforcement_date": "2004-01-30"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2011-03-29",
+      "enactment_date": "2011-04-13"
+    }
+  ],
+  "lyID": "01646"
+}

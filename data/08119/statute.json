@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "name": "水患治理特別條例",
+      "start_date": "2006-01-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2006-01-13",
+      "enactment_date": "2006-01-27"
+    },
+    {
+      "passed_date": "2010-11-16",
+      "enactment_date": "2010-12-08",
+      "enforcement_date": "2010-12-25"
+    }
+  ],
+  "lyID": "08119"
+}

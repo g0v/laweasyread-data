@@ -1,0 +1,61 @@
+{
+  "name": [
+    {
+      "name": "行政訴訟法",
+      "start_date": "1932-10-22"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1932-10-22",
+      "enactment_date": "1932-11-17",
+      "enforcement_date": "1933-06-23"
+    },
+    {
+      "passed_date": "1936-12-18",
+      "enactment_date": "1937-01-08"
+    },
+    {
+      "passed_date": "1942-07-10",
+      "enactment_date": "1942-07-27"
+    },
+    {
+      "passed_date": "1969-10-24",
+      "enactment_date": "1969-11-05"
+    },
+    {
+      "passed_date": "1975-11-28",
+      "enactment_date": "1975-12-12"
+    },
+    {
+      "passed_date": "1998-10-02",
+      "enactment_date": "1998-10-28",
+      "enforcement_date": "2000-07-01"
+    },
+    {
+      "passed_date": "2007-06-05",
+      "enactment_date": "2007-07-04",
+      "enforcement_date": "2007-08-15"
+    },
+    {
+      "passed_date": "2009-12-22",
+      "enactment_date": "2010-01-13",
+      "enforcement_date": "2010-05-01"
+    },
+    {
+      "passed_date": "2011-05-06",
+      "enactment_date": "2011-05-25",
+      "enforcement_date": "2012-09-06"
+    },
+    {
+      "passed_date": "2011-11-01",
+      "enactment_date": "2011-11-23",
+      "enforcement_date": "2012-09-06"
+    },
+    {
+      "passed_date": "2012-12-21",
+      "enactment_date": "2013-01-09"
+    }
+  ],
+  "lyID": "04562"
+}

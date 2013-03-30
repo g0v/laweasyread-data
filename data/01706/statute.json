@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "國立編譯館組織條例",
+      "start_date": "1933-03-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1933-03-24",
+      "enactment_date": "1933-04-22"
+    },
+    {
+      "passed_date": "1941-05-31",
+      "enactment_date": "1941-06-13"
+    },
+    {
+      "passed_date": "1945-09-29",
+      "enactment_date": "1945-10-12"
+    },
+    {
+      "passed_date": "1947-05-15",
+      "enactment_date": "1947-05-29"
+    }
+  ],
+  "lyID": "01706"
+}

@@ -1,0 +1,33 @@
+{
+  "name": [
+    {
+      "name": "替代役實施條例",
+      "start_date": "2000-01-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2000-01-15",
+      "enactment_date": "2000-02-02",
+      "enforcement_date": "2000-05-01"
+    },
+    {
+      "passed_date": "2001-01-04",
+      "enactment_date": "2001-01-17"
+    },
+    {
+      "passed_date": "2003-01-03",
+      "enactment_date": "2003-01-29",
+      "enforcement_date": "2003-02-10"
+    },
+    {
+      "passed_date": "2003-06-03",
+      "enactment_date": "2003-06-18"
+    },
+    {
+      "passed_date": "2007-01-05",
+      "enactment_date": "2007-01-24"
+    }
+  ],
+  "lyID": "01456"
+}

@@ -1,0 +1,44 @@
+{
+  "name": [
+    {
+      "name": "少年觀護所條例",
+      "start_date": "1964-08-25"
+    },
+    {
+      "name": "少年觀護所設置及實施通則",
+      "start_date": "2001-12-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1964-08-25",
+      "enactment_date": "1964-09-04",
+      "enforcement_date": "1971-07-01"
+    },
+    {
+      "passed_date": "1972-01-18",
+      "enactment_date": "1972-01-29"
+    },
+    {
+      "passed_date": "1974-12-10",
+      "enactment_date": "1974-12-21"
+    },
+    {
+      "passed_date": "1979-03-23",
+      "enactment_date": "1979-04-04"
+    },
+    {
+      "passed_date": "1980-07-11",
+      "enactment_date": "1980-07-23"
+    },
+    {
+      "passed_date": "2001-12-28",
+      "enactment_date": "2002-01-25"
+    },
+    {
+      "passed_date": "2007-06-15",
+      "enactment_date": "2007-07-11"
+    }
+  ],
+  "lyID": "01819"
+}

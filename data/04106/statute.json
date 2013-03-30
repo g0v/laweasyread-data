@@ -1,0 +1,29 @@
+{
+  "name": [
+    {
+      "name": "公民投票法",
+      "start_date": "2003-11-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2003-11-27",
+      "enactment_date": "2003-12-31"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2009-06-02",
+      "enactment_date": "2009-06-17"
+    }
+  ],
+  "lyID": "04106"
+}

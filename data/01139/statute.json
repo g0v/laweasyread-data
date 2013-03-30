@@ -1,0 +1,52 @@
+{
+  "name": [
+    {
+      "name": "勞動基準法",
+      "start_date": "1984-07-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1984-07-19",
+      "enactment_date": "1984-07-30"
+    },
+    {
+      "passed_date": "1996-12-06",
+      "enactment_date": "1996-12-27"
+    },
+    {
+      "passed_date": "1998-05-01",
+      "enactment_date": "1998-05-13"
+    },
+    {
+      "passed_date": "2000-06-16",
+      "enactment_date": "2000-06-28",
+      "enforcement_date": "2001-01-01"
+    },
+    {
+      "passed_date": "2000-06-30",
+      "enactment_date": "2000-07-19"
+    },
+    {
+      "passed_date": "2002-05-21",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2002-12-10",
+      "enactment_date": "2002-12-25"
+    },
+    {
+      "passed_date": "2008-04-25",
+      "enactment_date": "2008-05-14"
+    },
+    {
+      "passed_date": "2009-03-31",
+      "enactment_date": "2009-04-22"
+    },
+    {
+      "passed_date": "2011-06-13",
+      "enactment_date": "2011-06-29"
+    }
+  ],
+  "lyID": "01139"
+}

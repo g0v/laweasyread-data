@@ -1,0 +1,47 @@
+{
+  "name": [
+    {
+      "name": "筵席及娛樂稅法",
+      "start_date": "1942-04-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1942-04-15",
+      "enactment_date": "1942-04-24"
+    },
+    {
+      "passed_date": "1943-06-26",
+      "enactment_date": "1943-07-08"
+    },
+    {
+      "passed_date": "1946-11-22",
+      "enactment_date": "1946-12-05"
+    },
+    {
+      "passed_date": "1947-11-15",
+      "enactment_date": "1947-12-01"
+    },
+    {
+      "passed_date": "1948-12-07",
+      "enactment_date": "1948-12-30"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-17"
+    },
+    {
+      "passed_date": "1955-12-27",
+      "enactment_date": "1955-12-31"
+    },
+    {
+      "passed_date": "1962-01-26",
+      "enactment_date": "1962-02-03"
+    },
+    {
+      "passed_date": "1971-07-16",
+      "enactment_date": "1980-06-29"
+    }
+  ],
+  "lyID": "90053"
+}

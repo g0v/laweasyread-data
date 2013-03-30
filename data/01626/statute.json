@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "期貨交易稅條例",
+      "start_date": "1998-05-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1998-05-28",
+      "enactment_date": "1998-06-20"
+    },
+    {
+      "passed_date": "2005-11-22",
+      "enactment_date": "2005-12-14"
+    },
+    {
+      "passed_date": "2008-07-15",
+      "enactment_date": "2008-08-06"
+    }
+  ],
+  "lyID": "01626"
+}

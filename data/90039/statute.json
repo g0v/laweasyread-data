@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "空軍軍旗條例",
+      "start_date": "1948-12-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-12-31",
+      "enactment_date": "1949-01-13"
+    },
+    {
+      "passed_date": "1954-04-27",
+      "enactment_date": "1986-01-03"
+    }
+  ],
+  "lyID": "90039"
+}

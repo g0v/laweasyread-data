@@ -1,0 +1,30 @@
+{
+  "name": [
+    {
+      "name": "行政院衛生署疾病管制局組織條例",
+      "start_date": "1999-01-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1999-01-14",
+      "enactment_date": "1999-02-03",
+      "enforcement_date": "1999-07-01"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-07-15"
+    },
+    {
+      "passed_date": "2001-06-01",
+      "enactment_date": "2001-06-20",
+      "enforcement_date": "2001-07-12"
+    },
+    {
+      "passed_date": "2004-06-08",
+      "enactment_date": "2004-06-23",
+      "enforcement_date": "2004-07-01"
+    }
+  ],
+  "lyID": "02561"
+}

@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "動物用藥品管理法",
+      "start_date": "1971-08-06"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1971-08-06",
+      "enactment_date": "1971-08-16"
+    },
+    {
+      "passed_date": "2002-05-24",
+      "enactment_date": "2002-06-19"
+    },
+    {
+      "passed_date": "2002-11-26",
+      "enactment_date": "2002-12-18"
+    },
+    {
+      "passed_date": "2008-11-18",
+      "enactment_date": "2008-12-03"
+    },
+    {
+      "passed_date": "2013-01-04",
+      "enactment_date": "2013-01-23"
+    }
+  ],
+  "lyID": "03112"
+}

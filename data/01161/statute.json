@@ -1,0 +1,47 @@
+{
+  "name": [
+    {
+      "name": "都市計畫法",
+      "start_date": "1939-05-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1939-05-27",
+      "enactment_date": "1939-06-08"
+    },
+    {
+      "passed_date": "1964-08-21",
+      "enactment_date": "1964-09-01"
+    },
+    {
+      "passed_date": "1973-08-28",
+      "enactment_date": "1973-09-06"
+    },
+    {
+      "passed_date": "1988-06-28",
+      "enactment_date": "1988-07-15"
+    },
+    {
+      "passed_date": "2000-01-06",
+      "enactment_date": "2000-01-26"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2002-11-19",
+      "enactment_date": "2002-12-11"
+    },
+    {
+      "passed_date": "2008-12-19",
+      "enactment_date": "2009-01-07"
+    },
+    {
+      "passed_date": "2010-05-04",
+      "enactment_date": "2010-05-19"
+    }
+  ],
+  "lyID": "01161"
+}

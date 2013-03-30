@@ -1,0 +1,60 @@
+{
+  "name": [
+    {
+      "name": "學校教職員退休條例",
+      "start_date": "1944-05-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1944-05-30",
+      "enactment_date": "1944-06-23"
+    },
+    {
+      "passed_date": "1948-03-30",
+      "enactment_date": "1948-04-10"
+    },
+    {
+      "passed_date": "1962-06-01",
+      "enactment_date": "1962-06-12"
+    },
+    {
+      "passed_date": "1972-08-08",
+      "enactment_date": "1972-08-16"
+    },
+    {
+      "passed_date": "1979-12-14",
+      "enactment_date": "1979-12-28"
+    },
+    {
+      "passed_date": "1995-07-13",
+      "enactment_date": "1995-08-02",
+      "enforcement_date": "1996-02-01"
+    },
+    {
+      "passed_date": "1999-12-28",
+      "enactment_date": "2000-01-12",
+      "enforcement_date": "1999-07-01"
+    },
+    {
+      "passed_date": "2007-06-15",
+      "enactment_date": "2007-07-11",
+      "enforcement_date": "2008-01-01"
+    },
+    {
+      "passed_date": "2009-01-09",
+      "enactment_date": "2009-01-21",
+      "enforcement_date": "2009-08-01"
+    },
+    {
+      "passed_date": "2009-10-23",
+      "enactment_date": "2009-11-18",
+      "enforcement_date": "2009-11-18"
+    },
+    {
+      "passed_date": "2009-12-22",
+      "enactment_date": "2010-01-13"
+    }
+  ],
+  "lyID": "01726"
+}

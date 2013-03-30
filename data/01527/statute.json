@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "娛樂稅法",
+      "start_date": "1980-05-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1980-05-27",
+      "enactment_date": "1980-06-29"
+    },
+    {
+      "passed_date": "1992-03-19",
+      "enactment_date": "1992-04-06"
+    },
+    {
+      "passed_date": "1993-07-09",
+      "enactment_date": "1993-07-30"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2007-05-04",
+      "enactment_date": "2007-05-23"
+    }
+  ],
+  "lyID": "01527"
+}

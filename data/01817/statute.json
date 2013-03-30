@@ -1,0 +1,51 @@
+{
+  "name": [
+    {
+      "name": "保安處分執行法",
+      "start_date": "1963-05-21"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1963-05-21",
+      "enactment_date": "1963-07-03"
+    },
+    {
+      "passed_date": "1967-07-18",
+      "enactment_date": "1967-08-01"
+    },
+    {
+      "passed_date": "1975-01-17",
+      "enactment_date": "1975-01-28"
+    },
+    {
+      "passed_date": "1980-06-20",
+      "enactment_date": "1980-07-04"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-18"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-06-05",
+      "enforcement_date": "2002-07-01"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2010-05-04",
+      "enactment_date": "2010-05-26",
+      "enforcement_date": "2010-07-01"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26",
+      "enforcement_date": "2011-03-08"
+    }
+  ],
+  "lyID": "01817"
+}

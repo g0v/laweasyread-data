@@ -1,0 +1,77 @@
+{
+  "name": [
+    {
+      "name": "預算法",
+      "start_date": "1932-08-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1932-08-13",
+      "enactment_date": "1932-09-24"
+    },
+    {
+      "passed_date": "1937-03-19",
+      "enactment_date": "1937-04-27",
+      "enforcement_date": "1938-01-01"
+    },
+    {
+      "passed_date": "1948-05-01",
+      "enactment_date": "1948-05-27"
+    },
+    {
+      "passed_date": "1953-06-05",
+      "enactment_date": "1953-06-20"
+    },
+    {
+      "passed_date": "1957-04-05",
+      "enactment_date": "1957-04-19"
+    },
+    {
+      "passed_date": "1959-08-04",
+      "enactment_date": "1959-08-12"
+    },
+    {
+      "passed_date": "1971-12-10",
+      "enactment_date": "1971-12-17"
+    },
+    {
+      "passed_date": "1998-10-15",
+      "enactment_date": "1998-10-29",
+      "enforcement_date": "1998-10-29"
+    },
+    {
+      "passed_date": "2000-11-24",
+      "enactment_date": "2000-12-06"
+    },
+    {
+      "passed_date": "2000-11-28",
+      "enactment_date": "2000-12-06"
+    },
+    {
+      "passed_date": "2002-11-26",
+      "enactment_date": "2002-12-18"
+    },
+    {
+      "passed_date": "2007-12-07",
+      "enactment_date": "2007-12-26"
+    },
+    {
+      "passed_date": "2007-12-21",
+      "enactment_date": "2008-01-09"
+    },
+    {
+      "passed_date": "2008-05-02",
+      "enactment_date": "2008-05-14"
+    },
+    {
+      "passed_date": "2011-01-12",
+      "enactment_date": "2011-01-26"
+    },
+    {
+      "passed_date": "2011-05-06",
+      "enactment_date": "2011-05-25"
+    }
+  ],
+  "lyID": "02301"
+}

@@ -1,0 +1,60 @@
+{
+  "name": [
+    {
+      "name": "外交部組織法",
+      "start_date": "1928-12-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1928-12-08",
+      "enactment_date": "1928-12-08"
+    },
+    {
+      "passed_date": "1931-02-14",
+      "enactment_date": "1931-02-21"
+    },
+    {
+      "passed_date": "1936-10-02",
+      "enactment_date": "1936-10-31"
+    },
+    {
+      "passed_date": "1939-08-19",
+      "enactment_date": "1939-09-07"
+    },
+    {
+      "passed_date": "1943-06-26",
+      "enactment_date": "1943-07-10"
+    },
+    {
+      "passed_date": "1943-11-16",
+      "enactment_date": "1943-12-08"
+    },
+    {
+      "passed_date": "1944-06-28",
+      "enactment_date": "1944-07-14"
+    },
+    {
+      "passed_date": "1963-04-12",
+      "enactment_date": "1963-04-24"
+    },
+    {
+      "passed_date": "1968-01-26",
+      "enactment_date": "1968-02-12"
+    },
+    {
+      "passed_date": "1984-12-21",
+      "enactment_date": "1984-12-31"
+    },
+    {
+      "passed_date": "1992-01-07",
+      "enactment_date": "1992-01-22"
+    },
+    {
+      "passed_date": "2011-10-28",
+      "enactment_date": "2011-11-14",
+      "enforcement_date": "2012-09-01"
+    }
+  ],
+  "lyID": "01013"
+}

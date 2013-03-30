@@ -1,0 +1,26 @@
+{
+  "name": [
+    {
+      "name": "陸海空軍軍官士官服役條例",
+      "start_date": "1995-07-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1995-07-13",
+      "enactment_date": "1995-08-11",
+      "enforcement_date": "1997-01-01"
+    },
+    {
+      "passed_date": "1998-10-13",
+      "enactment_date": "1998-10-29",
+      "enforcement_date": "1999-07-01"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-06-05",
+      "enforcement_date": "2002-06-07"
+    }
+  ],
+  "lyID": "01448"
+}

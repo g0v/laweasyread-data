@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "戡亂時期在臺公司陷區股東股權行使條例",
+      "start_date": "1964-04-14"
+    },
+    {
+      "name": "在臺公司大陸地區股東股權行使條例",
+      "start_date": "1992-07-03"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1964-04-14",
+      "enactment_date": "1964-04-24"
+    },
+    {
+      "passed_date": "1967-12-22",
+      "enactment_date": "1968-01-08"
+    },
+    {
+      "passed_date": "1992-07-03",
+      "enactment_date": "1992-07-27"
+    }
+  ],
+  "lyID": "01940"
+}

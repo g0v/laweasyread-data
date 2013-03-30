@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "文化資產保存法",
+      "start_date": "1982-05-18"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1982-05-18",
+      "enactment_date": "1982-05-26"
+    },
+    {
+      "passed_date": "1996-12-31",
+      "enactment_date": "1997-01-22"
+    },
+    {
+      "passed_date": "1997-04-18",
+      "enactment_date": "1997-05-14"
+    },
+    {
+      "passed_date": "2000-01-14",
+      "enactment_date": "2000-02-09"
+    },
+    {
+      "passed_date": "2002-05-21",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2005-01-18",
+      "enactment_date": "2005-02-05"
+    },
+    {
+      "passed_date": "2011-10-25",
+      "enactment_date": "2011-11-09",
+      "enforcement_date": "2012-05-01"
+    }
+  ],
+  "lyID": "02901"
+}

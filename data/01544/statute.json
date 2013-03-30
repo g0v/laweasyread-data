@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "存款保險條例",
+      "start_date": "1984-12-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1984-12-24",
+      "enactment_date": "1985-01-09"
+    },
+    {
+      "passed_date": "1998-12-29",
+      "enactment_date": "1999-01-20"
+    },
+    {
+      "passed_date": "2001-06-26",
+      "enactment_date": "2001-07-09"
+    },
+    {
+      "passed_date": "2006-04-28",
+      "enactment_date": "2006-05-17"
+    },
+    {
+      "passed_date": "2007-01-12",
+      "enactment_date": "2007-01-18"
+    },
+    {
+      "passed_date": "2008-04-22",
+      "enactment_date": "2008-05-07"
+    },
+    {
+      "passed_date": "2010-12-14",
+      "enactment_date": "2010-12-29"
+    }
+  ],
+  "lyID": "01544"
+}

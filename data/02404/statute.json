@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "新聞記者法",
+      "start_date": "1943-01-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1943-01-30",
+      "enactment_date": "1943-02-15"
+    },
+    {
+      "passed_date": "1943-09-15",
+      "enactment_date": "2004-01-20"
+    }
+  ],
+  "lyID": "02404"
+}

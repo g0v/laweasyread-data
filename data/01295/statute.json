@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "當舖業法",
+      "start_date": "2001-05-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2001-05-25",
+      "enactment_date": "2001-06-06"
+    },
+    {
+      "passed_date": "2008-11-07",
+      "enactment_date": "2008-11-26",
+      "enforcement_date": "2009-04-13"
+    },
+    {
+      "passed_date": "2010-12-14",
+      "enactment_date": "2010-12-29"
+    }
+  ],
+  "lyID": "01295"
+}

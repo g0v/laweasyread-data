@@ -1,0 +1,47 @@
+{
+  "name": [
+    {
+      "name": "少年事件處理法",
+      "start_date": "1962-01-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1962-01-19",
+      "enactment_date": "1962-01-31"
+    },
+    {
+      "passed_date": "1967-07-18",
+      "enactment_date": "1967-08-01"
+    },
+    {
+      "passed_date": "1971-04-30",
+      "enactment_date": "1971-05-14"
+    },
+    {
+      "passed_date": "1976-01-20",
+      "enactment_date": "1976-02-12"
+    },
+    {
+      "passed_date": "1980-06-20",
+      "enactment_date": "1980-07-04"
+    },
+    {
+      "passed_date": "1997-10-02",
+      "enactment_date": "1997-10-29"
+    },
+    {
+      "passed_date": "2000-01-14",
+      "enactment_date": "2000-02-02"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-05"
+    },
+    {
+      "passed_date": "2005-04-29",
+      "enactment_date": "2005-05-18"
+    }
+  ],
+  "lyID": "04550"
+}

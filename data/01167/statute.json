@@ -1,0 +1,43 @@
+{
+  "name": [
+    {
+      "name": "警察人員管理條例",
+      "start_date": "1976-01-06"
+    },
+    {
+      "name": "警察人員人事條例",
+      "start_date": "2007-06-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1976-01-06",
+      "enactment_date": "1976-01-17"
+    },
+    {
+      "passed_date": "1983-11-11",
+      "enactment_date": "1983-11-21"
+    },
+    {
+      "passed_date": "1997-05-06",
+      "enactment_date": "1997-05-21"
+    },
+    {
+      "passed_date": "2002-06-20",
+      "enactment_date": "2002-07-10"
+    },
+    {
+      "passed_date": "2002-11-19",
+      "enactment_date": "2002-12-11"
+    },
+    {
+      "passed_date": "2004-08-19",
+      "enactment_date": "2004-09-01"
+    },
+    {
+      "passed_date": "2007-06-15",
+      "enactment_date": "2007-07-11"
+    }
+  ],
+  "lyID": "01167"
+}

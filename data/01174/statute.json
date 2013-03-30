@@ -1,0 +1,48 @@
+{
+  "name": [
+    {
+      "name": "自衛槍枝管理條例",
+      "start_date": "1946-06-18"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-06-18",
+      "enactment_date": "1946-06-28",
+      "enforcement_date": "1946-09-01"
+    },
+    {
+      "passed_date": "1947-12-06",
+      "enactment_date": "1947-12-17"
+    },
+    {
+      "passed_date": "1948-12-31",
+      "enactment_date": "1949-01-15"
+    },
+    {
+      "passed_date": "1959-01-16",
+      "enactment_date": "1959-01-27"
+    },
+    {
+      "passed_date": "1965-01-12",
+      "enactment_date": "1965-01-22"
+    },
+    {
+      "passed_date": "1979-10-30",
+      "enactment_date": "1979-11-13"
+    },
+    {
+      "passed_date": "2000-06-20",
+      "enactment_date": "2000-07-05"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-05-29"
+    },
+    {
+      "passed_date": "2002-06-04",
+      "enactment_date": "2002-06-26"
+    }
+  ],
+  "lyID": "01174"
+}

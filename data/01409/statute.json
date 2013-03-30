@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "陸海空軍軍人保險條例",
+      "start_date": "1953-11-03"
+    },
+    {
+      "name": "軍人保險條例",
+      "start_date": "1970-01-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1953-11-03",
+      "enactment_date": "1953-11-19"
+    },
+    {
+      "passed_date": "1956-12-04",
+      "enactment_date": "1956-12-18"
+    },
+    {
+      "passed_date": "1970-01-30",
+      "enactment_date": "1970-02-12"
+    },
+    {
+      "passed_date": "2004-12-24",
+      "enactment_date": "2005-01-12"
+    },
+    {
+      "passed_date": "2010-04-20",
+      "enactment_date": "2010-05-12"
+    }
+  ],
+  "lyID": "01409"
+}

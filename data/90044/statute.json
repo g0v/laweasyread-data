@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "狩獵法",
+      "start_date": "1931-04-18"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-04-18",
+      "enactment_date": "1932-12-28"
+    },
+    {
+      "passed_date": "1948-10-19",
+      "enactment_date": "1948-11-02"
+    },
+    {
+      "passed_date": "1972-11-17",
+      "enactment_date": "1989-06-23"
+    }
+  ],
+  "lyID": "90044"
+}

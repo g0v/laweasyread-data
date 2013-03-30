@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "name": "縣組織法",
+      "start_date": "1929-05-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1929-05-14",
+      "enactment_date": "1929-06-05",
+      "enforcement_date": "1929-10-10"
+    },
+    {
+      "passed_date": "1930-06-17",
+      "enactment_date": "2000-04-05"
+    }
+  ],
+  "lyID": "04803"
+}

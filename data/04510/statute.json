@@ -1,0 +1,29 @@
+{
+  "name": [
+    {
+      "name": "民法債編施行法",
+      "start_date": "1930-02-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-02-01",
+      "enactment_date": "1930-02-10",
+      "enforcement_date": "1930-05-05"
+    },
+    {
+      "passed_date": "1999-04-02",
+      "enactment_date": "1999-04-21",
+      "enforcement_date": "2000-05-05"
+    },
+    {
+      "passed_date": "2000-05-02",
+      "enactment_date": "2000-05-05"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2009-12-30"
+    }
+  ],
+  "lyID": "04510"
+}

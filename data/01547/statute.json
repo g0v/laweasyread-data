@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "管理外匯條例",
+      "start_date": "1948-12-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-12-31",
+      "enactment_date": "1949-01-11"
+    },
+    {
+      "passed_date": "1970-12-11",
+      "enactment_date": "1970-12-24"
+    },
+    {
+      "passed_date": "1978-12-08",
+      "enactment_date": "1978-12-20"
+    },
+    {
+      "passed_date": "1986-05-02",
+      "enactment_date": "1986-05-14"
+    },
+    {
+      "passed_date": "1987-06-16",
+      "enactment_date": "1987-06-26"
+    },
+    {
+      "passed_date": "1995-07-12",
+      "enactment_date": "1995-08-02"
+    },
+    {
+      "passed_date": "2009-04-14",
+      "enactment_date": "2009-04-29"
+    }
+  ],
+  "lyID": "01547"
+}

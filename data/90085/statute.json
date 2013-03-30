@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "公證費用法",
+      "start_date": "1943-06-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1943-06-12",
+      "enactment_date": "1943-07-01",
+      "enforcement_date": "1944-01-01"
+    },
+    {
+      "passed_date": "1946-06-08",
+      "enactment_date": "1946-06-20"
+    },
+    {
+      "passed_date": "1948-12-03",
+      "enactment_date": "1974-01-29"
+    }
+  ],
+  "lyID": "90085"
+}

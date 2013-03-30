@@ -1,0 +1,52 @@
+{
+  "name": [
+    {
+      "name": "考試法",
+      "start_date": "1929-07-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1929-07-13",
+      "enactment_date": "1929-08-01",
+      "enforcement_date": "1930-04-01"
+    },
+    {
+      "passed_date": "1933-02-17",
+      "enactment_date": "1933-02-23"
+    },
+    {
+      "passed_date": "1935-07-12",
+      "enactment_date": "1935-07-31"
+    },
+    {
+      "passed_date": "1948-07-17",
+      "enactment_date": "1948-07-21"
+    },
+    {
+      "passed_date": "1952-02-12",
+      "enactment_date": "1952-02-27"
+    },
+    {
+      "passed_date": "1954-12-07",
+      "enactment_date": "1954-12-17"
+    },
+    {
+      "passed_date": "1962-08-17",
+      "enactment_date": "1962-08-29"
+    },
+    {
+      "passed_date": "1968-12-03",
+      "enactment_date": "1968-12-12"
+    },
+    {
+      "passed_date": "1972-01-25",
+      "enactment_date": "1972-02-05"
+    },
+    {
+      "passed_date": "1980-11-07",
+      "enactment_date": "1986-01-24"
+    }
+  ],
+  "lyID": "90026"
+}

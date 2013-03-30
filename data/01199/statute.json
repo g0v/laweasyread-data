@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "集會遊行法",
+      "start_date": "1992-07-14"
+    },
+    {
+      "name": "動員戡亂時期集會遊行法",
+      "start_date": "1988-01-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1988-01-11",
+      "enactment_date": "1988-01-20"
+    },
+    {
+      "passed_date": "1992-07-14",
+      "enactment_date": "1992-07-27"
+    },
+    {
+      "passed_date": "2002-06-04",
+      "enactment_date": "2002-06-26"
+    }
+  ],
+  "lyID": "01199"
+}

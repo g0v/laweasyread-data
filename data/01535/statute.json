@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "中國國際商業銀行條例",
+      "start_date": "1971-12-14"
+    },
+    {
+      "name": "中國銀行條例",
+      "start_date": "1928-10-26"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1928-10-26",
+      "enactment_date": "1928-10-26"
+    },
+    {
+      "passed_date": "1935-06-04",
+      "enactment_date": "1935-06-04"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-13"
+    },
+    {
+      "passed_date": "1971-12-14",
+      "enactment_date": "2005-12-21"
+    }
+  ],
+  "lyID": "01535"
+}

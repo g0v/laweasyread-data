@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "name": "證人保護法",
+      "start_date": "2000-01-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2000-01-14",
+      "enactment_date": "2000-02-09"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    }
+  ],
+  "lyID": "04577"
+}

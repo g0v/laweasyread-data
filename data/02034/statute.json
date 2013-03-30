@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "停車場法",
+      "start_date": "1991-06-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1991-06-25",
+      "enactment_date": "1991-07-10"
+    },
+    {
+      "passed_date": "1999-12-30",
+      "enactment_date": "2000-01-19"
+    },
+    {
+      "passed_date": "2001-05-11",
+      "enactment_date": "2001-05-30"
+    },
+    {
+      "passed_date": "2011-06-10",
+      "enactment_date": "2011-06-29"
+    }
+  ],
+  "lyID": "02034"
+}

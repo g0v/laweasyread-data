@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "發展觀光條例",
+      "start_date": "1969-07-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1969-07-15",
+      "enactment_date": "1969-07-30"
+    },
+    {
+      "passed_date": "1980-11-07",
+      "enactment_date": "1980-11-24"
+    },
+    {
+      "passed_date": "2001-10-31",
+      "enactment_date": "2001-11-14",
+      "enforcement_date": "2003-07-01"
+    },
+    {
+      "passed_date": "2003-05-27",
+      "enactment_date": "2003-06-11"
+    },
+    {
+      "passed_date": "2007-03-02",
+      "enactment_date": "2007-03-21"
+    },
+    {
+      "passed_date": "2009-10-23",
+      "enactment_date": "2009-11-18"
+    },
+    {
+      "passed_date": "2011-03-29",
+      "enactment_date": "2011-04-13"
+    }
+  ],
+  "lyID": "02018"
+}

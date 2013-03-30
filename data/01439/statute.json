@@ -1,0 +1,21 @@
+{
+  "name": [
+    {
+      "name": "軍事審判法施行法",
+      "start_date": "1956-07-07"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1956-07-07",
+      "enactment_date": "1956-07-19",
+      "enforcement_date": "1956-10-01"
+    },
+    {
+      "passed_date": "1999-10-01",
+      "enactment_date": "1999-10-02",
+      "enforcement_date": "1999-10-03"
+    }
+  ],
+  "lyID": "01439"
+}

@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "兒童福利法",
+      "start_date": "1973-01-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1973-01-25",
+      "enactment_date": "1973-02-08"
+    },
+    {
+      "passed_date": "1993-01-18",
+      "enactment_date": "1993-02-05"
+    },
+    {
+      "passed_date": "1999-03-30",
+      "enactment_date": "1999-04-21"
+    },
+    {
+      "passed_date": "2000-05-26",
+      "enactment_date": "2000-06-14"
+    },
+    {
+      "passed_date": "2002-05-31",
+      "enactment_date": "2004-06-02"
+    }
+  ],
+  "lyID": "01125"
+}

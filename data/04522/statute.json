@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "破產法",
+      "start_date": "1935-06-21"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-06-21",
+      "enactment_date": "1935-07-17",
+      "enforcement_date": "1935-10-01"
+    },
+    {
+      "passed_date": "1937-04-23",
+      "enactment_date": "1937-05-01"
+    },
+    {
+      "passed_date": "1980-11-21",
+      "enactment_date": "1980-12-05"
+    },
+    {
+      "passed_date": "1993-07-09",
+      "enactment_date": "1993-07-30"
+    }
+  ],
+  "lyID": "04522"
+}

@@ -1,0 +1,48 @@
+{
+  "name": [
+    {
+      "name": "民法親屬編施行法",
+      "start_date": "1931-01-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-01-20",
+      "enactment_date": "1931-01-24",
+      "enforcement_date": "1931-05-05"
+    },
+    {
+      "passed_date": "1985-05-24",
+      "enactment_date": "1985-06-03"
+    },
+    {
+      "passed_date": "1996-09-06",
+      "enactment_date": "1996-09-25"
+    },
+    {
+      "passed_date": "2000-01-14",
+      "enactment_date": "2000-02-02"
+    },
+    {
+      "passed_date": "2002-06-04",
+      "enactment_date": "2002-06-26"
+    },
+    {
+      "passed_date": "2007-05-04",
+      "enactment_date": "2007-05-23"
+    },
+    {
+      "passed_date": "2008-05-02",
+      "enactment_date": "2008-05-23"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2009-12-30"
+    },
+    {
+      "passed_date": "2012-12-07",
+      "enactment_date": "2012-12-26"
+    }
+  ],
+  "lyID": "04514"
+}

@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "農地重劃條例",
+      "start_date": "1980-12-05"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1980-12-05",
+      "enactment_date": "1980-12-19"
+    },
+    {
+      "passed_date": "2000-10-24",
+      "enactment_date": "2000-11-08"
+    },
+    {
+      "passed_date": "2011-05-27",
+      "enactment_date": "2011-06-15"
+    }
+  ],
+  "lyID": "01155"
+}

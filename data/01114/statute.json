@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "公葬條例",
+      "start_date": "1947-11-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-11-15",
+      "enactment_date": "1947-12-05"
+    },
+    {
+      "passed_date": "1948-11-09",
+      "enactment_date": "1948-11-26"
+    },
+    {
+      "passed_date": "1957-05-28",
+      "enactment_date": "1957-06-12"
+    },
+    {
+      "passed_date": "2000-10-24",
+      "enactment_date": "2000-11-08"
+    }
+  ],
+  "lyID": "01114"
+}

@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "中央研究院評議會條例",
+      "start_date": "1954-12-17"
+    },
+    {
+      "name": "國立中央研究院評議會條例",
+      "start_date": "1935-05-17"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-05-17",
+      "enactment_date": "1935-05-27"
+    },
+    {
+      "passed_date": "1941-08-09",
+      "enactment_date": "1941-09-09"
+    },
+    {
+      "passed_date": "1943-10-29",
+      "enactment_date": "1943-11-17"
+    },
+    {
+      "passed_date": "1954-12-17",
+      "enactment_date": "2009-12-30"
+    }
+  ],
+  "lyID": "04308"
+}

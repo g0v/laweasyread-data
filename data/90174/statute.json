@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "國立北平故宮博物院暫行組織條例",
+      "start_date": "1934-02-09"
+    },
+    {
+      "name": "國立北平故宮博物院組織條例",
+      "start_date": "1947-09-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1934-02-09",
+      "enactment_date": "1934-02-17"
+    },
+    {
+      "passed_date": "1934-09-21",
+      "enactment_date": "1934-10-02"
+    },
+    {
+      "passed_date": "1936-10-02",
+      "enactment_date": "1938-08-19"
+    },
+    {
+      "passed_date": "1947-09-25",
+      "enactment_date": "1972-03-18"
+    }
+  ],
+  "lyID": "90174"
+}

@@ -1,0 +1,48 @@
+{
+  "name": [
+    {
+      "name": "懲治走私條例",
+      "start_date": "1948-02-18"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-02-18",
+      "enactment_date": "1948-03-11"
+    },
+    {
+      "passed_date": "1955-12-20",
+      "enactment_date": "1955-12-29"
+    },
+    {
+      "passed_date": "1969-10-31",
+      "enactment_date": "1969-11-11"
+    },
+    {
+      "passed_date": "1978-01-13",
+      "enactment_date": "1978-01-23"
+    },
+    {
+      "passed_date": "1985-06-14",
+      "enactment_date": "1985-06-26"
+    },
+    {
+      "passed_date": "1992-07-15",
+      "enactment_date": "1992-07-29"
+    },
+    {
+      "passed_date": "2002-06-07",
+      "enactment_date": "2002-06-26"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2012-05-29",
+      "enactment_date": "2012-06-13"
+    }
+  ],
+  "lyID": "04542"
+}

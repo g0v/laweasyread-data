@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "監察法",
+      "start_date": "1948-07-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-07-13",
+      "enactment_date": "1948-07-17"
+    },
+    {
+      "passed_date": "1949-05-20",
+      "enactment_date": "1949-06-11"
+    },
+    {
+      "passed_date": "1950-11-28",
+      "enactment_date": "1950-12-07"
+    },
+    {
+      "passed_date": "1951-09-14",
+      "enactment_date": "1951-09-26"
+    },
+    {
+      "passed_date": "1953-04-17",
+      "enactment_date": "1953-04-30"
+    },
+    {
+      "passed_date": "1967-08-15",
+      "enactment_date": "1967-08-28"
+    },
+    {
+      "passed_date": "1992-10-30",
+      "enactment_date": "1992-11-13",
+      "enforcement_date": "1993-02-01"
+    }
+  ],
+  "lyID": "04708"
+}

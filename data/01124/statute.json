@@ -1,0 +1,52 @@
+{
+  "name": [
+    {
+      "name": "人民團體法",
+      "start_date": "1992-07-03"
+    },
+    {
+      "name": "動員戡亂時期人民團體法",
+      "start_date": "1989-01-20"
+    },
+    {
+      "name": "非常時期人民團體組織法",
+      "start_date": "1942-01-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1942-01-24",
+      "enactment_date": "1942-02-10"
+    },
+    {
+      "passed_date": "1989-01-20",
+      "enactment_date": "1989-01-27"
+    },
+    {
+      "passed_date": "1992-07-03",
+      "enactment_date": "1992-07-27"
+    },
+    {
+      "passed_date": "1993-12-14",
+      "enactment_date": "1993-12-31"
+    },
+    {
+      "passed_date": "2002-04-02",
+      "enactment_date": "2002-04-24"
+    },
+    {
+      "passed_date": "2002-11-22",
+      "enactment_date": "2002-12-11"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2011-05-27",
+      "enactment_date": "2011-06-15"
+    }
+  ],
+  "lyID": "01124"
+}

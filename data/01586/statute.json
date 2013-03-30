@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "財政部關稅總局組織條例",
+      "start_date": "1991-01-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1991-01-15",
+      "enactment_date": "1991-02-01"
+    },
+    {
+      "passed_date": "1997-04-08",
+      "enactment_date": "1997-04-23"
+    },
+    {
+      "passed_date": "1998-10-29",
+      "enactment_date": "1998-11-11",
+      "enforcement_date": "1999-07-01"
+    }
+  ],
+  "lyID": "01586"
+}

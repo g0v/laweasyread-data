@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "糧食管理法",
+      "start_date": "1997-05-16"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1997-05-16",
+      "enactment_date": "1997-05-30"
+    },
+    {
+      "passed_date": "2000-04-28",
+      "enactment_date": "2000-05-17"
+    },
+    {
+      "passed_date": "2001-10-25",
+      "enactment_date": "2001-11-07"
+    },
+    {
+      "passed_date": "2002-05-24",
+      "enactment_date": "2002-06-19"
+    },
+    {
+      "passed_date": "2002-12-27",
+      "enactment_date": "2002-12-31",
+      "enforcement_date": "2003-01-01"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-24"
+    },
+    {
+      "passed_date": "2010-11-05",
+      "enactment_date": "2010-11-24"
+    }
+  ],
+  "lyID": "03123"
+}

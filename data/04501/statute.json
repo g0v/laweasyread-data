@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "司法院組織法",
+      "start_date": "1947-03-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-03-27",
+      "enactment_date": "1947-03-31"
+    },
+    {
+      "passed_date": "1947-12-23",
+      "enactment_date": "1947-12-25",
+      "enforcement_date": "1948-06-24"
+    },
+    {
+      "passed_date": "1957-12-03",
+      "enactment_date": "1957-12-13"
+    },
+    {
+      "passed_date": "1980-05-30",
+      "enactment_date": "1980-06-29"
+    },
+    {
+      "passed_date": "1992-10-30",
+      "enactment_date": "1992-11-20"
+    },
+    {
+      "passed_date": "2001-05-08",
+      "enactment_date": "2001-05-23"
+    },
+    {
+      "passed_date": "2009-01-09",
+      "enactment_date": "2009-01-21"
+    }
+  ],
+  "lyID": "04501"
+}

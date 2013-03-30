@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "種痘條例",
+      "start_date": "1944-02-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1944-02-29",
+      "enactment_date": "1944-03-13"
+    },
+    {
+      "passed_date": "1948-12-03",
+      "enactment_date": "1982-01-06"
+    }
+  ],
+  "lyID": "90056"
+}

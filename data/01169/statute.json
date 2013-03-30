@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "警察服制條例",
+      "start_date": "1937-06-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1937-06-04",
+      "enactment_date": "1937-07-02"
+    },
+    {
+      "passed_date": "1947-09-25",
+      "enactment_date": "1947-11-13"
+    },
+    {
+      "passed_date": "1977-11-15",
+      "enactment_date": "1977-11-24"
+    },
+    {
+      "passed_date": "1987-11-10",
+      "enactment_date": "1987-12-04"
+    },
+    {
+      "passed_date": "1998-10-22",
+      "enactment_date": "1998-10-29"
+    },
+    {
+      "passed_date": "2001-05-11",
+      "enactment_date": "2001-05-30"
+    }
+  ],
+  "lyID": "01169"
+}

@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "外役監條例",
+      "start_date": "1962-05-25"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1962-05-25",
+      "enactment_date": "1962-06-05"
+    },
+    {
+      "passed_date": "1974-06-14",
+      "enactment_date": "1974-06-27"
+    },
+    {
+      "passed_date": "1978-05-16",
+      "enactment_date": "1978-05-26"
+    },
+    {
+      "passed_date": "1980-11-14",
+      "enactment_date": "1980-12-01"
+    },
+    {
+      "passed_date": "1994-01-14",
+      "enactment_date": "1994-01-31"
+    },
+    {
+      "passed_date": "1997-04-08",
+      "enactment_date": "1997-04-23"
+    }
+  ],
+  "lyID": "01816"
+}

@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "司法院大法官會議法",
+      "start_date": "1958-07-11"
+    },
+    {
+      "name": "司法院大法官審理案件法",
+      "start_date": "1993-01-16"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1958-07-11",
+      "enactment_date": "1958-07-21"
+    },
+    {
+      "passed_date": "1993-01-16",
+      "enactment_date": "1993-02-03"
+    }
+  ],
+  "lyID": "04506"
+}

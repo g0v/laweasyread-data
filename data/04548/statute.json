@@ -1,0 +1,44 @@
+{
+  "name": [
+    {
+      "name": "戡亂時期竊盜犯贓物犯保安處分條例",
+      "start_date": "1955-12-20"
+    },
+    {
+      "name": "竊盜犯贓物犯保安處分條例",
+      "start_date": "1992-07-03"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1955-12-20",
+      "enactment_date": "1955-12-30"
+    },
+    {
+      "passed_date": "1957-01-18",
+      "enactment_date": "1957-01-30"
+    },
+    {
+      "passed_date": "1967-07-18",
+      "enactment_date": "1967-08-01"
+    },
+    {
+      "passed_date": "1969-11-07",
+      "enactment_date": "1969-11-19"
+    },
+    {
+      "passed_date": "1973-10-26",
+      "enactment_date": "1973-11-05"
+    },
+    {
+      "passed_date": "1992-07-03",
+      "enactment_date": "1992-07-29"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    }
+  ],
+  "lyID": "04548"
+}

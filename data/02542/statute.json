@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "護理人員法",
+      "start_date": "1991-04-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1991-04-30",
+      "enactment_date": "1991-05-17"
+    },
+    {
+      "passed_date": "2000-10-24",
+      "enactment_date": "2000-11-08"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2007-01-09",
+      "enactment_date": "2007-01-29"
+    },
+    {
+      "passed_date": "2011-12-06",
+      "enactment_date": "2011-12-21"
+    }
+  ],
+  "lyID": "02542"
+}

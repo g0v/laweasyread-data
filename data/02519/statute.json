@@ -1,0 +1,48 @@
+{
+  "name": [
+    {
+      "name": "空氣污染防制法",
+      "start_date": "1975-05-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1975-05-13",
+      "enactment_date": "1975-05-23"
+    },
+    {
+      "passed_date": "1982-04-27",
+      "enactment_date": "1982-05-07"
+    },
+    {
+      "passed_date": "1992-01-16",
+      "enactment_date": "1992-02-01"
+    },
+    {
+      "passed_date": "1998-12-29",
+      "enactment_date": "1999-01-20"
+    },
+    {
+      "passed_date": "2002-05-21",
+      "enactment_date": "2002-06-19"
+    },
+    {
+      "passed_date": "2005-04-29",
+      "enactment_date": "2005-05-18"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2011-04-08",
+      "enactment_date": "2011-04-27"
+    },
+    {
+      "passed_date": "2012-12-04",
+      "enactment_date": "2012-12-19"
+    }
+  ],
+  "lyID": "02519"
+}

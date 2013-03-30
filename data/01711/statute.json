@@ -1,0 +1,64 @@
+{
+  "name": [
+    {
+      "name": "大學法",
+      "start_date": "1947-12-22"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-12-22",
+      "enactment_date": "1948-01-12"
+    },
+    {
+      "passed_date": "1972-08-11",
+      "enactment_date": "1972-08-24"
+    },
+    {
+      "passed_date": "1982-04-06",
+      "enactment_date": "1982-04-16"
+    },
+    {
+      "passed_date": "1982-07-20",
+      "enactment_date": "1982-07-30"
+    },
+    {
+      "passed_date": "1993-12-07",
+      "enactment_date": "1994-01-05"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2003-01-13",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2005-12-13",
+      "enactment_date": "2005-12-28"
+    },
+    {
+      "passed_date": "2006-12-19",
+      "enactment_date": "2007-01-03"
+    },
+    {
+      "passed_date": "2009-10-23",
+      "enactment_date": "2009-11-18"
+    },
+    {
+      "passed_date": "2010-05-18",
+      "enactment_date": "2010-06-09"
+    },
+    {
+      "passed_date": "2010-08-19",
+      "enactment_date": "2010-09-01",
+      "enforcement_date": "2010-09-03"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26"
+    }
+  ],
+  "lyID": "01711"
+}

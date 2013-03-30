@@ -1,0 +1,53 @@
+{
+  "name": [
+    {
+      "name": "行政院衛生署組織法",
+      "start_date": "1970-07-10"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1970-07-10",
+      "enactment_date": "1970-07-23"
+    },
+    {
+      "passed_date": "1974-12-10",
+      "enactment_date": "1974-12-21"
+    },
+    {
+      "passed_date": "1981-01-23",
+      "enactment_date": "1981-01-30"
+    },
+    {
+      "passed_date": "1987-07-16",
+      "enactment_date": "1987-07-29"
+    },
+    {
+      "passed_date": "1997-03-21",
+      "enactment_date": "1997-04-11"
+    },
+    {
+      "passed_date": "1999-01-14",
+      "enactment_date": "1999-02-03"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-07-15"
+    },
+    {
+      "passed_date": "2001-06-01",
+      "enactment_date": "2001-06-20",
+      "enforcement_date": "2001-07-12"
+    },
+    {
+      "passed_date": "2004-06-08",
+      "enactment_date": "2004-06-23"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-06-03",
+      "enforcement_date": "2010-01-01"
+    }
+  ],
+  "lyID": "01025"
+}

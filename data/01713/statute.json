@@ -1,0 +1,48 @@
+{
+  "name": [
+    {
+      "name": "學位授予法",
+      "start_date": "1935-04-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-04-12",
+      "enactment_date": "1935-04-22",
+      "enforcement_date": "1935-07-01"
+    },
+    {
+      "passed_date": "1954-05-21",
+      "enactment_date": "1954-06-04"
+    },
+    {
+      "passed_date": "1959-03-20",
+      "enactment_date": "1959-04-01"
+    },
+    {
+      "passed_date": "1972-05-12",
+      "enactment_date": "1972-05-27"
+    },
+    {
+      "passed_date": "1977-01-18",
+      "enactment_date": "1977-02-03"
+    },
+    {
+      "passed_date": "1983-04-26",
+      "enactment_date": "1983-05-06"
+    },
+    {
+      "passed_date": "1994-04-14",
+      "enactment_date": "1994-04-27"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2004-06-04",
+      "enactment_date": "2004-06-23"
+    }
+  ],
+  "lyID": "01713"
+}

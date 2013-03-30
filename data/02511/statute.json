@@ -1,0 +1,43 @@
+{
+  "name": [
+    {
+      "name": "助產人員法",
+      "start_date": "2003-06-03"
+    },
+    {
+      "name": "助產士法",
+      "start_date": "1943-09-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1943-09-15",
+      "enactment_date": "1943-09-30"
+    },
+    {
+      "passed_date": "1948-12-03",
+      "enactment_date": "1948-12-28"
+    },
+    {
+      "passed_date": "1985-05-17",
+      "enactment_date": "1985-05-27"
+    },
+    {
+      "passed_date": "1992-04-10",
+      "enactment_date": "1992-04-27"
+    },
+    {
+      "passed_date": "2000-06-30",
+      "enactment_date": "2000-07-19"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2003-06-03",
+      "enactment_date": "2003-07-02"
+    }
+  ],
+  "lyID": "02511"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "公寓大廈管理條例",
+      "start_date": "1995-06-09"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1995-06-09",
+      "enactment_date": "1995-06-28"
+    },
+    {
+      "passed_date": "2000-04-07",
+      "enactment_date": "2000-04-26"
+    },
+    {
+      "passed_date": "2003-12-09",
+      "enactment_date": "2003-12-31"
+    },
+    {
+      "passed_date": "2005-12-30",
+      "enactment_date": "2006-01-18"
+    }
+  ],
+  "lyID": "01187"
+}

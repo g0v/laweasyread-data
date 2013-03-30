@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "工廠法",
+      "start_date": "1929-12-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1929-12-11",
+      "enactment_date": "1929-12-30",
+      "enforcement_date": "1931-08-01"
+    },
+    {
+      "passed_date": "1932-11-19",
+      "enactment_date": "1932-12-30"
+    },
+    {
+      "passed_date": "1975-12-12",
+      "enactment_date": "1975-12-19"
+    }
+  ],
+  "lyID": "01140"
+}

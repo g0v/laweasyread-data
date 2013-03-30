@@ -1,0 +1,44 @@
+{
+  "name": [
+    {
+      "name": "民法繼承編施行法",
+      "start_date": "1931-01-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-01-20",
+      "enactment_date": "1931-01-24",
+      "enforcement_date": "1931-05-05"
+    },
+    {
+      "passed_date": "1985-05-21",
+      "enactment_date": "1985-06-03"
+    },
+    {
+      "passed_date": "2007-12-14",
+      "enactment_date": "2008-01-02"
+    },
+    {
+      "passed_date": "2008-04-22",
+      "enactment_date": "2008-05-07"
+    },
+    {
+      "passed_date": "2009-05-22",
+      "enactment_date": "2009-06-10"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2009-12-30"
+    },
+    {
+      "passed_date": "2012-12-07",
+      "enactment_date": "2012-12-26"
+    },
+    {
+      "passed_date": "2013-01-11",
+      "enactment_date": "2013-01-30"
+    }
+  ],
+  "lyID": "04516"
+}

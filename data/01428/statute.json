@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "戒嚴法",
+      "start_date": "1934-11-16"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1934-11-16",
+      "enactment_date": "1934-11-29"
+    },
+    {
+      "passed_date": "1948-04-15",
+      "enactment_date": "1948-05-19"
+    },
+    {
+      "passed_date": "1948-12-31",
+      "enactment_date": "1949-01-14"
+    }
+  ],
+  "lyID": "01428"
+}

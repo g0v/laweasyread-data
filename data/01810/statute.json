@@ -1,0 +1,44 @@
+{
+  "name": [
+    {
+      "name": "行刑累進處遇條例",
+      "start_date": "1946-02-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-02-12",
+      "enactment_date": "1946-03-06",
+      "enforcement_date": "1947-06-10"
+    },
+    {
+      "passed_date": "1956-12-28",
+      "enactment_date": "1957-01-07"
+    },
+    {
+      "passed_date": "1975-04-25",
+      "enactment_date": "1975-05-12"
+    },
+    {
+      "passed_date": "1980-11-14",
+      "enactment_date": "1980-12-01"
+    },
+    {
+      "passed_date": "1994-05-24",
+      "enactment_date": "1994-06-06"
+    },
+    {
+      "passed_date": "1997-04-18",
+      "enactment_date": "1997-05-14"
+    },
+    {
+      "passed_date": "1997-11-11",
+      "enactment_date": "1997-11-26"
+    },
+    {
+      "passed_date": "2006-05-19",
+      "enactment_date": "2006-06-14"
+    }
+  ],
+  "lyID": "01810"
+}

@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "民營公用事業監督條例",
+      "start_date": "1929-12-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1929-12-14",
+      "enactment_date": "1929-12-21"
+    },
+    {
+      "passed_date": "1931-02-21",
+      "enactment_date": "1931-03-07"
+    },
+    {
+      "passed_date": "1933-10-27",
+      "enactment_date": "1933-11-02"
+    },
+    {
+      "passed_date": "1972-11-17",
+      "enactment_date": "1972-11-30"
+    },
+    {
+      "passed_date": "2000-04-07",
+      "enactment_date": "2000-04-26"
+    }
+  ],
+  "lyID": "01935"
+}

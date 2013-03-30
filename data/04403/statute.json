@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "立法院立法委員選舉罷免法",
+      "start_date": "1947-03-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1947-03-28",
+      "enactment_date": "1947-03-31",
+      "enforcement_date": "1947-06-14"
+    },
+    {
+      "passed_date": "1947-06-27",
+      "enactment_date": "1947-07-05"
+    },
+    {
+      "passed_date": "1947-07-03",
+      "enactment_date": "1947-07-11"
+    },
+    {
+      "passed_date": "1947-09-15",
+      "enactment_date": "1947-09-29"
+    },
+    {
+      "passed_date": "1947-09-25",
+      "enactment_date": "1947-10-03"
+    },
+    {
+      "passed_date": "1947-10-30",
+      "enactment_date": "1947-11-08"
+    },
+    {
+      "passed_date": "1947-12-23",
+      "enactment_date": "2003-06-11"
+    }
+  ],
+  "lyID": "04403"
+}

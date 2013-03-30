@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "社會教育法",
+      "start_date": "1953-09-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1953-09-08",
+      "enactment_date": "1953-09-24"
+    },
+    {
+      "passed_date": "1959-03-17",
+      "enactment_date": "1959-03-28"
+    },
+    {
+      "passed_date": "1980-10-17",
+      "enactment_date": "1980-10-29"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    },
+    {
+      "passed_date": "2002-12-24",
+      "enactment_date": "2003-01-15"
+    },
+    {
+      "passed_date": "2011-12-09",
+      "enactment_date": "2011-12-28"
+    }
+  ],
+  "lyID": "01722"
+}

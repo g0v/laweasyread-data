@@ -1,0 +1,48 @@
+{
+  "name": [
+    {
+      "name": "建築師法",
+      "start_date": "1971-12-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1971-12-14",
+      "enactment_date": "1971-12-27"
+    },
+    {
+      "passed_date": "1975-12-16",
+      "enactment_date": "1975-12-26"
+    },
+    {
+      "passed_date": "1984-11-16",
+      "enactment_date": "1984-11-28"
+    },
+    {
+      "passed_date": "1995-01-12",
+      "enactment_date": "1995-01-27"
+    },
+    {
+      "passed_date": "1997-04-15",
+      "enactment_date": "1997-05-07"
+    },
+    {
+      "passed_date": "2000-10-24",
+      "enactment_date": "2000-11-08"
+    },
+    {
+      "passed_date": "2005-05-20",
+      "enactment_date": "2005-06-15"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2009-12-11",
+      "enactment_date": "2009-12-30"
+    }
+  ],
+  "lyID": "01159"
+}

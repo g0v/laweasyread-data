@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "工業團體法",
+      "start_date": "1974-12-17"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1974-12-17",
+      "enactment_date": "1974-12-28"
+    },
+    {
+      "passed_date": "2002-11-22",
+      "enactment_date": "2002-12-11"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "01133"
+}

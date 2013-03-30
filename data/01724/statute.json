@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "特殊教育法",
+      "start_date": "1984-12-07"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1984-12-07",
+      "enactment_date": "1984-12-17"
+    },
+    {
+      "passed_date": "1997-04-22",
+      "enactment_date": "1997-05-14"
+    },
+    {
+      "passed_date": "2001-12-06",
+      "enactment_date": "2001-12-26"
+    },
+    {
+      "passed_date": "2004-06-04",
+      "enactment_date": "2004-06-23"
+    },
+    {
+      "passed_date": "2009-10-23",
+      "enactment_date": "2009-11-18"
+    },
+    {
+      "passed_date": "2013-01-08",
+      "enactment_date": "2013-01-23"
+    }
+  ],
+  "lyID": "01724"
+}

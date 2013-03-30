@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "監試法",
+      "start_date": "1930-11-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-11-08",
+      "enactment_date": "1930-11-25"
+    },
+    {
+      "passed_date": "1933-02-17",
+      "enactment_date": "1933-02-23"
+    },
+    {
+      "passed_date": "1950-10-17",
+      "enactment_date": "1950-10-26"
+    }
+  ],
+  "lyID": "04615"
+}

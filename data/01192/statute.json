@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "保全業法",
+      "start_date": "1991-12-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1991-12-12",
+      "enactment_date": "1991-12-30"
+    },
+    {
+      "passed_date": "2000-06-20",
+      "enactment_date": "2000-07-05"
+    },
+    {
+      "passed_date": "2003-01-03",
+      "enactment_date": "2003-01-22"
+    },
+    {
+      "passed_date": "2011-11-08",
+      "enactment_date": "2011-11-23"
+    }
+  ],
+  "lyID": "01192"
+}

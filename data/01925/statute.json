@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "name": "標準法",
+      "start_date": "1946-09-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-09-14",
+      "enactment_date": "1946-09-24"
+    },
+    {
+      "passed_date": "1997-11-11",
+      "enactment_date": "1997-11-26"
+    }
+  ],
+  "lyID": "01925"
+}

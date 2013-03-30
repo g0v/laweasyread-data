@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "性別平等教育法",
+      "start_date": "2004-06-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2004-06-04",
+      "enactment_date": "2004-06-23"
+    },
+    {
+      "passed_date": "2010-05-04",
+      "enactment_date": "2010-05-26"
+    },
+    {
+      "passed_date": "2011-06-07",
+      "enactment_date": "2011-06-22",
+      "enforcement_date": "2011-11-15"
+    }
+  ],
+  "lyID": "01773"
+}

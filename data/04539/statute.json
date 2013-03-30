@@ -1,0 +1,55 @@
+{
+  "name": [
+    {
+      "name": "妨害兵役治罪條例",
+      "start_date": "1940-06-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1940-06-15",
+      "enactment_date": "1940-06-29"
+    },
+    {
+      "passed_date": "1943-05-15",
+      "enactment_date": "1943-05-27"
+    },
+    {
+      "passed_date": "1947-06-27",
+      "enactment_date": "1947-07-17"
+    },
+    {
+      "passed_date": "1949-09-05"
+    },
+    {
+      "passed_date": "1950-05-23",
+      "enactment_date": "1950-06-03"
+    },
+    {
+      "passed_date": "1955-05-17",
+      "enactment_date": "1955-05-30"
+    },
+    {
+      "passed_date": "1976-07-09",
+      "enactment_date": "1976-07-19"
+    },
+    {
+      "passed_date": "1992-03-19",
+      "enactment_date": "1992-04-06"
+    },
+    {
+      "passed_date": "2002-06-04",
+      "enactment_date": "2002-06-26"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2011-05-03",
+      "enactment_date": "2011-05-18"
+    }
+  ],
+  "lyID": "04539"
+}

@@ -1,0 +1,28 @@
+{
+  "name": [
+    {
+      "name": "戒治處分執行條例",
+      "start_date": "1998-05-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1998-05-01",
+      "enactment_date": "1998-05-20"
+    },
+    {
+      "passed_date": "2003-12-16",
+      "enactment_date": "2004-01-07"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2007-03-02",
+      "enactment_date": "2007-03-21"
+    }
+  ],
+  "lyID": "01841"
+}

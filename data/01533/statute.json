@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "交通銀行條例",
+      "start_date": "1928-11-16"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1928-11-16",
+      "enactment_date": "1928-11-16"
+    },
+    {
+      "passed_date": "1935-06-04",
+      "enactment_date": "1935-06-04"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-13"
+    },
+    {
+      "passed_date": "1979-01-16",
+      "enactment_date": "1979-01-26"
+    },
+    {
+      "passed_date": "1991-01-15",
+      "enactment_date": "1991-01-28"
+    },
+    {
+      "passed_date": "2000-01-15",
+      "enactment_date": "2005-12-21"
+    }
+  ],
+  "lyID": "01533"
+}

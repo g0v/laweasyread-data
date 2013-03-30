@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "國立故宮博物院組織法",
+      "start_date": "2007-12-21"
+    },
+    {
+      "name": "國立故宮博物院組織條例",
+      "start_date": "1986-12-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1986-12-19",
+      "enactment_date": "1986-12-31",
+      "enforcement_date": "1987-01-16"
+    },
+    {
+      "passed_date": "2007-12-21",
+      "enactment_date": "2008-01-16"
+    }
+  ],
+  "lyID": "01035"
+}

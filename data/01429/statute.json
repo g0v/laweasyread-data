@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "要塞堡壘地帶法",
+      "start_date": "1931-08-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-08-29",
+      "enactment_date": "1931-09-18"
+    },
+    {
+      "passed_date": "1935-03-01",
+      "enactment_date": "1935-03-12"
+    },
+    {
+      "passed_date": "1937-09-18",
+      "enactment_date": "1937-09-27"
+    },
+    {
+      "passed_date": "1954-04-27",
+      "enactment_date": "1954-05-12"
+    },
+    {
+      "passed_date": "2002-04-02",
+      "enactment_date": "2002-04-17"
+    }
+  ],
+  "lyID": "01429"
+}

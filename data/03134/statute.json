@@ -1,0 +1,47 @@
+{
+  "name": [
+    {
+      "name": "動物保護法",
+      "start_date": "1998-10-13"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1998-10-13",
+      "enactment_date": "1998-11-04"
+    },
+    {
+      "passed_date": "2000-04-28",
+      "enactment_date": "2000-05-17"
+    },
+    {
+      "passed_date": "2001-01-02",
+      "enactment_date": "2001-01-17"
+    },
+    {
+      "passed_date": "2001-12-06",
+      "enactment_date": "2001-12-21"
+    },
+    {
+      "passed_date": "2003-12-16",
+      "enactment_date": "2004-01-07"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-11"
+    },
+    {
+      "passed_date": "2007-12-14",
+      "enactment_date": "2008-01-16"
+    },
+    {
+      "passed_date": "2010-01-07",
+      "enactment_date": "2010-01-27"
+    },
+    {
+      "passed_date": "2011-06-13",
+      "enactment_date": "2011-06-29"
+    }
+  ],
+  "lyID": "03134"
+}

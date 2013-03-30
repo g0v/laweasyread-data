@@ -1,0 +1,55 @@
+{
+  "name": [
+    {
+      "name": "宣誓條例",
+      "start_date": "1930-05-17"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-05-17",
+      "enactment_date": "1930-05-27"
+    },
+    {
+      "passed_date": "1941-12-27",
+      "enactment_date": "1942-01-09"
+    },
+    {
+      "passed_date": "1943-12-15",
+      "enactment_date": "1943-12-30"
+    },
+    {
+      "passed_date": "1947-06-21",
+      "enactment_date": "1947-07-16"
+    },
+    {
+      "passed_date": "1953-05-29",
+      "enactment_date": "1953-06-12"
+    },
+    {
+      "passed_date": "1979-04-20",
+      "enactment_date": "1979-05-09"
+    },
+    {
+      "passed_date": "1979-04-24",
+      "enactment_date": "1979-05-09"
+    },
+    {
+      "passed_date": "1983-11-11",
+      "enactment_date": "1983-11-21"
+    },
+    {
+      "passed_date": "1993-01-15",
+      "enactment_date": "1993-01-27"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-18"
+    },
+    {
+      "passed_date": "2006-04-25",
+      "enactment_date": "2006-05-17"
+    }
+  ],
+  "lyID": "04902"
+}

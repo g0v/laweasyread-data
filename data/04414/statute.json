@@ -1,0 +1,55 @@
+{
+  "name": [
+    {
+      "name": "立法院職權行使法",
+      "start_date": "1999-01-12"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1999-01-12",
+      "enactment_date": "1999-01-25"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-06-30"
+    },
+    {
+      "passed_date": "2000-05-12",
+      "enactment_date": "2000-05-24"
+    },
+    {
+      "passed_date": "2000-11-07",
+      "enactment_date": "2000-11-22"
+    },
+    {
+      "passed_date": "2001-06-05",
+      "enactment_date": "2001-06-20"
+    },
+    {
+      "passed_date": "2001-10-30",
+      "enactment_date": "2001-11-14"
+    },
+    {
+      "passed_date": "2002-01-15",
+      "enactment_date": "2002-01-25"
+    },
+    {
+      "passed_date": "2007-11-30",
+      "enactment_date": "2007-12-19"
+    },
+    {
+      "passed_date": "2008-04-25",
+      "enactment_date": "2008-05-14"
+    },
+    {
+      "passed_date": "2008-05-09",
+      "enactment_date": "2008-05-28"
+    },
+    {
+      "passed_date": "2010-05-18",
+      "enactment_date": "2010-06-15"
+    }
+  ],
+  "lyID": "04414"
+}

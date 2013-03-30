@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "name": "警察職權行使法",
+      "start_date": "2003-06-05"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2003-06-05",
+      "enactment_date": "2003-06-25",
+      "enforcement_date": "2003-12-01"
+    },
+    {
+      "passed_date": "2011-04-08",
+      "enactment_date": "2011-04-27"
+    }
+  ],
+  "lyID": "05119"
+}

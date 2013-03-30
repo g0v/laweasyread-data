@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "提審法",
+      "start_date": "1935-06-07"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-06-07",
+      "enactment_date": "1935-06-21",
+      "enforcement_date": "1946-03-15"
+    },
+    {
+      "passed_date": "1948-04-15",
+      "enactment_date": "1948-04-26"
+    },
+    {
+      "passed_date": "1999-11-30",
+      "enactment_date": "1999-12-15"
+    }
+  ],
+  "lyID": "04554"
+}

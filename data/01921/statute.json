@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "礦場安全法",
+      "start_date": "1973-12-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1973-12-11",
+      "enactment_date": "1973-12-22"
+    },
+    {
+      "passed_date": "1986-11-11",
+      "enactment_date": "1986-11-24"
+    },
+    {
+      "passed_date": "2000-10-27",
+      "enactment_date": "2000-11-15"
+    }
+  ],
+  "lyID": "01921"
+}

@@ -1,0 +1,64 @@
+{
+  "name": [
+    {
+      "name": "契稅條例",
+      "start_date": "1943-04-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1943-04-30",
+      "enactment_date": "1943-05-15"
+    },
+    {
+      "passed_date": "1945-03-31",
+      "enactment_date": "1945-04-17"
+    },
+    {
+      "passed_date": "1946-06-18",
+      "enactment_date": "1946-06-29"
+    },
+    {
+      "passed_date": "1950-10-17",
+      "enactment_date": "1950-10-27"
+    },
+    {
+      "passed_date": "1953-11-10",
+      "enactment_date": "1953-11-27"
+    },
+    {
+      "passed_date": "1967-12-29",
+      "enactment_date": "1967-12-30"
+    },
+    {
+      "passed_date": "1973-08-21",
+      "enactment_date": "1973-08-30"
+    },
+    {
+      "passed_date": "1993-07-09",
+      "enactment_date": "1993-07-30"
+    },
+    {
+      "passed_date": "1999-01-14",
+      "enactment_date": "1999-01-27"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-07-15"
+    },
+    {
+      "passed_date": "2001-05-29",
+      "enactment_date": "2001-06-13",
+      "enforcement_date": "2001-07-01"
+    },
+    {
+      "passed_date": "2009-12-11",
+      "enactment_date": "2009-12-30"
+    },
+    {
+      "passed_date": "2010-04-20",
+      "enactment_date": "2010-05-05"
+    }
+  ],
+  "lyID": "01525"
+}

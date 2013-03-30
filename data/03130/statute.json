@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "植物防疫檢疫法",
+      "start_date": "1995-12-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1995-12-15",
+      "enactment_date": "1996-01-10"
+    },
+    {
+      "passed_date": "2000-05-02",
+      "enactment_date": "2000-05-17"
+    },
+    {
+      "passed_date": "2001-01-04",
+      "enactment_date": "2001-01-17"
+    },
+    {
+      "passed_date": "2002-01-08",
+      "enactment_date": "2002-02-06"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2008-04-22",
+      "enactment_date": "2008-05-07"
+    }
+  ],
+  "lyID": "03130"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "節約建國儲蓄券條例",
+      "start_date": "1939-09-02"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1939-09-02",
+      "enactment_date": "1939-09-12"
+    },
+    {
+      "passed_date": "1940-03-23",
+      "enactment_date": "1940-04-03"
+    },
+    {
+      "passed_date": "1940-05-18",
+      "enactment_date": "1940-05-30"
+    },
+    {
+      "passed_date": "1943-07-30",
+      "enactment_date": "1973-06-05"
+    }
+  ],
+  "lyID": "90206"
+}

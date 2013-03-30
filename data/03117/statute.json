@@ -1,0 +1,37 @@
+{
+  "name": [
+    {
+      "name": "植物種苗法",
+      "start_date": "1988-11-17"
+    },
+    {
+      "name": "植物品種及種苗法",
+      "start_date": "2004-03-30"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1988-11-17",
+      "enactment_date": "1988-12-05"
+    },
+    {
+      "passed_date": "2000-04-28",
+      "enactment_date": "2000-05-17"
+    },
+    {
+      "passed_date": "2002-01-08",
+      "enactment_date": "2002-01-30"
+    },
+    {
+      "passed_date": "2004-03-30",
+      "enactment_date": "2004-04-21",
+      "enforcement_date": "2005-06-30"
+    },
+    {
+      "passed_date": "2010-08-17",
+      "enactment_date": "2010-08-25",
+      "enforcement_date": "2010-09-12"
+    }
+  ],
+  "lyID": "03117"
+}

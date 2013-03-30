@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "商會法",
+      "start_date": "1929-07-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1929-07-19",
+      "enactment_date": "1929-08-15"
+    },
+    {
+      "passed_date": "1930-02-15",
+      "enactment_date": "1930-03-03"
+    },
+    {
+      "passed_date": "1937-11-17",
+      "enactment_date": "1972-07-26",
+      "enforcement_date": "1938-11-01"
+    }
+  ],
+  "lyID": "90001"
+}

@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "國葬法",
+      "start_date": "1930-09-27"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-09-27",
+      "enactment_date": "1930-10-07"
+    },
+    {
+      "passed_date": "1936-07-03",
+      "enactment_date": "1936-07-13"
+    },
+    {
+      "passed_date": "1937-04-16",
+      "enactment_date": "1937-04-23"
+    },
+    {
+      "passed_date": "1947-11-15",
+      "enactment_date": "1947-12-05"
+    },
+    {
+      "passed_date": "1948-11-09",
+      "enactment_date": "1948-11-26"
+    }
+  ],
+  "lyID": "01113"
+}

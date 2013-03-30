@@ -1,0 +1,43 @@
+{
+  "name": [
+    {
+      "name": "省政府組織法",
+      "start_date": "1925-07-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1925-07-01",
+      "enactment_date": "1925-07-01"
+    },
+    {
+      "passed_date": "1926-11-10",
+      "enactment_date": "1926-11-10"
+    },
+    {
+      "passed_date": "1927-07-08",
+      "enactment_date": "1927-07-08"
+    },
+    {
+      "passed_date": "1927-10-25",
+      "enactment_date": "1927-10-25"
+    },
+    {
+      "passed_date": "1928-04-27",
+      "enactment_date": "1928-04-27"
+    },
+    {
+      "passed_date": "1930-01-18",
+      "enactment_date": "1930-02-03"
+    },
+    {
+      "passed_date": "1931-03-07",
+      "enactment_date": "1931-03-23"
+    },
+    {
+      "passed_date": "1944-04-15",
+      "enactment_date": "2000-04-05"
+    }
+  ],
+  "lyID": "04801"
+}

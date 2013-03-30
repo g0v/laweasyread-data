@@ -1,0 +1,40 @@
+{
+  "name": [
+    {
+      "name": "陸海空軍獎勵條例",
+      "start_date": "1935-05-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1935-05-31",
+      "enactment_date": "1935-06-15"
+    },
+    {
+      "passed_date": "1937-08-31",
+      "enactment_date": "1937-09-07",
+      "enforcement_date": "1937-10-16"
+    },
+    {
+      "passed_date": "1952-04-18",
+      "enactment_date": "1952-05-03"
+    },
+    {
+      "passed_date": "1971-06-29",
+      "enactment_date": "1971-07-12"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-18"
+    },
+    {
+      "passed_date": "2002-06-04",
+      "enactment_date": "2002-06-26"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-04"
+    }
+  ],
+  "lyID": "01411"
+}

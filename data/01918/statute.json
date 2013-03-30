@@ -1,0 +1,72 @@
+{
+  "name": [
+    {
+      "name": "礦業法",
+      "start_date": "1930-05-10"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-05-10",
+      "enactment_date": "1930-05-26",
+      "enforcement_date": "1930-12-01"
+    },
+    {
+      "passed_date": "1931-11-07",
+      "enactment_date": "1932-01-23"
+    },
+    {
+      "passed_date": "1937-10-09",
+      "enactment_date": "1937-10-15"
+    },
+    {
+      "passed_date": "1938-09-09",
+      "enactment_date": "1938-07-22"
+    },
+    {
+      "passed_date": "1942-05-30",
+      "enactment_date": "1942-06-08"
+    },
+    {
+      "passed_date": "1947-04-15",
+      "enactment_date": "1947-04-30"
+    },
+    {
+      "passed_date": "1948-12-31",
+      "enactment_date": "1949-01-17"
+    },
+    {
+      "passed_date": "1950-05-31",
+      "enactment_date": "1950-06-15"
+    },
+    {
+      "passed_date": "1959-07-16",
+      "enactment_date": "1959-07-30"
+    },
+    {
+      "passed_date": "1966-11-18",
+      "enactment_date": "1966-11-29"
+    },
+    {
+      "passed_date": "1978-04-04",
+      "enactment_date": "1978-04-14"
+    },
+    {
+      "passed_date": "1996-09-06",
+      "enactment_date": "1996-09-25"
+    },
+    {
+      "passed_date": "2000-10-27",
+      "enactment_date": "2000-11-15"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2003-12-09",
+      "enactment_date": "2003-12-31"
+    }
+  ],
+  "lyID": "01918"
+}

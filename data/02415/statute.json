@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "衛星廣播電視法",
+      "start_date": "1999-01-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1999-01-15",
+      "enactment_date": "1999-02-03"
+    },
+    {
+      "passed_date": "2002-12-27",
+      "enactment_date": "2003-01-15"
+    },
+    {
+      "passed_date": "2003-12-09",
+      "enactment_date": "2003-12-24"
+    }
+  ],
+  "lyID": "02415"
+}

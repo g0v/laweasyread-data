@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "人體器官移植條例",
+      "start_date": "1987-06-02"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1987-06-02",
+      "enactment_date": "1987-06-19"
+    },
+    {
+      "passed_date": "1993-05-18",
+      "enactment_date": "1993-05-21"
+    },
+    {
+      "passed_date": "2002-06-20",
+      "enactment_date": "2002-07-10"
+    },
+    {
+      "passed_date": "2003-01-03",
+      "enactment_date": "2003-01-29"
+    },
+    {
+      "passed_date": "2011-12-06",
+      "enactment_date": "2011-12-21"
+    }
+  ],
+  "lyID": "02535"
+}

@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "警察教育條例",
+      "start_date": "1960-11-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1960-11-01",
+      "enactment_date": "1960-11-10"
+    },
+    {
+      "passed_date": "1972-03-21",
+      "enactment_date": "1972-04-01"
+    },
+    {
+      "passed_date": "1982-05-25",
+      "enactment_date": "1982-06-09"
+    },
+    {
+      "passed_date": "1986-06-20",
+      "enactment_date": "1986-07-02"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-06-05"
+    }
+  ],
+  "lyID": "01168"
+}

@@ -1,0 +1,80 @@
+{
+  "name": [
+    {
+      "name": "土地稅法",
+      "start_date": "1977-07-01"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1977-07-01",
+      "enactment_date": "1977-07-14"
+    },
+    {
+      "passed_date": "1979-07-13",
+      "enactment_date": "1979-07-25"
+    },
+    {
+      "passed_date": "1989-10-12",
+      "enactment_date": "1989-10-30"
+    },
+    {
+      "passed_date": "1993-07-09",
+      "enactment_date": "1993-07-30"
+    },
+    {
+      "passed_date": "1993-12-23",
+      "enactment_date": "1994-01-07"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-18"
+    },
+    {
+      "passed_date": "1996-12-31",
+      "enactment_date": "1997-01-15"
+    },
+    {
+      "passed_date": "1997-04-29",
+      "enactment_date": "1997-05-21"
+    },
+    {
+      "passed_date": "1997-10-09",
+      "enactment_date": "1997-10-29"
+    },
+    {
+      "passed_date": "2000-01-06",
+      "enactment_date": "2000-01-26"
+    },
+    {
+      "passed_date": "2001-05-29",
+      "enactment_date": "2001-06-13",
+      "enforcement_date": "2001-07-01"
+    },
+    {
+      "passed_date": "2002-01-17",
+      "enactment_date": "2002-01-30"
+    },
+    {
+      "passed_date": "2004-01-06",
+      "enactment_date": "2004-01-14"
+    },
+    {
+      "passed_date": "2005-01-21",
+      "enactment_date": "2005-01-30"
+    },
+    {
+      "passed_date": "2007-06-14",
+      "enactment_date": "2007-07-11"
+    },
+    {
+      "passed_date": "2009-12-11",
+      "enactment_date": "2009-12-30"
+    },
+    {
+      "passed_date": "2010-11-05",
+      "enactment_date": "2010-11-24"
+    }
+  ],
+  "lyID": "01519"
+}

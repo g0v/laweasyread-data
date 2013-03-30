@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "健康食品管理法",
+      "start_date": "1999-01-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1999-01-14",
+      "enactment_date": "1999-02-03"
+    },
+    {
+      "passed_date": "1999-11-30",
+      "enactment_date": "1999-12-22"
+    },
+    {
+      "passed_date": "2000-10-24",
+      "enactment_date": "2000-11-08"
+    },
+    {
+      "passed_date": "2002-01-08",
+      "enactment_date": "2002-01-30"
+    },
+    {
+      "passed_date": "2006-04-28",
+      "enactment_date": "2006-05-17"
+    }
+  ],
+  "lyID": "02556"
+}

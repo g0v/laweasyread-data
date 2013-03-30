@@ -1,0 +1,44 @@
+{
+  "name": [
+    {
+      "name": "勞資爭議處理法",
+      "start_date": "1928-06-09"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1928-06-09",
+      "enactment_date": "1928-06-09"
+    },
+    {
+      "passed_date": "1930-03-08",
+      "enactment_date": "1930-03-17"
+    },
+    {
+      "passed_date": "1932-09-10",
+      "enactment_date": "1932-09-27"
+    },
+    {
+      "passed_date": "1943-05-15",
+      "enactment_date": "1943-05-31"
+    },
+    {
+      "passed_date": "1988-06-17",
+      "enactment_date": "1988-06-27"
+    },
+    {
+      "passed_date": "2000-06-30",
+      "enactment_date": "2000-07-19"
+    },
+    {
+      "passed_date": "2002-05-14",
+      "enactment_date": "2002-05-29"
+    },
+    {
+      "passed_date": "2009-06-05",
+      "enactment_date": "2009-07-01",
+      "enforcement_date": "2011-05-01"
+    }
+  ],
+  "lyID": "01143"
+}

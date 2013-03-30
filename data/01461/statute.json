@@ -1,0 +1,23 @@
+{
+  "name": [
+    {
+      "name": "國家情報工作法",
+      "start_date": "2005-01-14"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2005-01-14",
+      "enactment_date": "2005-02-05"
+    },
+    {
+      "passed_date": "2010-04-27",
+      "enactment_date": "2010-05-19"
+    },
+    {
+      "passed_date": "2011-06-03",
+      "enactment_date": "2011-06-29"
+    }
+  ],
+  "lyID": "01461"
+}

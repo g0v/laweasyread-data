@@ -1,0 +1,21 @@
+{
+  "name": [
+    {
+      "name": "團體協約法",
+      "start_date": "1930-10-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-10-11",
+      "enactment_date": "1930-10-28",
+      "enforcement_date": "1932-11-01"
+    },
+    {
+      "passed_date": "2007-12-14",
+      "enactment_date": "2008-01-09",
+      "enforcement_date": "2011-05-01"
+    }
+  ],
+  "lyID": "01144"
+}

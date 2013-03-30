@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "交通部中央氣象局組織條例",
+      "start_date": "1972-11-17"
+    },
+    {
+      "name": "中央氣象局組織條例",
+      "start_date": "1944-03-31"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1944-03-31",
+      "enactment_date": "1944-04-15"
+    },
+    {
+      "passed_date": "1947-11-15",
+      "enactment_date": "1947-11-29"
+    },
+    {
+      "passed_date": "1948-11-11",
+      "enactment_date": "1948-11-26"
+    },
+    {
+      "passed_date": "1972-11-17",
+      "enactment_date": "1972-11-30"
+    },
+    {
+      "passed_date": "1987-11-13",
+      "enactment_date": "1987-11-30"
+    },
+    {
+      "passed_date": "1995-01-05",
+      "enactment_date": "1995-01-23"
+    }
+  ],
+  "lyID": "02011"
+}

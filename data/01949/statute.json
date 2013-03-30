@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "中小企業發展條例",
+      "start_date": "1991-01-18"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1991-01-18",
+      "enactment_date": "1991-02-04"
+    },
+    {
+      "passed_date": "1997-04-29",
+      "enactment_date": "1997-05-21"
+    },
+    {
+      "passed_date": "1998-01-06",
+      "enactment_date": "1998-01-21"
+    },
+    {
+      "passed_date": "2000-12-12",
+      "enactment_date": "2000-12-27"
+    },
+    {
+      "passed_date": "2001-12-06",
+      "enactment_date": "2001-12-21"
+    },
+    {
+      "passed_date": "2003-12-04",
+      "enactment_date": "2003-12-17"
+    },
+    {
+      "passed_date": "2009-11-06",
+      "enactment_date": "2009-11-25"
+    }
+  ],
+  "lyID": "01949"
+}

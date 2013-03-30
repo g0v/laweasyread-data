@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "name": "古物保存法",
+      "start_date": "1930-05-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-05-24",
+      "enactment_date": "1930-06-02",
+      "enforcement_date": "1931-06-15"
+    },
+    {
+      "passed_date": "1935-11-08",
+      "enactment_date": "1982-05-26"
+    }
+  ],
+  "lyID": "90066"
+}

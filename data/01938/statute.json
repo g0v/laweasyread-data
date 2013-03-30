@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "商品標示法",
+      "start_date": "1982-01-15"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1982-01-15",
+      "enactment_date": "1982-01-22"
+    },
+    {
+      "passed_date": "1991-01-17",
+      "enactment_date": "1991-01-30"
+    },
+    {
+      "passed_date": "2000-04-07",
+      "enactment_date": "2000-04-26"
+    },
+    {
+      "passed_date": "2003-06-06",
+      "enactment_date": "2003-06-25"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26"
+    }
+  ],
+  "lyID": "01938"
+}

@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "衛生部藥品供應處組織條例",
+      "start_date": "1946-01-31"
+    },
+    {
+      "name": "內政部藥品供應處組織條例",
+      "start_date": "1955-05-24"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1946-01-31",
+      "enactment_date": "1946-02-19"
+    },
+    {
+      "passed_date": "1948-03-13",
+      "enactment_date": "1948-03-26"
+    },
+    {
+      "passed_date": "1955-05-24",
+      "enactment_date": "1973-06-02"
+    }
+  ],
+  "lyID": "90081"
+}

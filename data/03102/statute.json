@@ -1,0 +1,35 @@
+{
+  "name": [
+    {
+      "name": "山坡地保育利用條例",
+      "start_date": "1976-04-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1976-04-20",
+      "enactment_date": "1976-04-29"
+    },
+    {
+      "passed_date": "1985-12-24",
+      "enactment_date": "1986-01-10"
+    },
+    {
+      "passed_date": "1997-12-19",
+      "enactment_date": "1998-01-07"
+    },
+    {
+      "passed_date": "2000-04-28",
+      "enactment_date": "2000-05-17"
+    },
+    {
+      "passed_date": "2002-05-21",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2006-05-23",
+      "enactment_date": "2006-06-14"
+    }
+  ],
+  "lyID": "03102"
+}

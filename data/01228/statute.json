@@ -1,0 +1,36 @@
+{
+  "name": [
+    {
+      "name": "社會工作師法",
+      "start_date": "1997-03-11"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1997-03-11",
+      "enactment_date": "1997-04-02"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-07-14"
+    },
+    {
+      "passed_date": "2002-04-02",
+      "enactment_date": "2002-04-24"
+    },
+    {
+      "passed_date": "2003-05-20",
+      "enactment_date": "2003-06-05"
+    },
+    {
+      "passed_date": "2007-12-19",
+      "enactment_date": "2008-01-16"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "01228"
+}

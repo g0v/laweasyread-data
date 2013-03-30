@@ -1,0 +1,117 @@
+{
+  "name": [
+    {
+      "name": "公職人員選舉罷免法",
+      "start_date": "1991-07-16"
+    },
+    {
+      "name": "動員戡亂時期公職人員選舉罷免法",
+      "start_date": "1980-05-06"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1980-05-06",
+      "enactment_date": "1980-05-14"
+    },
+    {
+      "passed_date": "1983-06-28",
+      "enactment_date": "1983-07-08"
+    },
+    {
+      "passed_date": "1989-01-26",
+      "enactment_date": "1989-02-03"
+    },
+    {
+      "passed_date": "1991-07-16",
+      "enactment_date": "1991-08-02"
+    },
+    {
+      "passed_date": "1992-10-22",
+      "enactment_date": "1992-11-06"
+    },
+    {
+      "passed_date": "1994-06-03",
+      "enactment_date": "1994-06-10"
+    },
+    {
+      "passed_date": "1994-07-15",
+      "enactment_date": "1994-07-23"
+    },
+    {
+      "passed_date": "1994-10-06",
+      "enactment_date": "1994-10-18"
+    },
+    {
+      "passed_date": "1994-10-20",
+      "enactment_date": "1994-10-22"
+    },
+    {
+      "passed_date": "1997-05-31",
+      "enactment_date": "1997-06-18"
+    },
+    {
+      "passed_date": "2000-06-30",
+      "enactment_date": "2000-07-19"
+    },
+    {
+      "passed_date": "2000-10-13",
+      "enactment_date": "2000-11-01"
+    },
+    {
+      "passed_date": "2002-01-15",
+      "enactment_date": "2002-01-25"
+    },
+    {
+      "passed_date": "2002-12-31",
+      "enactment_date": "2003-07-09"
+    },
+    {
+      "passed_date": "2004-03-23",
+      "enactment_date": "2004-04-07"
+    },
+    {
+      "passed_date": "2005-01-20",
+      "enactment_date": "2005-02-05"
+    },
+    {
+      "passed_date": "2005-05-27",
+      "enactment_date": "2005-06-22"
+    },
+    {
+      "passed_date": "2005-11-22",
+      "enactment_date": "2005-11-30"
+    },
+    {
+      "passed_date": "2006-01-13",
+      "enactment_date": "2006-02-03"
+    },
+    {
+      "passed_date": "2006-05-05",
+      "enactment_date": "2006-05-30",
+      "enforcement_date": "2006-07-01"
+    },
+    {
+      "passed_date": "2007-11-06",
+      "enactment_date": "2007-11-07"
+    },
+    {
+      "passed_date": "2008-11-07",
+      "enactment_date": "2008-11-26"
+    },
+    {
+      "passed_date": "2009-05-12",
+      "enactment_date": "2009-05-27",
+      "enforcement_date": "2009-11-23"
+    },
+    {
+      "passed_date": "2010-08-19",
+      "enactment_date": "2010-09-01"
+    },
+    {
+      "passed_date": "2011-05-06",
+      "enactment_date": "2011-05-25"
+    }
+  ],
+  "lyID": "01177"
+}

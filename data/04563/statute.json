@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "公務員懲戒法",
+      "start_date": "1931-03-28"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1931-03-28",
+      "enactment_date": "1931-06-08"
+    },
+    {
+      "passed_date": "1933-06-23",
+      "enactment_date": "1933-06-27"
+    },
+    {
+      "passed_date": "1933-11-24",
+      "enactment_date": "1933-12-01"
+    },
+    {
+      "passed_date": "1948-03-30",
+      "enactment_date": "1948-04-15",
+      "enforcement_date": "1948-07-01"
+    },
+    {
+      "passed_date": "1985-04-23",
+      "enactment_date": "1985-05-03"
+    }
+  ],
+  "lyID": "04563"
+}

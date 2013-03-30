@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "幼稚教育法",
+      "start_date": "1981-10-23"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1981-10-23",
+      "enactment_date": "1981-11-06"
+    },
+    {
+      "passed_date": "2002-05-17",
+      "enactment_date": "2002-06-12"
+    },
+    {
+      "passed_date": "2003-06-06",
+      "enactment_date": "2003-06-25"
+    },
+    {
+      "passed_date": "2009-06-02",
+      "enactment_date": "2009-06-17"
+    },
+    {
+      "passed_date": "2011-03-29",
+      "enactment_date": "2011-04-13"
+    }
+  ],
+  "lyID": "01719"
+}

@@ -1,0 +1,45 @@
+{
+  "name": [
+    {
+      "name": "公務員撫卹法",
+      "start_date": "1943-10-15"
+    },
+    {
+      "name": "公務人員撫卹法",
+      "start_date": "1971-06-04"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1943-10-15",
+      "enactment_date": "1943-11-06"
+    },
+    {
+      "passed_date": "1947-06-12",
+      "enactment_date": "1947-06-25"
+    },
+    {
+      "passed_date": "1971-06-04",
+      "enactment_date": "1971-06-04"
+    },
+    {
+      "passed_date": "1981-11-24",
+      "enactment_date": "1981-12-04"
+    },
+    {
+      "passed_date": "1992-12-29",
+      "enactment_date": "1993-01-20"
+    },
+    {
+      "passed_date": "1995-01-17",
+      "enactment_date": "1995-01-28",
+      "enforcement_date": "1995-07-01"
+    },
+    {
+      "passed_date": "2010-07-13",
+      "enactment_date": "2010-07-28",
+      "enforcement_date": "2011-01-01"
+    }
+  ],
+  "lyID": "04647"
+}

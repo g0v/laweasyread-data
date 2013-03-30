@@ -1,0 +1,27 @@
+{
+  "name": [
+    {
+      "name": "國庫法",
+      "start_date": "1948-10-29"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-10-29",
+      "enactment_date": "1948-11-15"
+    },
+    {
+      "passed_date": "1970-07-03",
+      "enactment_date": "1970-07-15"
+    },
+    {
+      "passed_date": "1999-06-22",
+      "enactment_date": "1999-07-07"
+    },
+    {
+      "passed_date": "2002-04-25",
+      "enactment_date": "2002-05-15"
+    }
+  ],
+  "lyID": "01510"
+}

@@ -1,0 +1,33 @@
+{
+  "name": [
+    {
+      "name": "民法第五編繼承",
+      "start_date": "1930-12-03"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1930-12-03",
+      "enactment_date": "1930-12-26",
+      "enforcement_date": "1931-05-05"
+    },
+    {
+      "passed_date": "1985-05-21",
+      "enactment_date": "1985-06-03"
+    },
+    {
+      "passed_date": "2007-12-14",
+      "enactment_date": "2008-01-02"
+    },
+    {
+      "passed_date": "2009-05-22",
+      "enactment_date": "2009-06-10"
+    },
+    {
+      "passed_date": "2009-12-15",
+      "enactment_date": "2009-12-30",
+      "enforcement_date": "2009-11-23"
+    }
+  ],
+  "lyID": "04515"
+}

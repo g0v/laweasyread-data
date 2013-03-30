@@ -1,0 +1,32 @@
+{
+  "name": [
+    {
+      "name": "田賦徵收實物條例",
+      "start_date": "1966-04-26"
+    },
+    {
+      "name": "戰時田賦征收實物條例",
+      "start_date": "1944-08-30"
+    },
+    {
+      "name": "田賦征收實物條例",
+      "start_date": "1954-12-17"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1944-08-30",
+      "enactment_date": "1944-09-19"
+    },
+    {
+      "passed_date": "1954-12-17",
+      "enactment_date": "1954-12-29"
+    },
+    {
+      "passed_date": "1966-04-26",
+      "enactment_date": "1977-07-14",
+      "enforcement_date": "1967-01-01"
+    }
+  ],
+  "lyID": "90083"
+}

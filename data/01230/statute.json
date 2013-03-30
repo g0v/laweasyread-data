@@ -1,0 +1,36 @@
+{
+  "name": [
+    {
+      "name": "國民年金法",
+      "start_date": "2007-07-20"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "2007-07-20",
+      "enactment_date": "2007-08-08",
+      "enforcement_date": "2008-10-01"
+    },
+    {
+      "passed_date": "2008-07-18",
+      "enactment_date": "2008-08-13"
+    },
+    {
+      "passed_date": "2011-06-13",
+      "enactment_date": "2011-06-29"
+    },
+    {
+      "passed_date": "2011-12-02",
+      "enactment_date": "2011-12-21"
+    },
+    {
+      "passed_date": "2011-12-14",
+      "enactment_date": "2011-12-28"
+    },
+    {
+      "passed_date": "2012-12-07",
+      "enactment_date": "2012-12-26"
+    }
+  ],
+  "lyID": "01230"
+}

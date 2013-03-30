@@ -1,0 +1,31 @@
+{
+  "name": [
+    {
+      "name": "公務人員考績法",
+      "start_date": "1948-11-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1948-11-19",
+      "enactment_date": "1949-01-01"
+    },
+    {
+      "passed_date": "1953-10-30",
+      "enactment_date": "1954-01-09"
+    },
+    {
+      "passed_date": "1962-03-27",
+      "enactment_date": "1962-04-09"
+    },
+    {
+      "passed_date": "1970-08-14",
+      "enactment_date": "1970-08-27"
+    },
+    {
+      "passed_date": "1980-11-21",
+      "enactment_date": "1987-01-14"
+    }
+  ],
+  "lyID": "90101"
+}

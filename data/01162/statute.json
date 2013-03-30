@@ -1,0 +1,24 @@
+{
+  "name": [
+    {
+      "name": "市區道路條例",
+      "start_date": "1965-01-19"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1965-01-19",
+      "enactment_date": "1965-01-28"
+    },
+    {
+      "passed_date": "2002-04-02",
+      "enactment_date": "2002-04-24"
+    },
+    {
+      "passed_date": "2003-12-23",
+      "enactment_date": "2004-01-07",
+      "enforcement_date": "2005-01-01"
+    }
+  ],
+  "lyID": "01162"
+}

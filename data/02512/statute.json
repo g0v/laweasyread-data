@@ -1,0 +1,71 @@
+{
+  "name": [
+    {
+      "name": "管制藥品管理條例",
+      "start_date": "1999-05-11"
+    },
+    {
+      "name": "麻醉藥品管理條例",
+      "start_date": "1929-10-26"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1929-10-26",
+      "enactment_date": "1929-11-11"
+    },
+    {
+      "passed_date": "1931-10-31",
+      "enactment_date": "1931-11-07"
+    },
+    {
+      "passed_date": "1942-07-30",
+      "enactment_date": "1942-08-11"
+    },
+    {
+      "passed_date": "1954-03-16",
+      "enactment_date": "1954-03-27"
+    },
+    {
+      "passed_date": "1973-06-05",
+      "enactment_date": "1973-06-14"
+    },
+    {
+      "passed_date": "1979-03-23",
+      "enactment_date": "1979-04-04"
+    },
+    {
+      "passed_date": "1980-06-24",
+      "enactment_date": "1980-07-02"
+    },
+    {
+      "passed_date": "1991-11-07",
+      "enactment_date": "1991-11-22"
+    },
+    {
+      "passed_date": "1994-12-29",
+      "enactment_date": "1995-01-13"
+    },
+    {
+      "passed_date": "1999-05-11",
+      "enactment_date": "1999-06-02"
+    },
+    {
+      "passed_date": "2003-01-13",
+      "enactment_date": "2003-02-06"
+    },
+    {
+      "passed_date": "2004-12-24",
+      "enactment_date": "2005-01-19"
+    },
+    {
+      "passed_date": "2006-05-23",
+      "enactment_date": "2006-06-14"
+    },
+    {
+      "passed_date": "2011-01-10",
+      "enactment_date": "2011-01-26"
+    }
+  ],
+  "lyID": "02512"
+}

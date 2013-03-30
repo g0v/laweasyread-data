@@ -1,0 +1,39 @@
+{
+  "name": [
+    {
+      "name": "證券交易稅條例",
+      "start_date": "1965-06-08"
+    }
+  ],
+  "history": [
+    {
+      "passed_date": "1965-06-08",
+      "enactment_date": "1965-06-19"
+    },
+    {
+      "passed_date": "1978-11-17",
+      "enactment_date": "1978-11-27"
+    },
+    {
+      "passed_date": "1989-12-28",
+      "enactment_date": "1989-12-30"
+    },
+    {
+      "passed_date": "1993-01-16",
+      "enactment_date": "1993-01-30"
+    },
+    {
+      "passed_date": "1993-07-09",
+      "enactment_date": "1993-07-30"
+    },
+    {
+      "passed_date": "2009-12-11",
+      "enactment_date": "2009-12-30"
+    },
+    {
+      "passed_date": "2010-12-14",
+      "enactment_date": "2010-12-29"
+    }
+  ],
+  "lyID": "01518"
+}
