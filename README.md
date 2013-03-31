@@ -1,4 +1,7 @@
 # Introduction
+[![Build Status](https://travis-ci.org/g0v/laweasyread-data.png)](https://travis-ci.org/g0v/laweasyread-data)
+[![Dependencies Status](https://gemnasium.com/g0v/laweasyread-data.png)](https://gemnasium.com/g0v/laweasyread-data)
+
 This is the data for [laweasyread](https://github.com/g0v/laweasyread). Please
 run `npm install` if you want to use any script in this project.
 
@@ -29,9 +32,6 @@ in mongodb. Use the following command to create database:
 
 # Bugs
 Please report any problem in [here](https://github.com/g0v/laweasyread-data/issues).
-
-# Travis Build Status
-[![Build Status](https://travis-ci.org/g0v/laweasyread-data.png)](https://travis-ci.org/g0v/laweasyread-data)
 
 # Copyright
 The source code is under [MIT License](https://github.com/g0v/laweasyread-data/blob/master/LICENSE).
