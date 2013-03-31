@@ -32,3 +32,9 @@ Please report any problem in [here](https://github.com/g0v/laweasyread-data/issu
 
 # Travis Build Status
 [![Build Status](https://travis-ci.org/g0v/laweasyread-data.png)](https://travis-ci.org/g0v/laweasyread-data)
+
+# Copyright
+The source code is under [MIT License](https://github.com/g0v/laweasyread-data/blob/master/LICENSE).
+
+All data in this project are not the subject matter of copyright, according to
+[Copyright Act § 9](http://law.moj.gov.tw/Eng/LawClass/LawSearchNo.aspx?PC=J0070017&DF=&SNo=9).
