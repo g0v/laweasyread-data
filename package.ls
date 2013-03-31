@@ -4,13 +4,8 @@ contributors:
     * 'ChangZhuo Chen <czchen@gmail.com>'
       ...
 scripts:
-    prepublish: """
-        ./node_modules/.bin/lsc -cj package.ls
-        ./node_modules/.bin/lsc -c lib/*.ls
-    """
-    test: """
-        ./node_modules/.bin/lsc test.ls
-    """
+    prepublish: "node prepublish.js"
+    test: "node test.js"
 engine:
     node: \0.10.x
 dependencies:
@@ -22,6 +17,7 @@ dependencies:
     mongodb: \~1.2.14
     optimist: \~0.3.5
     sprintf: \~0.1.1
+    shelljs: \~0.1.2
 devDependencies:
     LiveScript: \~1.1.1
     should: \~1.2.2
