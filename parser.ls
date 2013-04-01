@@ -122,6 +122,7 @@ parseHTML = (path) ->
 
                 article =
                     article: article_no
+                    lyID: ret.statute.lyID
                     content: ""
                     passed_date: passed_date
 
@@ -131,6 +132,7 @@ parseHTML = (path) ->
                 if article == void
                     article =
                         article: article_no
+                        lyID: ret.statute.lyID
                         content: ""
                         passed_date: passed_date
                 article.content += that.1 + "\n"
