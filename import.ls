@@ -23,7 +23,7 @@ create_task = (db, collection_name, files) ->
             cb err
             return
 
-        (err, res) <- async.series res
+        (err, res) <- async.parallel res
         cb err
 
 main = ->
@@ -47,7 +47,7 @@ main = ->
     (err, res) <- async.map (Object.keys data), (key, cb) ->
         cb null, (create_task db, key, data[key])
 
-    (err, res) <- async.series res
+    (err, res) <- async.parallel res
     if err => console.error err else console.log "Done"
 
     db.close!
