@@ -1,4 +1,4 @@
-require!{fs, mkdirp, moment, optimist, \./lib/util}
+require!{fs, mkdirp, moment, optimist, \../lib/util}
 
 updateName = (name_array, new_name, date) ->
     for name in name_array
@@ -151,18 +151,14 @@ parseHTML = (path) ->
 
     ret
 
-writeJSON = (path, json) ->
-    console.log "Write #path"
-    fs.writeFileSync path, JSON.stringify json, '', 4
-
 main = ->
     argv = optimist .default {
-        input: "#__dirname/rawdata/utf8_lawstat/version2"
-        output: "#__dirname/data"
+        rawdata: "#__dirname/../rawdata/utf8_lawstat/version2"
+        output: "#__dirname/../data/law"
     } .argv
 
-    for path in fs.readdirSync argv.input
-        indir = "#{argv.input}/#path"
+    for path in fs.readdirSync argv.rawdata
+        indir = "#{argv.rawdata}/#path"
         m = path.match /([^/]+)\/?$/
         outdir = "#{argv.output}/#{m.1}"
 
@@ -176,4 +172,5 @@ main = ->
         fs.writeFileSync "#outdir/article.json", JSON.stringify data.article, '', 2
         console.log "Write #outdir/statute.json"
         fs.writeFileSync "#outdir/statute.json", JSON.stringify data.statute, '', 2
+
 main!

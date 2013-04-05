@@ -39,7 +39,7 @@ main = ->
         article: []
         statute: []
 
-    fsTools.walkSync "#__dirname/data", (path) ->
+    fsTools.walkSync "#__dirname/data/law", (path) ->
         match path
         | /article\.json$/ => data.article.push path
         | /statute\.json$/ => data.statute.push path
