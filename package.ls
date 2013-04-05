@@ -20,7 +20,9 @@ dependencies:
     sprintf: \~0.1.1
     shelljs: \~0.1.2
 devDependencies:
+    jscoverage: \~0.3.6
     LiveScript: \~1.1.1
+    mocha: \~1.8.2
     should: \~1.2.2
 licenses:
     * type: \MIT

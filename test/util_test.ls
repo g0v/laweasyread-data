@@ -1,4 +1,6 @@
-require!{should, \../lib/util}
+require!{should}
+util = require \../ .util
+test = it
 
 const ZH_NUMBER_DATA =
     * zh: \一
@@ -18,8 +20,12 @@ const DATE_DATA =
     * zh: "民國 一百零二 年 三 月 三十一 號"
       date: \2013-03-31
 
-for data in ZH_NUMBER_DATA
-    util.parseZHNumber data.zh .should.equal data.int
+describe 'Test parseZHNumber', ->
+    test 'Good input', ->
+        for data in ZH_NUMBER_DATA
+            util.parseZHNumber data.zh .should.eql data.int
 
-for data in DATE_DATA
-    util.toISODate data.zh .should.equal data.date
+describe 'Test toISOData', ->
+    test 'Good input, single argument', ->
+        for data in DATE_DATA
+            util.toISODate data.zh .should.eql data.date
