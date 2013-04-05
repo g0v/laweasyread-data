@@ -6,18 +6,18 @@ const MONGO_OPTS =
 create_task = (db, collection_name, files) ->
     !(callback) ->
         console.log "Open collection #collection_name"
-        err, collection <- db.collection collection_name
+        err, collection <-! db.collection collection_name
         if err => return callback err
 
-        err, subtask <- async.map files, (file, callback) ->
+        err, subtask <-! async.map files, (file, callback) ->
             callback null, !(callback) ->
                 console.log "Write #file"
                 data = fs.readFileSync file, \utf8 |> JSON.parse
-                err <- collection.insert data
+                err <-! collection.insert data
                 callback err
         if err => return callback err
 
-        err <- async.parallel subtask
+        err <-! async.parallel subtask
         callback err
 
 create_db_close_callback = (db, callback) ->
@@ -36,12 +36,12 @@ main = !->
     } .argv
 
     console.log 'Open DB'
-    err, db <- mongodb.Db.connect argv.mongo_uri, MONGO_OPTS
+    err, db <-! mongodb.Db.connect argv.mongo_uri, MONGO_OPTS
     if err => return callback err
     callback := create_db_close_callback db, callback
 
     console.log 'Drop database'
-    err <- db.dropDatabase
+    err <-! db.dropDatabase
     if err => return callback err
 
     filelist =
@@ -54,11 +54,11 @@ main = !->
         | /article\.json$/ => filelist.article.push path
         | /statute\.json$/ => filelist.statute.push path
 
-    (err, task) <- async.map (Object.keys filelist), (key, callback) ->
+    err, task <-! async.map (Object.keys filelist), (key, callback) ->
         callback null, (create_task db, key, filelist[key])
 
     console.log 'Start to insert data'
-    err <- async.parallel task
+    err <-! async.parallel task
     if err => return callback err
 
     console.log 'Done'
