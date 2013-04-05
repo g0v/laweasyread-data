@@ -40,6 +40,10 @@ main = !->
     if err => return callback err
     callback := create_db_close_callback db, callback
 
+    console.log 'Drop database'
+    err <- db.dropDatabase
+    if err => return callback err
+
     filelist =
         article: []
         statute: []
