@@ -58,12 +58,11 @@ parse_category_file = (filename, callback) ->
 
 main = ->
     argv = optimist.default {
-        rawdata: "#__dirname/../rawdata/LawClassList"
-        output: "#__dirname/../data/pcode.json"
+        output: "#__dirname/../rawdata/LawClassList"
     } .argv
 
     console.log "Fetching index file"
-    (err, filename) <- fetch_index_file argv.rawdata
+    (err, filename) <- fetch_index_file argv.output
     if err => console.error err; return
 
     console.log "Parsing index file"
@@ -72,26 +71,11 @@ main = ->
 
     console.log "Fetching category file"
     (err, filelist) <- async.map index, (item, callback) ->
-        (err, filename) <- fetch_category_file argv.rawdata, item.TY
+        (err, filename) <- fetch_category_file argv.output, item.TY
         if err => callback err; return
         callback null, filename
     if err => console.error err; return
 
-    console.log "Parsing category page"
-    (err, pcode_map_array) <- async.map filelist, (filename, callback) ->
-        (err, pcode_map) <- parse_category_file filename
-        if err => callback err; return
-        callback null, pcode_map
-    if err => console.error err; return
-
-    pcode_map = []
-    for index, item of pcode_map_array
-        pcode_map = pcode_map.concat item
-
-    console.log "Writing result to #{argv.output}"
-    (err) <- fs.writeFile argv.output, JSON.stringify pcode_map, null, 2
-    if err => console.error err; return
-
-    console.log "Finish"
+    console.log "Done"
 
 main!
