@@ -32,7 +32,7 @@ fixupData = (data, opts) ->
             start_date: \1943-08-28
         }
 
-    data.statute.PCode = opts.pcode_lookup data.statute.name
+    data.statute.PCode = opts.pcode_lookup data.statute
     data
 
 parseHTML = (path, opts) ->
@@ -173,9 +173,15 @@ create_pcode_mapping = (path, callback) ->
 create_pcode_lookup_func = (path, callback) ->
     err, pcode_mapping <- create_pcode_mapping path
     if err => return callback err
-    callback null, (namelist) ->
-        for i, item of namelist
+    callback null, (statute) ->
+        for i, item of statute.name
             if pcode_mapping[item.name] != void => return pcode_mapping[item.name]
+        switch statute.lyID
+        | \04507 => fallthrough
+        | \04509 => fallthrough
+        | \04511 => fallthrough
+        | \04513 => fallthrough
+        | \04515 => return \B0000001
         void
 
 main = ->
