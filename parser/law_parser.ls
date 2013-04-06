@@ -25,6 +25,14 @@ updateArticle = (all_article, article) ->
             return
     all_article.push article
 
+fixupData = (data) ->
+    if data.statute.lyID == \90077
+        data.statute.name.push {
+            name: \外交部特派員公署組織條例
+            start_date: \1943-08-28
+        }
+    data
+
 parseHTML = (path) ->
     ret =
         statute:
@@ -149,7 +157,7 @@ parseHTML = (path) ->
         if article
             updateArticle ret.article, article
 
-    ret
+    fixupData ret
 
 main = ->
     argv = optimist .default {
