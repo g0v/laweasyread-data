@@ -192,7 +192,7 @@ main = ->
     } .argv
 
     (err, pcode_lookup) <- create_pcode_lookup_func argv.pcode
-    if err => console.error err
+    if err => console.error err; pcode_lookup = -> void
 
     for path in fs.readdirSync argv.rawdata
         indir = "#{argv.rawdata}/#path"
