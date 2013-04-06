@@ -25,15 +25,17 @@ updateArticle = (all_article, article) ->
             return
     all_article.push article
 
-fixupData = (data) ->
+fixupData = (data, opts) ->
     if data.statute.lyID == \90077
         data.statute.name.push {
             name: \外交部特派員公署組織條例
             start_date: \1943-08-28
         }
+
+    data.statute.PCode = opts.pcode_lookup data.statute.name
     data
 
-parseHTML = (path) ->
+parseHTML = (path, opts) ->
     ret =
         statute:
             name: []
@@ -157,13 +159,34 @@ parseHTML = (path) ->
         if article
             updateArticle ret.article, article
 
-    fixupData ret
+    fixupData ret, opts
+
+create_pcode_mapping = (path, callback) ->
+    err, data <- fs.readFile path
+    if err => return callback err
+    data = JSON.parse data
+    ret = {}
+    for index, item of data
+        ret[item.name] = item.PCode
+    callback null, ret
+
+create_pcode_lookup_func = (path, callback) ->
+    err, pcode_mapping <- create_pcode_mapping path
+    if err => return callback err
+    callback null, (namelist) ->
+        for i, item of namelist
+            if pcode_mapping[item.name] != void => return pcode_mapping[item.name]
+        void
 
 main = ->
     argv = optimist .default {
         rawdata: "#__dirname/../rawdata/utf8_lawstat/version2"
         output: "#__dirname/../data/law"
+        pcode: "#__dirname/../data/pcode.json"
     } .argv
+
+    (err, pcode_lookup) <- create_pcode_lookup_func argv.pcode
+    if err => console.error err
 
     for path in fs.readdirSync argv.rawdata
         indir = "#{argv.rawdata}/#path"
@@ -173,7 +196,9 @@ main = ->
         if not fs.statSync(indir).isDirectory() => continue
 
         console.log "Process #indir"
-        data = parseHTML indir
+        data = parseHTML indir, {
+            pcode_lookup: pcode_lookup
+        }
 
         mkdirp.sync outdir
         console.log "Write #outdir/article.json"
