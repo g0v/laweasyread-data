@@ -1,4 +1,4 @@
-require!{should}
+require!<[fs should]>
 util = require \../ .util
 test = it
 
@@ -20,12 +20,37 @@ const DATE_DATA =
     * zh: "民國 一百零二 年 三 月 三十一 號"
       date: \2013-03-31
 
-describe 'Test parseZHNumber', ->
-    test 'Good input', ->
+describe 'Test parseZHNumber', !->
+    test 'Good input', !(done) ->
         for data in ZH_NUMBER_DATA
             util.parseZHNumber data.zh .should.eql data.int
+        done!
 
-describe 'Test toISOData', ->
-    test 'Good input, single argument', ->
+describe 'Test toISOData', !->
+    test 'Good input, single argument', !(done) ->
         for data in DATE_DATA
             util.toISODate data.zh .should.eql data.date
+        done!
+
+describe 'Test normalizePageCharset', !->
+    utf8 = void
+    big5 = void
+    big5_no_quoted = void
+
+    before !(done) ->
+        utf8 := fs.readFileSync "#__dirname/data/utf8.html"
+        big5 := fs.readFileSync "#__dirname/data/big5.html"
+        big5_no_quoted := fs.readFileSync "#__dirname/data/big5_no_quoted.html"
+        done!
+
+    test 'Normalize big5 page, no quoted', !(done) ->
+        util.normalizePageCharset big5 .should.eql utf8.toString!
+        done!
+
+    test 'Normalize big5 page, quoted', !(done) ->
+        util.normalizePageCharset big5_no_quoted .should.eql utf8.toString!
+        done!
+
+    test 'Normalize utf-8 page', !(done) ->
+        util.normalizePageCharset utf8 .should.eql utf8.toString!
+        done!

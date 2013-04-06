@@ -1,4 +1,4 @@
-require!{sprintf}
+require!<[iconv-lite sprintf]>
 
 const ZH_DIGIT =
     零: 0
@@ -93,4 +93,12 @@ toISODate = ->
 
     sprintf.sprintf '%04d-%02d-%02d', year + 1911, month, date
 
-module.exports = { parseZHNumber, toISODate }
+normalizePageCharset = (buf) ->
+    # grep first 0x400 bytes to see if there is charset=?
+    head = buf.toString \utf-8, 0, 0x400
+
+    if head == /charset=["']?big5["']?/i
+        return iconvLite.decode buf, \big5 .replace /charset=["']?big5["']?/i, \charset='utf-8'
+    return buf.toString!
+
+module.exports = { parseZHNumber, toISODate, normalizePageCharset }
