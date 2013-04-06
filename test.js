@@ -4,7 +4,7 @@ var optimist = require('optimist');
 var path = require('path');
 var shell = require('shelljs');
 
-var bin = ['./node_modules', '.bin'].join(path.sep);
+var bin = ['node_modules', '.bin'].join(path.sep);
 
 var lsc = [bin, 'lsc'].join(path.sep);
 var mocha = [bin, 'mocha'].join(path.sep);
