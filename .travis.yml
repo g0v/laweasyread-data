@@ -7,4 +7,6 @@ services:
 
 script:
     - npm test
+    - ./node_modules/.bin/lsc parser/law_parser.ls
+    - ./node_modules/.bin/lsc parser/pcode_parser.ls
     - ./node_modules/.bin/lsc import.ls
