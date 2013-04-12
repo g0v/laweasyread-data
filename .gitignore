@@ -2,6 +2,7 @@
 *.swp
 /node_modules
 
+!/gruntfile.js
 !/index.js
 !/prepublish.js
 !/test.js
