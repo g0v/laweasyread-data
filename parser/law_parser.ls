@@ -8,14 +8,12 @@ updateName = (name_array, new_name, date) ->
             return
     name_array.push { name: new_name, start_date: date }
 
-updateHistory = (all_history, history) ->
-    for item, index in all_history
-        if moment item.passed_date .isAfter history.passed_date
-            all_history.slice index, 0, history
-            return
-        else if item.passed_date == history.passed_date
-            return
-    all_history.push history
+updateHistory = (history, date, reason) ->
+    if history[date] != void
+        if history[date] != reason
+            history[date] .= "\n#reason"
+        return
+    history[date] = reason
 
 updateArticle = (all_article, article) ->
     for item, index in all_article
@@ -39,7 +37,7 @@ parseHTML = (path, opts) ->
     ret =
         statute:
             name: []
-            history: []
+            history: {}
         article: []
 
     for file in fs.readdirSync path
@@ -50,79 +48,120 @@ parseHTML = (path, opts) ->
         html = fs.readFileSync "#path/#file"
 
         var passed_date
-        var unknown_date
-        var history
 
         article_no = "1"
         var article
+        articleStart = false
+
+        var date
+        var reason
 
         for line in html / '\n'
             match line
             | /<title>法編號:(\d{5})\s+版本:(\d{3})(\d{2})(\d{2})\d{2}/
-                winston.info "Match lyID, version"
                 # 版本是 民國年(3) + 月(2) + 日(2) + 兩數字 組成
                 # We use ISO-8601 format as statute version
                 ret.statute.lyID = that.1
                 passed_date = util.toISODate that.2, that.3, that.4
 
+                winston.info "Match lyID #{ret.statute.lyID}, version #{passed_date}"
+
             | /<FONT COLOR=blue SIZE=5>([^(（]+)/
-                winston.info "Match name"
+                name = that.1
+                winston.info "Found name: #name"
                 updateName ret.statute.name, that.1, passed_date
 
-            | /<a href.*<font size=2>(中華民國 \d+ 年 \d+ 月 \d+ 日)/
-                winston.info "Match pass date"
+            | /<font size=2>(中華民國 \d+ 年 \d+ 月 \d+ 日)(.*)?<\/font/
+                if date and reason
+                    updateHistory ret.statute.history, date, reason
+                    date = void
+                    reason = void
+
+                if date
+                    winston.warn "Found orphan date: #date"
                 date = util.toISODate that.1
-                if history
-                    updateHistory ret.statute.history, history
-                history =
-                    passed_date: date
+                winston.info "Found date #date"
 
-            | /<font size=2>(中華民國 \d+ 年 \d+ 月 \d+ 日)(公布|施行)/
-                winston.info "Match enactment / enforcement date"
-                date = util.toISODate that.1
+                if that.2
+                    if reason
+                        winston.warn "Found orphan reason: #reason"
+                    reason = that
+                    winston.info "Found reason #reason"
 
-                match that.2
-                | "公布"
-                    if history.enactment_date == void
-                        history.enactment_date = date
-                    else
-                        winston.warn "Found another enactment date in #path/#file"
-                | "施行"
-                    if history.enforcement_date == void
-                        history.enforcement_date = date
-                    else
-                        winston.warn "Found another enforcement date in #path/#file"
+                    updateHistory ret.statute.history, date, reason
 
-            | /(中華民國 \d+ 年 \d+ 月 \d+ 日)/
-                unknown_date = util.toISODate that.0
+                    date = void
+                    reason = void
 
-            | /<font size=2>立法院通過停止適用/ => fallthrough
-            | /<font size=2>期滿當然廢止/ => fallthrough
-            | /<font size=2>廢止.*條/
-                if unknown_date
-                    if history
-                        updateHistory ret.statute.history, history
-                    history =
-                        discarded_date: unknown_date
-                    unknown_date = void
+            | /^<td valign=top><font size=2>(.+)<\/font/
+                if reason
+                    winston.warn "Found orphan reason: #reason"
+
+                reason = that.1
+                winston.info "Found reason: #reason"
+
+                if not date
+                    winston.warn "Found reason: #reason without date"
+
+                updateHistory ret.statute.history, date, reason
+
+                date = void
+                reason = void
+
+            | /^<td valign=top><font size=2>([^<]+)<br/
+                if article => break
+                winston.info "Found start of partial reason: #{that.1}"
+                if reason
+                    winston.warn "Found orphan reason: #reason"
+
+                reason = that.1
+
+            # http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=A0030133&DF=&SNo=8,9
+            #
+            # Some articles does not start with \u3000\u3000, thus they look
+            # identical to the partial reason. Because of this, we use
+            # articleStart here to distinguish article content and partial
+            # reason.
+            | /^\u3000*([^<\u3000]+)<br>(.*)$/
+                content = that.1
+                tail = that.2
+                if articleStart
+                    winston.info "Match article content"
+                    if article == void
+                        article =
+                            article: article_no
+                            lyID: ret.statute.lyID
+                            content: ""
+                            passed_date: passed_date
+                    article.content += content + "\n"
+                    article_no = 1 + parseInt article_no, 10
                 else
-                    winston.warn "Found keyword without date in #path/#file"
+                    winston.info "Found partial reason: #content"
+                    if not reason
+                        winston.warn "Found partial reason without start: #content"
 
-            | /<font size=2>立法院通過暫停適用/ => fallthrough
-            | /<font size=2>考試院令公告廢止/ => fallthrough
-            | /<font size=2>國民政府明令暫緩施行/
-                if unknown_date
-                    if history
-                        updateHistory ret.statute.history, history
-                    history =
-                        suspended: unknown_date
-                    unknown_date = void
-                else
-                    winston.warn "Found keyword without date in #path/#file"
+                    reason += '\n' + content
 
+                    if tail
+                        tail = tail.replace '<br>', '\n'
+                        reason += tail
+
+            | /^([^<\u3000]+)<\/font/
+                winston.info "Found end of partial reason: #{that.1}"
+                if not reason
+                    winston.warn "Found partial reason without start: #{that.1}"
+
+                reason += '\n' + that.1
+
+                updateHistory ret.statute.history, date, reason
+
+                date = void
+                reason = void
+
+            | /<font color=blue size=4>民國\d+年\d+月\d+日/
+                articleStart = true
 
             | /<font color=8000ff>第(.*)條(?:之(.*))?/
-                winston.info "Match article number"
                 if article
                     updateArticle ret.article, article
 
@@ -130,31 +169,21 @@ parseHTML = (path, opts) ->
                 if that.3
                     article_no += "-" + util.parseZHNumber that.3 .toString!
 
+                winston.info "Found article number #article_no"
+
                 article =
                     article: article_no
                     lyID: ret.statute.lyID
                     content: ""
                     passed_date: passed_date
 
-            # http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=A0030133&DF=&SNo=8,9
-            | /^　　(.*)<br>/
-                winston.info "Match article content"
-                if article == void
-                    article =
-                        article: article_no
-                        lyID: ret.statute.lyID
-                        content: ""
-                        passed_date: passed_date
-                article.content += that.1 + "\n"
-                article_no = 1 + parseInt article_no, 10
-
-            | /^[^　]/
+            | /^</
                 if article and article.content != ""
                     updateArticle ret.article, article
-                article = void
+                    article = void
 
-        if history
-            updateHistory ret.statute.history, history
+        if date or reason
+            winston.warn "Found orphan date: #date or reason: #reason"
 
         if article
             updateArticle ret.article, article
@@ -187,13 +216,15 @@ createLookupPCodeFunc = (path, callback) ->
 main = ->
     argv = optimist .default {
         rawdata: "#__dirname/../rawdata/utf8_lawstat/version2"
-        output: "#__dirname/../data/law"
+        data: "#__dirname/../data/law"
         pcode: "#__dirname/../data/pcode.json"
-    } .argv
+    } .boolean \verbose .alias \v, \verbose
+        .argv
 
-    wonston
-        .remove winston.transports.Console
-        .add winston.transports.Console, { level: \warn }
+    if not argv.verbose
+        winston
+            .remove winston.transports.Console
+            .add winston.transports.Console, { level: \warn }
 
     (err, lookupPCode) <- createLookupPCodeFunc argv.pcode
     if err => winston.warn err; lookupPCode = -> void
@@ -201,7 +232,7 @@ main = ->
     for path in fs.readdirSync argv.rawdata
         indir = "#{argv.rawdata}/#path"
         m = path.match /([^/]+)\/?$/
-        outdir = "#{argv.output}/#{m.1}"
+        outdir = "#{argv.data}/#{m.1}"
 
         if not fs.statSync(indir).isDirectory() => continue
 
