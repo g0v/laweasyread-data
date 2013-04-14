@@ -5,20 +5,10 @@
       "start_date": "1991-06-29"
     }
   ],
-  "history": [
-    {
-      "passed_date": "1991-06-29",
-      "enactment_date": "1991-06-29"
-    },
-    {
-      "passed_date": "2010-05-04",
-      "enactment_date": "2010-05-19"
-    },
-    {
-      "passed_date": "2011-11-04",
-      "enactment_date": "2011-11-04"
-    }
-  ],
+  "history": {
+    "2010-05-04": "修正第79條",
+    "2010-05-19": "公布"
+  },
   "lyID": "01183",
   "PCode": "D0080067"
 }

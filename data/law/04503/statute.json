@@ -9,21 +9,11 @@
       "start_date": "1943-07-20"
     }
   ],
-  "history": [
-    {
-      "passed_date": "1938-01-22",
-      "enactment_date": "1938-01-22"
-    },
-    {
-      "passed_date": "1938-07-19",
-      "enactment_date": "1938-07-30",
-      "enforcement_date": "1943-07-20"
-    },
-    {
-      "passed_date": "1943-07-20",
-      "enactment_date": "1943-07-20"
-    }
-  ],
+  "history": {
+    "1938-07-19": "修正全文10條",
+    "1938-07-30": "公布",
+    "1943-07-20": "公布"
+  },
   "lyID": "04503",
   "PCode": "A0010054"
 }
