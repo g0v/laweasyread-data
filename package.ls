@@ -20,6 +20,7 @@ dependencies:
     request: \~2.16.6
     sprintf: \~0.1.1
     shelljs: \~0.1.2
+    winston: \~0.6.2
 devDependencies:
     growl: \~1.7.0
     grunt: \~0.4.1

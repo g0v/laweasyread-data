@@ -1,4 +1,4 @@
-require!{fs, mkdirp, moment, optimist, \../lib/util}
+require!<[fs mkdirp moment optimist winston ../lib/util]>
 
 updateName = (name_array, new_name, date) ->
     for name in name_array
@@ -45,7 +45,7 @@ parseHTML = (path, opts) ->
     for file in fs.readdirSync path
         if /\d+\.htm/ != file
             continue
-        #console.log "Process #path/#file"
+        winston.info "Process #path/#file"
 
         html = fs.readFileSync "#path/#file"
 
@@ -59,18 +59,18 @@ parseHTML = (path, opts) ->
         for line in html / '\n'
             match line
             | /<title>法編號:(\d{5})\s+版本:(\d{3})(\d{2})(\d{2})\d{2}/
-                # console.log "Match lyID, version"
+                winston.info "Match lyID, version"
                 # 版本是 民國年(3) + 月(2) + 日(2) + 兩數字 組成
                 # We use ISO-8601 format as statute version
                 ret.statute.lyID = that.1
                 passed_date = util.toISODate that.2, that.3, that.4
 
             | /<FONT COLOR=blue SIZE=5>([^(（]+)/
-                # console.log "Match name"
+                winston.info "Match name"
                 updateName ret.statute.name, that.1, passed_date
 
             | /<a href.*<font size=2>(中華民國 \d+ 年 \d+ 月 \d+ 日)/
-                # console.log "Match pass date"
+                winston.info "Match pass date"
                 date = util.toISODate that.1
                 if history
                     updateHistory ret.statute.history, history
@@ -78,7 +78,7 @@ parseHTML = (path, opts) ->
                     passed_date: date
 
             | /<font size=2>(中華民國 \d+ 年 \d+ 月 \d+ 日)(公布|施行)/
-                #console.log "Match enactment / enforcement date"
+                winston.info "Match enactment / enforcement date"
                 date = util.toISODate that.1
 
                 match that.2
@@ -86,12 +86,12 @@ parseHTML = (path, opts) ->
                     if history.enactment_date == void
                         history.enactment_date = date
                     else
-                        console.error "Found another enactment date in #path/#file"
+                        winston.warn "Found another enactment date in #path/#file"
                 | "施行"
                     if history.enforcement_date == void
                         history.enforcement_date = date
                     else
-                        console.error "Found another enforcement date in #path/#file"
+                        winston.warn "Found another enforcement date in #path/#file"
 
             | /(中華民國 \d+ 年 \d+ 月 \d+ 日)/
                 unknown_date = util.toISODate that.0
@@ -106,7 +106,7 @@ parseHTML = (path, opts) ->
                         discarded_date: unknown_date
                     unknown_date = void
                 else
-                    console.error "Found keyword without date in #path/#file"
+                    winston.warn "Found keyword without date in #path/#file"
 
             | /<font size=2>立法院通過暫停適用/ => fallthrough
             | /<font size=2>考試院令公告廢止/ => fallthrough
@@ -118,11 +118,11 @@ parseHTML = (path, opts) ->
                         suspended: unknown_date
                     unknown_date = void
                 else
-                    console.error "Found keyword without date in #path/#file"
+                    winston.warn "Found keyword without date in #path/#file"
 
 
             | /<font color=8000ff>第(.*)條(?:之(.*))?/
-                #console.log "Match article number"
+                winston.info "Match article number"
                 if article
                     updateArticle ret.article, article
 
@@ -138,7 +138,7 @@ parseHTML = (path, opts) ->
 
             # http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=A0030133&DF=&SNo=8,9
             | /^　　(.*)<br>/
-                #console.log "Match article content"
+                winston.info "Match article content"
                 if article == void
                     article =
                         article: article_no
@@ -191,8 +191,12 @@ main = ->
         pcode: "#__dirname/../data/pcode.json"
     } .argv
 
+    wonston
+        .remove winston.transports.Console
+        .add winston.transports.Console, { level: \warn }
+
     (err, lookupPCode) <- createLookupPCodeFunc argv.pcode
-    if err => console.error err; lookupPCode = -> void
+    if err => winston.warn err; lookupPCode = -> void
 
     for path in fs.readdirSync argv.rawdata
         indir = "#{argv.rawdata}/#path"
@@ -201,15 +205,15 @@ main = ->
 
         if not fs.statSync(indir).isDirectory() => continue
 
-        console.log "Process #indir"
+        winston.info "Process #indir"
         data = parseHTML indir, {
             lookupPCode: lookupPCode
         }
 
         mkdirp.sync outdir
-        console.log "Write #outdir/article.json"
+        winston.info "Write #outdir/article.json"
         fs.writeFileSync "#outdir/article.json", JSON.stringify data.article, '', 2
-        console.log "Write #outdir/statute.json"
+        winston.info "Write #outdir/statute.json"
         fs.writeFileSync "#outdir/statute.json", JSON.stringify data.statute, '', 2
 
 main!
