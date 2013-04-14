@@ -109,12 +109,12 @@ parseHTML = (path, opts) ->
                 reason = void
 
             | /^<td valign=top><font size=2>([^<]+)<br/
-                if article => break
-                winston.info "Found start of partial reason: #{that.1}"
+                content = that.1
+                winston.info "Found start of partial reason: #content"
                 if reason
                     winston.warn "Found orphan reason: #reason"
 
-                reason = that.1
+                reason = content
 
             # http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=A0030133&DF=&SNo=8,9
             #
@@ -147,11 +147,12 @@ parseHTML = (path, opts) ->
                         reason += tail
 
             | /^([^<\u3000]+)<\/font/
-                winston.info "Found end of partial reason: #{that.1}"
+                content = that.1
+                winston.info "Found end of partial reason: #content"
                 if not reason
-                    winston.warn "Found partial reason without start: #{that.1}"
+                    winston.warn "Found partial reason without start: #content"
 
-                reason += '\n' + that.1
+                reason += '\n' + content
 
                 updateHistory ret.statute.history, date, reason
 
