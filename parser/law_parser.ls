@@ -32,7 +32,7 @@ fixupData = (data, opts) ->
             start_date: \1943-08-28
         }
 
-    data.statute.PCode = opts.pcode_lookup data.statute
+    data.statute.PCode = opts.lookupPCode data.statute
     data
 
 parseHTML = (path, opts) ->
@@ -161,7 +161,7 @@ parseHTML = (path, opts) ->
 
     fixupData ret, opts
 
-create_pcode_mapping = (path, callback) ->
+createPCodeMapping = (path, callback) ->
     err, data <- fs.readFile path
     if err => return callback err
     data = JSON.parse data
@@ -170,12 +170,12 @@ create_pcode_mapping = (path, callback) ->
         ret[item.name] = item.PCode
     callback null, ret
 
-create_pcode_lookup_func = (path, callback) ->
-    err, pcode_mapping <- create_pcode_mapping path
+createLookupPCodeFunc = (path, callback) ->
+    err, pcodeMapping <- createPCodeMapping path
     if err => return callback err
     callback null, (statute) ->
         for i, item of statute.name
-            if pcode_mapping[item.name] != void => return pcode_mapping[item.name]
+            if pcodeMapping[item.name] != void => return pcodeMapping[item.name]
         switch statute.lyID
         | \04507 => fallthrough
         | \04509 => fallthrough
@@ -191,8 +191,8 @@ main = ->
         pcode: "#__dirname/../data/pcode.json"
     } .argv
 
-    (err, pcode_lookup) <- create_pcode_lookup_func argv.pcode
-    if err => console.error err; pcode_lookup = -> void
+    (err, lookupPCode) <- createLookupPCodeFunc argv.pcode
+    if err => console.error err; lookupPCode = -> void
 
     for path in fs.readdirSync argv.rawdata
         indir = "#{argv.rawdata}/#path"
@@ -203,7 +203,7 @@ main = ->
 
         console.log "Process #indir"
         data = parseHTML indir, {
-            pcode_lookup: pcode_lookup
+            lookupPCode: lookupPCode
         }
 
         mkdirp.sync outdir
