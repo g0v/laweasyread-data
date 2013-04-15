@@ -211,8 +211,10 @@ createLookupPCodeFunc = (path, callback) ->
         | \04509 => fallthrough
         | \04511 => fallthrough
         | \04513 => fallthrough
-        | \04515 => return \B0000001
-        void
+        | \04515 => \B0000001
+        | \04311 => \A0020001
+        | \04318 => \D0020053
+        |_ => void
 
 main = ->
     argv = optimist .default {
