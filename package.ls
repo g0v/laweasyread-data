@@ -12,7 +12,7 @@ dependencies:
     async: \~0.2.6
     file : \~0.2.1
     \fs-tools : \~0.2.10
-    iconv-lite: \git://github.com/czchen/iconv-lite.git#big5
+    'iconv-lite': \~0.2.11
     mkdirp: \~0.3.5
     moment: \~2.0.0
     mongodb: \~1.2.14
