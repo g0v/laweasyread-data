@@ -178,6 +178,14 @@ parseHTML = (path, opts) ->
                     content: ""
                     passed_date: passed_date
 
+            | /^(?:(&nbsp;)+)<font size=2>\((.+)\)<\/font/
+                article_title = that.3
+                if articleStart and article
+                    winston.info "Found article title #article_title"
+                    article.title = article_title
+                else
+                    winston.warn "Found partial article title without start: #article_title"
+
             | /^</
                 if article and article.content != ""
                     updateArticle ret.article, article
