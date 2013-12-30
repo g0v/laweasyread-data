@@ -146,6 +146,14 @@ parseHTML = (path, opts) ->
                         tail = tail.replace '<br>', '\n'
                         reason += tail
 
+            | /^(\&nbsp\;)*<font size=2>\((.+)\)<\/font>/
+                article_title = that.2
+                if article
+                    winston.info "Found article title #article_title"
+                    article.title = util.normalizePunctuations article_title
+                else
+                    winston.warn "Found partial article title without start: #article_title"
+
             | /^([^<\u3000]+)<\/font/
                 content = that.1
                 winston.info "Found end of partial reason: #content"
@@ -177,14 +185,6 @@ parseHTML = (path, opts) ->
                     lyID: ret.statute.lyID
                     content: ""
                     passed_date: passed_date
-
-            | /^(?:(&nbsp;)+)<font size=2>\((.+)\)<\/font/
-                article_title = that.3
-                if articleStart and article
-                    winston.info "Found article title #article_title"
-                    article.title = article_title
-                else
-                    winston.warn "Found partial article title without start: #article_title"
 
             | /^</
                 if article and article.content != ""
