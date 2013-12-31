@@ -20,6 +20,8 @@ updateArticle = (all_article, article) ->
         if item.article == article.article && item.content == article.content
             if moment item.passed_date .isAfter article.passed_date
                 item.passed_date = article.passed_date
+            if article.title and not item.title
+                item.title = article.title
             return
     all_article.push article
 
@@ -182,6 +184,14 @@ parseHTML = (path, opts) ->
                 if article and article.content != ""
                     updateArticle ret.article, article
                     article = void
+
+            | /<font size=2>\(([^<]+)\)<\/font/
+                article_title = that.1
+                if article
+                    winston.info "Found article title #article_title"
+                    article.title = util.normalizePunctuations article_title
+                else
+                    winston.warn "Found partial article title without start: #article_title"
 
         if date or reason
             winston.warn "Found orphan date: #date or reason: #reason"

@@ -33,6 +33,10 @@ const ZH_SUBUNIT =
 const ZH_UNIT =
     萬: 1_0000
 
+const ZH_PUNCTUATIONS =
+    '（': /︵/g
+    '）': /︶/g
+
 parseZHNumber = ->
     digit = void
     subtotal = 0
@@ -101,4 +105,10 @@ normalizePageCharset = (buf) ->
         return iconvLite.decode buf, \big5 .replace /charset=["']?big5["']?/i, \charset='utf-8'
     return buf.toString!
 
-module.exports = { parseZHNumber, toISODate, normalizePageCharset }
+normalizePunctuations = ->
+    normalized = it
+    for target, re in ZH_PUNCTUATIONS
+        normalized = normalized.replace re, target
+    normalized
+
+module.exports = { parseZHNumber, toISODate, normalizePageCharset, normalizePunctuations }
