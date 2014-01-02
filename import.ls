@@ -16,7 +16,7 @@ create_task = (db, collection_name, files) ->
             callback null, !(callback) ->
                 console.log "Write #file"
                 data = fs.readFileSync file, \utf8 |> JSON.parse
-                err <-! collection.insert data, { safe: true }  # HACK: Mongo drops inserts?
+                err <-! collection.insert data, { fsync: true }  # HACK: Mongo drops inserts?
                 callback err
         if err => return callback err
 
@@ -42,10 +42,6 @@ main = !->
     err, db <-! mongodb.Db.connect argv.mongo_uri, MONGO_OPTS
     if err => return callback err
     callback := create_db_close_callback db, callback
-
-    /* console.log 'Drop database'
-    err <-! db.dropDatabase
-    if err => return callback err */
 
     filelist =
         article: []
