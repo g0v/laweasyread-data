@@ -136,7 +136,7 @@ parseHTML = (path, opts) ->
                             content: ""
                             passed_date: passed_date
                     article.content += content + "\n"
-                    article_no = 1 + parseInt article_no, 10
+                    #article_no = 1 + parseInt article_no, 10
                 else
                     winston.info "Found partial reason: #content"
                     if not reason
