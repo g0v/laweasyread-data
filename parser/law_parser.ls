@@ -128,7 +128,7 @@ parseHTML = (path, opts) ->
                 content = that.1
                 tail = that.2
                 if articleStart
-                    winston.info "Match article content"
+                    winston.info "Match article content #content"
                     if article == void
                         article =
                             article: article_no
@@ -136,7 +136,6 @@ parseHTML = (path, opts) ->
                             content: ""
                             passed_date: passed_date
                     article.content += content + "\n"
-                    article_no = 1 + parseInt article_no, 10
                 else
                     winston.info "Found partial reason: #content"
                     if not reason
@@ -164,13 +163,13 @@ parseHTML = (path, opts) ->
             | /<font color=blue size=4>民國\d+年\d+月\d+日/
                 articleStart = true
 
-            | /<font color=8000ff>第(.*)條(?:之(.*))?/
+            | /<font color=8000ff>第([^<]+)條之?([^<]+)?/
                 if article
                     updateArticle ret.article, article
 
                 article_no = util.parseZHNumber that.1 .toString!
-                if that.3
-                    article_no += "-" + util.parseZHNumber that.3 .toString!
+                if that.2
+                    article_no += "-" + util.parseZHNumber that .toString!
 
                 winston.info "Found article number #article_no"
 

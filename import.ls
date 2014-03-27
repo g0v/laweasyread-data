@@ -9,15 +9,18 @@ create_task = (db, collection_name, files) ->
         err, collection <-! db.collection collection_name
         if err => return callback err
 
+        console.log "Dropping old entries"
+        collection.remove
+
         err, subtask <-! async.map files, (file, callback) ->
             callback null, !(callback) ->
                 console.log "Write #file"
                 data = fs.readFileSync file, \utf8 |> JSON.parse
-                err <-! collection.insert data
+                err <-! collection.insert data, { fsync: true }  # HACK: Mongo drops inserts?
                 callback err
         if err => return callback err
 
-        err <-! async.parallel subtask
+        err <-! async.series subtask
         callback err
 
 create_db_close_callback = (db, callback) ->
@@ -39,10 +42,6 @@ main = !->
     err, db <-! mongodb.Db.connect argv.mongo_uri, MONGO_OPTS
     if err => return callback err
     callback := create_db_close_callback db, callback
-
-    console.log 'Drop database'
-    err <-! db.dropDatabase
-    if err => return callback err
 
     filelist =
         article: []
